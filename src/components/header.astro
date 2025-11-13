@@ -1,0 +1,31 @@
+---
+import { ArrowUpRightIcon } from "lucide-react";
+import HeaderLink from "./header-link.astro";
+import { ThemeToggle } from "./ui/theme-toggle";
+import { CONFIG } from "@/lib/constants";
+---
+
+<header
+  class="border-b p-4 fixed top-0 w-screen bg-background z-50"
+  transition:animate="none"
+>
+  <nav class="wrapper mx-auto flex items-center justify-between">
+    <h2 class="text-lg font-medium hover:opacity-80 transition-opacity">
+      <a href="/">{CONFIG.site.title}</a>
+    </h2>
+    <div class="items-center flex gap-2">
+      <div class="flex gap-1">
+        <HeaderLink href="/">Tételek</HeaderLink>
+        <HeaderLink
+          href="https://github.com/itsbrunodev/erettsegi-tetelek"
+          target="_blank"
+          rel="noopener"
+        >
+          GitHub
+          <ArrowUpRightIcon />
+        </HeaderLink>
+      </div>
+      <ThemeToggle client:load />
+    </div>
+  </nav>
+</header>

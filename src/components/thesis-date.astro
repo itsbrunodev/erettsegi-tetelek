@@ -1,0 +1,28 @@
+---
+import type { Thesis, ThesisType } from "@/lib/types";
+import { cn, formatDate } from "@/lib/utils";
+
+interface Props {
+  type: ThesisType;
+  id: Thesis["id"];
+  class?: string;
+  startDate?: Thesis["data"]["startDate"];
+  endDate?: Thesis["data"]["endDate"];
+}
+
+const { class: className, type, id, startDate, endDate } = Astro.props;
+---
+
+{
+  startDate && endDate && (
+    <p
+      class={cn(
+        "text-muted-foreground text-sm mt-1 tabular-nums sm:[&>span]:underline [&>span]:decoration-dotted [&>span]:cursor-help",
+        className
+      )}
+    >
+      <span title={startDate.description}>{formatDate(startDate.date)}</span> -{" "}
+      <span title={endDate.description}>{formatDate(endDate.date)}</span>
+    </p>
+  )
+}

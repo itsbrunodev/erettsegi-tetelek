@@ -1,0 +1,139 @@
+@import "tailwindcss";
+@import "tw-animate-css";
+
+@plugin "@tailwindcss/typography";
+
+@custom-variant dark (&:is(.dark *));
+
+html,
+body {
+  @media (prefers-color-scheme: dark) {
+    color-scheme: dark;
+  }
+}
+
+@theme inline {
+  --font-sans: "Inter", sans-serif;
+  --radius-sm: calc(var(--radius) - 4px);
+  --radius-md: calc(var(--radius) - 2px);
+  --radius-lg: var(--radius);
+  --radius-xl: calc(var(--radius) + 4px);
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --color-card: var(--card);
+  --color-card-foreground: var(--card-foreground);
+  --color-popover: var(--popover);
+  --color-popover-foreground: var(--popover-foreground);
+  --color-primary: var(--primary);
+  --color-primary-foreground: var(--primary-foreground);
+  --color-secondary: var(--secondary);
+  --color-secondary-foreground: var(--secondary-foreground);
+  --color-muted: var(--muted);
+  --color-muted-foreground: var(--muted-foreground);
+  --color-accent: var(--accent);
+  --color-accent-foreground: var(--accent-foreground);
+  --color-destructive: var(--destructive);
+  --color-border: var(--border);
+  --color-input: var(--input);
+  --color-ring: var(--ring);
+  --color-chart-1: var(--chart-1);
+  --color-chart-2: var(--chart-2);
+  --color-chart-3: var(--chart-3);
+  --color-chart-4: var(--chart-4);
+  --color-chart-5: var(--chart-5);
+  --color-sidebar: var(--sidebar);
+  --color-sidebar-foreground: var(--sidebar-foreground);
+  --color-sidebar-primary: var(--sidebar-primary);
+  --color-sidebar-primary-foreground: var(--sidebar-primary-foreground);
+  --color-sidebar-accent: var(--sidebar-accent);
+  --color-sidebar-accent-foreground: var(--sidebar-accent-foreground);
+  --color-sidebar-border: var(--sidebar-border);
+  --color-sidebar-ring: var(--sidebar-ring);
+}
+
+:root {
+  --radius: 0.75rem;
+  --background: oklch(1 0 0);
+  --foreground: oklch(0.145 0 0);
+  --card: oklch(1 0 0);
+  --card-foreground: oklch(0.145 0 0);
+  --popover: oklch(1 0 0);
+  --popover-foreground: oklch(0.145 0 0);
+  --primary: oklch(0.205 0 0);
+  --primary-foreground: oklch(0.985 0 0);
+  --secondary: oklch(0.97 0 0);
+  --secondary-foreground: oklch(0.205 0 0);
+  --muted: oklch(0.97 0 0);
+  --muted-foreground: oklch(0.556 0 0);
+  --accent: oklch(0.97 0 0);
+  --accent-foreground: oklch(0.205 0 0);
+  --destructive: oklch(0.577 0.245 27.325);
+  --border: oklch(0.922 0 0);
+  --input: oklch(0.922 0 0);
+  --ring: oklch(0.708 0 0);
+  --chart-1: oklch(0.646 0.222 41.116);
+  --chart-2: oklch(0.6 0.118 184.704);
+  --chart-3: oklch(0.398 0.07 227.392);
+  --chart-4: oklch(0.828 0.189 84.429);
+  --chart-5: oklch(0.769 0.188 70.08);
+  --sidebar: oklch(0.985 0 0);
+  --sidebar-foreground: oklch(0.145 0 0);
+  --sidebar-primary: oklch(0.205 0 0);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.97 0 0);
+  --sidebar-accent-foreground: oklch(0.205 0 0);
+  --sidebar-border: oklch(0.922 0 0);
+  --sidebar-ring: oklch(0.708 0 0);
+}
+
+.dark {
+  --background: oklch(0.145 0 0);
+  --foreground: oklch(0.985 0 0);
+  --card: oklch(0.205 0 0);
+  --card-foreground: oklch(0.985 0 0);
+  --popover: oklch(0.205 0 0);
+  --popover-foreground: oklch(0.985 0 0);
+  --primary: oklch(0.922 0 0);
+  --primary-foreground: oklch(0.205 0 0);
+  --secondary: oklch(0.269 0 0);
+  --secondary-foreground: oklch(0.985 0 0);
+  --muted: oklch(0.269 0 0);
+  --muted-foreground: oklch(0.708 0 0);
+  --accent: oklch(0.269 0 0);
+  --accent-foreground: oklch(0.985 0 0);
+  --destructive: oklch(0.704 0.191 22.216);
+  --border: oklch(1 0 0 / 10%);
+  --input: oklch(1 0 0 / 15%);
+  --ring: oklch(0.556 0 0);
+  --chart-1: oklch(0.488 0.243 264.376);
+  --chart-2: oklch(0.696 0.17 162.48);
+  --chart-3: oklch(0.769 0.188 70.08);
+  --chart-4: oklch(0.627 0.265 303.9);
+  --chart-5: oklch(0.645 0.246 16.439);
+  --sidebar: oklch(0.205 0 0);
+  --sidebar-foreground: oklch(0.985 0 0);
+  --sidebar-primary: oklch(0.488 0.243 264.376);
+  --sidebar-primary-foreground: oklch(0.985 0 0);
+  --sidebar-accent: oklch(0.269 0 0);
+  --sidebar-accent-foreground: oklch(0.985 0 0);
+  --sidebar-border: oklch(1 0 0 / 10%);
+  --sidebar-ring: oklch(0.556 0 0);
+}
+
+@layer base {
+  * {
+    @apply border-border outline-ring/50 scroll-mt-24;
+  }
+
+  body {
+    @apply bg-background text-foreground overflow-y-scroll;
+  }
+
+  .wrapper {
+    @apply lg:max-w-4xl md:max-w-3xl max-w-xl;
+  }
+
+  .typography {
+    @apply prose prose-neutral dark:prose-invert max-w-none /* Base */ leading-relaxed text-base /* Headings */ prose-headings:text-foreground prose-headings:font-semibold prose-h1:text-3xl prose-h1:font-bold prose-h1:mb-4 prose-h1:mt-8 prose-h1:leading-tight prose-h1:tracking-tight prose-h2:text-2xl prose-h2:mb-3 prose-h2:mt-8 prose-h2:leading-tight prose-h2:tracking-tight prose-h3:text-xl prose-h3:mb-2 prose-h3:mt-6 prose-h3:leading-snug prose-h4:text-lg prose-h4:mb-2 prose-h4:mt-4 prose-h4:leading-snug prose-h5:text-base prose-h5:mb-2 prose-h5:mt-4 prose-h5:leading-normal prose-h6:text-sm prose-h6:mb-2 prose-h6:mt-4 prose-h6:leading-normal prose-h6:uppercase prose-h6:tracking-wide /* Paragraphs */ prose-p:mb-4 prose-p:leading-relaxed prose-p:text-foreground/80 /* Links */ prose-a:text-primary prose-a:no-underline prose-a:hover:underline prose-a:font-medium prose-a:transition-colors prose-a:hover:text-primary/80 /* Lists */ prose-ul:my-4 prose-ul:pl-4 prose-ul:space-y-1 prose-ul:marker:text-muted-foreground prose-ol:my-4 prose-ol:pl-4 prose-ol:space-y-1 prose-ol:marker:text-muted-foreground prose-li:leading-relaxed prose-li:pl-0 prose-li:text-foreground/80 /* Blockquotes */ prose-blockquote:border-l-4 prose-blockquote:border-border prose-blockquote:pl-4 prose-blockquote:my-4 prose-blockquote:italic prose-blockquote:text-muted-foreground /* Code */ prose-code:bg-muted prose-code:text-foreground prose-code:px-1.5 prose-code:py-0.5 prose-code:rounded prose-code:text-sm prose-code:font-mono prose-code:before:content-none prose-code:after:content-none /* Code blocks */ prose-pre:bg-card prose-pre:text-card-foreground prose-pre:border prose-pre:border-border prose-pre:rounded-md prose-pre:p-4 prose-pre:my-4 prose-pre:overflow-x-auto /* Tables */ prose-table:w-full prose-table:my-6 prose-table:border-collapse prose-thead:border-b-2 prose-thead:border-border prose-th:text-left prose-th:font-semibold prose-th:p-3 prose-th:text-sm prose-th:uppercase prose-th:tracking-wide prose-th:text-muted-foreground prose-td:p-3 prose-td:border-b prose-td:border-border prose-td:text-foreground/80 /* Horizontal rules */ prose-hr:my-8 prose-hr:border-border /* Strong and emphasis */ prose-strong:font-semibold prose-strong:text-foreground prose-em:italic prose-em:text-foreground /* Images and figures */ prose-img:rounded-md prose-img:my-6 prose-figure:my-6 prose-figcaption:text-sm prose-figcaption:text-muted-foreground prose-figcaption:text-center prose-figcaption:mt-2 prose-figcaption:italic /* Definition lists */ prose-dl:my-4 prose-dt:font-semibold prose-dt:mt-4 prose-dt:mb-1 prose-dt:text-foreground/80 prose-dd:ml-6 prose-dd:mb-2 prose-dd:text-muted-foreground;
+  }
+}

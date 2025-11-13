@@ -1,0 +1,43 @@
+---
+import type { HTMLAttributes } from "astro/types";
+
+import { Link } from "./ui/link";
+
+type Props = HTMLAttributes<"a">;
+
+const { href } = Astro.props;
+
+const base = import.meta.env.BASE_URL ?? "/";
+
+function decodeURIComponentSafe(s: string) {
+  try {
+    return decodeURIComponent(s);
+  } catch {
+    return s;
+  }
+}
+
+function normalizePath(path: string) {
+  let p = decodeURIComponentSafe(path.split(/[?#]/)[0]);
+  if (base !== "/" && p.startsWith(base)) p = p.slice(base.length);
+  if (!p.startsWith("/")) p = "/" + p;
+  if (p.length > 1 && p.endsWith("/")) p = p.slice(0, -1);
+  return p;
+}
+
+const current = normalizePath(Astro.url.pathname);
+const target = normalizePath((href || "/") as string);
+
+const isActive =
+  target === "/"
+    ? current === "/"
+    : current === target || current.startsWith(target + "/");
+---
+
+<Link
+  {...Astro.props}
+  href={href as string}
+  variant={isActive ? "default" : "ghost"}
+>
+  <slot />
+</Link>

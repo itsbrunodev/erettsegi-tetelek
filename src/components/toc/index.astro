@@ -1,0 +1,46 @@
+---
+import TocItem from "./item.astro";
+
+interface Heading {
+  depth: number;
+  slug: string;
+  text: string;
+}
+
+interface Props {
+  headings: Heading[];
+  levels?: 1 | 2 | 3 | 4 | 5 | 6;
+}
+
+const { headings, levels = 6 } = Astro.props as Props;
+
+const filteredHeadings = headings.filter((h) => h.depth <= levels);
+
+type Node = Heading & { children: Node[] };
+
+const root: Node[] = [];
+const stack: Node[] = [];
+
+for (const h of filteredHeadings) {
+  const node: Node = { ...h, children: [] };
+
+  while (stack.length && h.depth <= stack[stack.length - 1].depth) {
+    stack.pop();
+  }
+
+  if (stack.length === 0) {
+    root.push(node);
+  } else {
+    stack[stack.length - 1].children.push(node);
+  }
+
+  stack.push(node);
+}
+---
+
+<div class="pb-6 border-b mb-6 space-y-4">
+  <h3 class="text-2xl font-bold not-prose text-foreground">Tartalomjegyzék</h3>
+  <nav class="not-prose" aria-label="Tartalomjegyzék">
+    <TocItem items={root} />
+  </nav>
+</div>

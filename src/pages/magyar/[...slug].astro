@@ -1,0 +1,23 @@
+---
+import { type CollectionEntry, getCollection, render } from "astro:content";
+
+import Thesis from "@/layouts/thesis.astro";
+
+export async function getStaticPaths() {
+  const theses = await getCollection("magyar");
+
+  return theses.map((thesis) => ({
+    params: { slug: thesis.id },
+    props: thesis,
+  }));
+}
+
+type Props = CollectionEntry<"magyar">;
+
+const thesis = Astro.props;
+const { Content, headings } = await render(thesis);
+---
+
+<Thesis thesis={thesis} type="magyar" headings={headings}>
+  <Content />
+</Thesis>

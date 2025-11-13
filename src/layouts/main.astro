@@ -1,0 +1,32 @@
+---
+import Head from "@/components/head.astro";
+import Header from "@/components/header.astro";
+
+import { cn } from "@/lib/utils";
+
+import { CONFIG } from "@/lib/constants";
+
+interface Props {
+  title?: string;
+  description?: string;
+  class?: string;
+}
+
+const {
+  title = CONFIG.site.title,
+  description = CONFIG.site.description,
+  class: className,
+} = Astro.props;
+---
+
+<html lang="en">
+  <head>
+    <Head title={title} description={description} />
+  </head>
+  <body>
+    <Header />
+    <main class={cn("wrapper mx-auto sm:px-0 px-4 mt-24 mb-12", className)}>
+      <slot />
+    </main>
+  </body>
+</html>

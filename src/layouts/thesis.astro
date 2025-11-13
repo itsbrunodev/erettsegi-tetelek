@@ -1,0 +1,87 @@
+---
+import { Image } from "astro:assets";
+import type { CollectionEntry } from "astro:content";
+import type { MarkdownHeading } from "astro";
+
+import ReadingTime from "@/components/reading-time.astro";
+import ThesisDate from "@/components/thesis-date.astro";
+import TableOfContents from "@/components/toc/index.astro";
+import { BackButton } from "@/components/ui/back-button";
+
+import type { ThesisType } from "@/lib/types";
+
+import MainLayout from "./main.astro";
+import { CONFIG } from "@/lib/constants";
+
+type Props = {
+  thesis: CollectionEntry<ThesisType>;
+  type: ThesisType;
+  headings: MarkdownHeading[];
+};
+
+const {
+  thesis: {
+    body = "",
+    data: { title, description, startDate, endDate, coverImage },
+    id,
+  },
+  type,
+  headings,
+} = Astro.props;
+---
+
+<MainLayout title={`${title} - ${CONFIG.site.title}`} description={description}>
+  <article>
+    <BackButton href={`/${type}`} client:load />
+    {
+      coverImage && (
+        <div class="rounded-md overflow-hidden aspect-video shadow-md dark:shadow-none">
+          <Image
+            class="rounded-[inherit] aspect-[inherit] object-cover"
+            width={1020}
+            height={510}
+            src={import(`../assets/${type}/${id}/cover.jpg`)}
+            alt=""
+            draggable={false}
+            transition:name={`${type}-${id}-cover`}
+          />
+        </div>
+      )
+    }
+    <div>
+      <div class="pb-6 my-6 border-b">
+        <h1 class="text-3xl font-bold" transition:name={`${type}-${id}-title`}>
+          {title}
+        </h1>
+        <p
+          class="mt-2 text-muted-foreground"
+          transition:name={`${type}-${id}-description`}
+        >
+          {description}
+        </p>
+        <div
+          class="flex items-center gap-1 mt-1"
+          transition:name={`${type}-${id}-other`}
+        >
+          <ThesisDate
+            class="mt-0"
+            type={type}
+            id={id}
+            startDate={startDate}
+            endDate={endDate}
+          />
+          {
+            body.length > 0 && startDate && endDate && (
+              <span class="text-muted-foreground text-xs">•</span>
+            )
+          }
+          <ReadingTime class="text-sm" content={body} />
+        </div>
+      </div>
+      <div class="typography">
+        <TableOfContents headings={headings} />
+        <slot />
+      </div>
+    </div>
+  </article>
+</MainLayout>

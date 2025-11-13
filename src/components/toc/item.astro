@@ -1,0 +1,34 @@
+---
+import TocItem from "./item.astro";
+
+interface Node {
+  depth: number;
+  slug: string;
+  text: string;
+  children: Node[];
+}
+
+const { items } = Astro.props as { items: Node[] };
+---
+
+{
+  items.length > 0 && (
+    <ol class="list-decimal list-inside marker:text-muted-foreground space-y-1">
+      {items.map((item) => (
+        <li>
+          <a
+            class="transition-opacity text-foreground hover:opacity-80"
+            href={`#${item.slug}`}
+          >
+            {item.text}
+          </a>
+          {item.children.length > 0 && (
+            <div class="pl-4">
+              <TocItem items={item.children} />
+            </div>
+          )}
+        </li>
+      ))}
+    </ol>
+  )
+}

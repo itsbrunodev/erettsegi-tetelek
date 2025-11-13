@@ -1,0 +1,112 @@
+---
+import { Image } from "astro:assets";
+import { getCollection } from "astro:content";
+
+import { ThesisOrder } from "@/components/thesis-order.jsx";
+
+import type { ThesisType } from "@/lib/types";
+
+import ReadingTime from "./reading-time.astro";
+import ThesisDate from "./thesis-date.astro";
+
+interface Props {
+  type: ThesisType;
+}
+
+const { type } = Astro.props;
+
+const collator = new Intl.Collator("hu", {
+  numeric: true,
+  sensitivity: "base",
+});
+
+const theses = (await getCollection(type)).sort((a, b) =>
+  collator.compare(a.data.title, b.data.title)
+);
+
+const formattedType = type === "tortenelem" ? "történelem" : type;
+---
+
+<div class="pb-4 mb-6 border-b">
+  <div class="flex items-end justify-between">
+    <div class="flex flex-col">
+      <h1 class="text-2xl font-bold">
+        {formattedType.charAt(0).toUpperCase() + formattedType.slice(1)}
+      </h1>
+      <p class="text-muted-foreground text-sm tabular-nums">
+        {theses.length} darab
+      </p>
+    </div>
+    {type !== "matematika" && <ThesisOrder client:load />}
+  </div>
+</div>
+
+<ul id="thesis-list" class="flex flex-col gap-6">
+  {
+    theses.length === 0 ? (
+      <li class="text-muted-foreground">
+        Nincsenek még kidolgozott tételek erre a tantárgyra.
+      </li>
+    ) : (
+      theses.map((thesis) => (
+        <li
+          data-title={thesis.data.title}
+          data-start-date={
+            thesis.data.startDate ? thesis.data.startDate.date : ""
+          }
+        >
+          <a
+            class="flex sm:flex-row flex-col gap-4 sm:items-center items-start hover:opacity-80 transition-opacity"
+            href={`/${type}/${thesis.id}`}
+          >
+            <div class="aspect-video sm:w-56 w-full bg-muted rounded-md overflow-hidden shrink-0 shadow-md dark:shadow-none">
+              {thesis.data.coverImage && (
+                <Image
+                  class="rounded-[inherit] aspect-[inherit] object-cover"
+                  width={1020}
+                  height={510}
+                  src={import(`../assets/${type}/${thesis.id}/cover.jpg`)}
+                  alt=""
+                  draggable={false}
+                  transition:name={`${type}-${thesis.id}-cover`}
+                />
+              )}
+            </div>
+            <div class="flex flex-col space-y-1 min-w-0 flex-1">
+              <span
+                class="font-medium text-lg line-clamp-2"
+                transition:name={`${type}-${thesis.id}-title`}
+              >
+                {thesis.data.title}
+              </span>
+              <span
+                class="text-muted-foreground text-sm line-clamp-3"
+                transition:name={`${type}-${thesis.id}-description`}
+              >
+                {thesis.data.description}
+              </span>
+              <div
+                class="flex items-center gap-1"
+                transition:name={`${type}-${thesis.id}-other`}
+              >
+                <ThesisDate
+                  class="mt-0 text-xs"
+                  type={type}
+                  id={thesis.id}
+                  startDate={thesis.data.startDate}
+                  endDate={thesis.data.endDate}
+                />
+                {(thesis.body || "").length > 0 &&
+                  thesis.data.startDate &&
+                  thesis.data.endDate && (
+                    <span class="text-muted-foreground text-xs">•</span>
+                  )}
+                <ReadingTime content={thesis.body || ""} />
+              </div>
+            </div>
+          </a>
+        </li>
+      ))
+    )
+  }
+</ul>
