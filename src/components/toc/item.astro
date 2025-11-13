@@ -13,17 +13,17 @@ const { items } = Astro.props as { items: Node[] };
 
 {
   items.length > 0 && (
-    <ol class="list-decimal list-inside marker:text-muted-foreground space-y-1">
+    <ol class="list-decimal list-inside marker:text-muted-foreground space-y-2">
       {items.map((item) => (
         <li>
           <a
-            class="transition-opacity text-foreground hover:opacity-80"
+            class="transition-opacity text-foreground/80 hover:opacity-80"
             href={`#${item.slug}`}
           >
             {item.text}
           </a>
           {item.children.length > 0 && (
-            <div class="pl-4">
+            <div class="pl-4 mt-2">
               <TocItem items={item.children} />
             </div>
           )}
