@@ -8,10 +8,10 @@ import ThesisDate from "@/components/thesis-date.astro";
 import TableOfContents from "@/components/toc/index.astro";
 import { BackButton } from "@/components/ui/back-button";
 
+import { CONFIG } from "@/lib/constants";
 import type { ThesisType } from "@/lib/types";
 
 import MainLayout from "./main.astro";
-import { CONFIG } from "@/lib/constants";
 
 type Props = {
   thesis: CollectionEntry<ThesisType>;
