@@ -13,18 +13,16 @@ import { CONFIG } from "@/lib/constants";
     <h2 class="text-lg font-medium hover:opacity-80 transition-opacity">
       <a href="/">{CONFIG.site.title}</a>
     </h2>
-    <div class="items-center flex gap-2">
-      <div class="flex gap-1">
-        <HeaderLink href="/">Tételek</HeaderLink>
-        <HeaderLink
-          href="https://github.com/itsbrunodev/erettsegi-tetelek"
-          target="_blank"
-          rel="noopener"
-        >
-          GitHub
-          <ArrowUpRightIcon />
-        </HeaderLink>
-      </div>
+    <div class="items-center flex gap-1">
+      <HeaderLink href="/">Tételek</HeaderLink>
+      <HeaderLink
+        href="https://github.com/itsbrunodev/erettsegi-tetelek"
+        target="_blank"
+        rel="noopener"
+      >
+        GitHub
+        <ArrowUpRightIcon />
+      </HeaderLink>
       <ThemeToggle client:load />
     </div>
   </nav>
