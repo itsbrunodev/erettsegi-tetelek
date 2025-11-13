@@ -18,7 +18,7 @@ export async function GET(context) {
     site: context.site,
     items: theses.map((thesis) => ({
       ...thesis.data,
-      link: `/${thesis.id}`,
+      link: `/${thesis.collection}/${thesis.id}`,
     })),
   });
 }
