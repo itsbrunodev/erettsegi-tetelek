@@ -2,8 +2,10 @@
 import ThesisList from "@/components/thesis-list.astro";
 
 import MainLayout from "@/layouts/main.astro";
+
+import { CONFIG } from "@/lib/constants";
 ---
 
-<MainLayout>
+<MainLayout title={`Magyar - ${CONFIG.site.title}`}>
   <ThesisList type="magyar" />
 </MainLayout>

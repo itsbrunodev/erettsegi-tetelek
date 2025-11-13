@@ -2,8 +2,10 @@
 import ThesisList from "@/components/thesis-list.astro";
 
 import MainLayout from "@/layouts/main.astro";
+
+import { CONFIG } from "@/lib/constants";
 ---
 
-<MainLayout>
+<MainLayout title={`Történelem - ${CONFIG.site.title}`}>
   <ThesisList type="tortenelem" />
 </MainLayout>

@@ -2,8 +2,10 @@
 import ThesisList from "@/components/thesis-list.astro";
 
 import MainLayout from "@/layouts/main.astro";
+
+import { CONFIG } from "@/lib/constants";
 ---
 
-<MainLayout>
+<MainLayout title={`Matematika - ${CONFIG.site.title}`}>
   <ThesisList type="matematika" />
 </MainLayout>
