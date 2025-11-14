@@ -70,7 +70,7 @@ Hogyan alakította át a Rákosi-rezsim totális politikai, gazdasági és ideol
   - A mezőgazdaságban megindult az **erőszakos kollektivizálás**, a "kuláknak" bélyegzett gazdagabb parasztok üldözése és a beszolgáltatási rendszer bevezetése.
 - **A társadalom és a mindennapok irányítása:**
   - **Rákosi Mátyás személyi kultuszának** kiépítése: képei, szobrai mindenhol jelen voltak.
-    `*[Rákosi Mátyást ábrázoló propagandaplakát, "Népünk bölcs vezére" felirattal]*`
+    <!-- `*[Rákosi Mátyást ábrázoló propagandaplakát, "Népünk bölcs vezére" felirattal]*` -->
   - A propaganda mindenhol jelen volt: újságok, rádió, filmek a rendszer sikereit hirdették.
   - A nemzeti és vallási ünnepeket betiltották, helyükre kommunista ünnepeket vezettek be.
   - A magánélet megszűnt, az állandó megfigyelés és a besúgóktól való félelem mindennapossá vált.
