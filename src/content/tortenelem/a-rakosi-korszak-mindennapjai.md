@@ -48,7 +48,7 @@ Hogyan alakította át a Rákosi-rezsim totális politikai, gazdasági és ideol
   - **1949:** Az új, szovjet mintájú alkotmány hatályba lépése; az ÁVH létrehozása.
   - **1953:** Sztálin halála, amely enyhülést hoz a legkeményebb diktatúrában.
 
-## **A Téma Részletes Elemzése (Ok → Folyamat → Következmény modell)**
+## **A Téma Részletes Elemzése**
 
 ### **Kiváltó Okok és Előzmények**
 
