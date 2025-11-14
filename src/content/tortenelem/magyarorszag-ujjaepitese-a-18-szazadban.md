@@ -125,7 +125,7 @@ Hogyan és milyen érdekek mentén alakult át Magyarország népessége és etn
 - A mai magyarországi nemzetiségek (németek, szerbek, szlovákok stb.) és a szomszédos országokban élő magyar közösségek történelmi gyökerei jelentős részben erre az időszakra vezethetők vissza.
 - A téma rávilágít a migráció és a demográfiai változások tartós, évszázadokon átívelő társadalmi és politikai hatásaira, ami a mai globális migrációs folyamatok megértéséhez is tanulságokkal szolgál.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

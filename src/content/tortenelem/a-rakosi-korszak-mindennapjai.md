@@ -111,7 +111,7 @@ Bár a rendszer totális és elnyomó jellegét senki sem vitatja, a történés
 
 A Rákosi-korszak a magyar történelem egyik legsötétebb időszaka. Öröksége intő példa a korlátlan hatalom veszélyeire, az emberi jogok sárba tiprására és a diktatúrák működésére. A korszakról való megemlékezés ma is kulcsfontosságú a demokratikus értékek és a szabadság megbecsüléséhez.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

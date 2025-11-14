@@ -133,7 +133,7 @@ A hidegháború öröksége máig meghatározó:
 - **Nukleáris fegyverek:** A hidegháborús fegyverkezésből visszamaradt nukleáris arzenál továbbra is a globális biztonság egyik legfőbb kockázata.
 - **"Új hidegháború":** Számos elemző véli úgy, hogy a mai nemzetközi feszültségek (pl. Oroszország és a Nyugat viszonya, USA-Kína rivalizálás) egy új típusú, de a régihez hasonló globális szembenállás jeleit mutatják.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

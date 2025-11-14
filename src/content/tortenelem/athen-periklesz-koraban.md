@@ -117,7 +117,7 @@ Hogyan valósította meg az athéni állam a gyakorlatban a népuralom (demokrá
 - A polgári öntudat, a közösségért való felelősségvállalás eszménye, valamint a politikai viták kultúrája mind olyan örökség, amely Athénból ered.
 - A mai napig releváns a kérdés, hogyan lehet a társadalom minél szélesebb rétegeit bevonni a politikai döntéshozatalba, elkerülve a kirekesztést.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

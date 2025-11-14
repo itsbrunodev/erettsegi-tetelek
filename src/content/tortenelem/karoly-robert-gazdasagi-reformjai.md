@@ -107,7 +107,7 @@ Károly Róbert, miután **1321**-re katonailag egységesítette az országot, N
 
 Károly Róbert reformjainak öröksége a modern, központosított állam megteremtésének fontossága. Megmutatta, hogy egy stabil, átgondolt pénzügyi rendszer és a gazdasági lehetőségek kihasználása (pl. bányászat, kereskedelem) a politikai hatalom legfőbb alapja. A **visegrádi királytalálkozó** emléke a mai napig él a **Visegrádi Együttműködésben (V4)**, amely a közép-európai országok gazdasági és politikai kooperációjának szimbóluma.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

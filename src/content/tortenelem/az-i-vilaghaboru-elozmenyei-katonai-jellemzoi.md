@@ -140,7 +140,7 @@ Az első világháború logikus következménye volt a 19. századi **gyarmatos�
 
 Az első világháború öröksége máig velünk él. A háború nemcsak Európa térképét, de a politikai gondolkodást is átformálta. Megmutatta a modern technológia pusztító erejét, és a totális háború fogalmával új dimenziót nyitott a hadviselés történetében. A Közel-Kelet mai konfliktusainak gyökerei is részben a háború utáni, mesterségesen meghúzott határokra vezethetők vissza.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

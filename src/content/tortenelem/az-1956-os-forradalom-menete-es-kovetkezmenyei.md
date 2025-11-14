@@ -136,7 +136,7 @@ Hogyan volt képes egy eredetileg békés tüntetésből kiinduló népfelkelés
 - 1956 a modern magyar nemzeti identitás **alapköve**. A szabadság és a függetlenség iránti vágy szimbóluma, amely megmutatta, hogy a magyar nép a legnagyobb túlerővel szemben is képes harcolni az értékeiért.
 - Az események emlékezete ma is a politikai viták tárgya. **Október 23-a nemzeti ünnep**, amely a nemzeti egység és az elnyomás elleni kiállás fontosságára emlékeztet.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

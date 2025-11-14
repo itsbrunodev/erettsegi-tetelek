@@ -116,7 +116,7 @@ Hogyan alakította át a tudomány-vezérelt technológiai robbanás nem csupán
 
 A második ipari forradalom technológiai vívmányai (elektromosság, autó, telekommunikáció) **a mai napig meghatározzák a modern élet kereteit**. Az akkor kialakult gazdasági modellek (óriásvállalatok, globális piac) és a felmerült problémák (egyenlőtlen fejlődés, környezeti terhelés) ma is aktuálisak.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

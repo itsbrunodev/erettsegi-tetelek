@@ -116,7 +116,7 @@ Mohács nem egyedi eset a korszakban. A központosított, modern hadsereggel ren
 
 A "mohácsi vész" a magyar nemzeti emlékezetben a **legnagyobb nemzeti tragédiaként**, a széthúzás és a balsors szimbólumaként él tovább. Ady Endre "Nekünk Mohács kell" című verse is ezt a traumát dolgozza fel. A csata tanulsága a belső egység és a reális külpolitika fontosságára hívja fel a figyelmet. Mohács emlékeztet arra, hogy a belső megosztottság végzetes következményekkel járhat egy külső fenyegetéssel szemben.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

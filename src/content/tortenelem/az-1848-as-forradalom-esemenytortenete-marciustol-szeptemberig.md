@@ -110,7 +110,7 @@ Hogyan alakult át egy vértelen, törvényes keretek között zajló forradalom
 - 1848 öröksége a **polgári szabadságjogok**, a **népképviselet** és a **nemzeti függetlenség** eszméjének összekapcsolása a magyar politikai gondolkodásban.
 - Március 15-e ma Magyarország nemzeti ünnepe, a szabadság és a civil kurázsi szimbóluma. A 12 pont ma is emlékeztet az alapvető demokratikus követelések fontosságára.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

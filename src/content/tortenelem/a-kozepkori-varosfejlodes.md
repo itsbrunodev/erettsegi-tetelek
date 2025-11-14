@@ -108,7 +108,7 @@ A magyar történetírásban sokáig vita tárgya volt a **mezővárosok** megí
 
 A középkori városok legfontosabb öröksége az **önkormányzatiság** eszméje. A mai helyi önkormányzatok működése, a választott testületek és a helyi autonómia mind a középkori városi kiváltságokban gyökereznek. A városok által megteremtett gazdasági és kulturális sokszínűség ma is a társadalmi fejlődés motorja.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

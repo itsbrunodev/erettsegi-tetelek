@@ -121,7 +121,7 @@ A magyar politikai rendszer a **parlamentáris köztársaságok** modelljét kö
 
 A demokratikus intézményrendszer működése alapvető fontosságú minden állampolgár számára. Az intézmények (választások, népszavazás, önkormányzatok) biztosítják a politikai részvétel kereteit, és lehetővé teszik a polgárok számára, hogy beleszóljanak a közügyek alakításába. Ezen intézmények ismerete és a bennük való aktív részvétel a felelős állampolgári magatartás alapja.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

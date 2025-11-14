@@ -114,7 +114,7 @@ A történészi értékelések egyetértenek abban, hogy a török hódítás ne
 
 A reformáció öröksége máig meghatározó: a magyar nyelv és irodalom alapjait fektette le. A protestáns etika és a presbiteriánus egyházszervezet a helyi közösségek önszerveződését és a civil társadalom alapjait erősítette. Az erdélyi vallási tolerancia ma is fontos történelmi hivatkozási pont a multikulturális együttélés és a lelkiismereti szabadság kérdéseiben.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

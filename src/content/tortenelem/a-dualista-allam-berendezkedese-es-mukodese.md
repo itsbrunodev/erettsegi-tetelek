@@ -106,7 +106,7 @@ A központi kérdés a következő: **Hogyan tudott a dualizmus rendszere közel
 
 A dualizmus kora a modern Magyarország születésének időszaka. A korszak politikai vitái a szuverenitásról, a nemzeti érdekekről és az európai integrációról (birodalmi keretek között) ma is aktuális kérdéseket vetnek fel. A korszakban kiépült intézményrendszer (pl. közigazgatás, igazságszolgáltatás) alapjai a mai napig meghatározzák a magyar állam működését.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

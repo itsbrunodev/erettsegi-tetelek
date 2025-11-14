@@ -129,7 +129,7 @@ Hogyan volt képes István egy félnomád, törzsi alapon szerveződő, pogány 
 - A **Szent Jobb** ereklyéje a magyar nemzeti és katolikus identitás egyik legfontosabb jelképe.
 - Az általa megkezdett **nyugat-európai integráció** kérdése a magyar történelem során újra és újra felmerülő, mind a mai napig releváns dilemma.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

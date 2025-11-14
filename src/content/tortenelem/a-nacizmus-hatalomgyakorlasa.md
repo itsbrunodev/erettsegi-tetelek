@@ -116,7 +116,7 @@ A történészek között vita tárgya, hogy Hitler hatalomra jutása elkerülhe
 
 A nácizmus hatalomra jutásának története örök mementó arra, hogy a **demokratikus intézmények törékenyek**. Megmutatja, hogyan vezethet egy mély gazdasági és társadalmi válság, párosulva a demagóg propagandával és a politikai elit felelőtlen döntéseivel, egy diktatúra kialakulásához. Ma is figyelmeztető jel, hogy a politikai szélsőségek és a bűnbakképzés milyen veszélyeket rejt a társadalomra nézve.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

@@ -90,7 +90,7 @@ A korszak problémáinak okairól már ekkor is két fő narratíva létezett:
 1.  **A korabeli hivatalos álláspont:** Eszerint a magyar gazdaság minden bajának **kizárólagos oka Trianon**. A megoldást is egyedül a revízióban látták, ami gyakran elfedett más, belső strukturális problémákat (pl. a feudális nagybirtokrendszer).
 2.  **Modern történészi értékelés:** Ez az álláspont elismeri Trianon sokkhatását, de hangsúlyozza, hogy számos probléma a **dualizmus korából öröklődött**. A Monarchia egységes piacának elvesztése legalább akkora, ha nem nagyobb csapás volt, mint maguk a határmódosítások, és a válság pont ezeket a rejtett gyengeségeket hozta a felszínre.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

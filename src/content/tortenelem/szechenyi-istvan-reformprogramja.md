@@ -130,7 +130,7 @@ A reformkor központi vitája Széchenyi és Kossuth között zajlott.
 
 Széchenyi István öröksége kettős. Egyrészt a **gyakorlati cselekvés és a modernizáció szimbóluma**, aki felismerte, hogy a gazdasági alapok megteremtése nélkül a politikai önállóság csak illúzió. Másrészt a **mérsékelt, kompromisszumkereső politika** képviselője. Vitájuk Kossuthtal a mai napig releváns kérdéseket vet fel a haladás tempójáról, a reformok és forradalmak viszonyáról, valamint a nemzeti érdekek és a geopolitikai realitások összeegyeztetéséről.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

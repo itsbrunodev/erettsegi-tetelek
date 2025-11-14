@@ -110,7 +110,7 @@ A tétel központi kérdése: hogyan alakította át a tatárjárás kataklizmá
 - IV. Béla öröksége a Magyarországot a középkor végéig meghatározó **kővár-hálózat**, a megerősített városok (köztük a fővárossá váló Buda) és a birtokszerkezet átalakulása.
 - Uralkodása példa arra, hogyan lehet egy nemzeti katasztrófából tanulva, a stratégiát teljesen újragondolva újjáépíteni és megerősíteni egy országot. A válságkezelés és a pragmatikus reformpolitika máig ható tanulsággal bír.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 

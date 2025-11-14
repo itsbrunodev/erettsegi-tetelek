@@ -138,7 +138,7 @@ A felfedezésekben a 15-16. században a portugálok és a spanyolok jártak él
 - **Modern világnyelvek:** A spanyol és a portugál nyelv elterjedése Latin-Amerikában a gyarmatosítás közvetlen öröksége.
 - **Tartós egyenlőtlenségek:** A gyarmatosítás során kialakult centrum-periféria viszonyrendszer hatásai a mai napig érezhetők a globális gazdasági egyenlőtlenségekben.
 
-# **Szintézis**
+# **Összefoglalás**
 
 ## **A Fő Érvek Összegzése**
 
