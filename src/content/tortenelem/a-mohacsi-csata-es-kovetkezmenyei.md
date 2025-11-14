@@ -61,7 +61,7 @@ Miért vezetett egyetlen, néhány órás csata a középkori Magyar Királyság
   - **Külpolitikai elszigeteltség:** A nyugati hatalmakat (V. Károly, I. Ferenc) az itáliai háborúk kötötték le, a reformáció pedig megosztotta Európát. Magyarország nem számíthatott érdemi segítségre.
   - **Nándorfehérvár eleste (1521):** A déli védelem kulcsának elvesztése után a török hadsereg előtt gyakorlatilag nyitva állt az út az ország szíve felé.
 
-<!-- _[Ide a kép rövid leírása: Európa térképe a 16. század elején, kiemelve a Magyar Királyságot, az Oszmán Birodalmat és a Habsburg területeket.]_ -->
+![Európa térképe a 16. század elején, kiemelve a Magyar Királyságot, az Oszmán Birodalmat és a Habsburg területeket](../../assets/tortenelem/a-mohacsi-csata-es-kovetkezmenyei/terkep.jpg)
 
 ### **Az Eseménysor Folyamata**
 

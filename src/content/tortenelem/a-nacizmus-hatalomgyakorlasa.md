@@ -66,7 +66,7 @@ Hogyan volt képes egy korábban marginális politikai erő, a Nemzetiszocialist
   - Egyszerű bűnbakokat kínáltak: a **zsidókat, kommunistákat** és a "novemberi bűnözőket".
   - Modern propagandaeszközöket és tömeggyűléseket használtak a mozgósításra.
 
-<!-- _[ide a kép rövid leírása: Hitler egy tömeggyűlésen szónokol, a háttérben horogkeresztes zászlók]_ -->
+![Hitler egy tömeggyűlésen szónokol, a háttérben horogkeresztes zászlók](../../assets/tortenelem/a-nacizmus-hatalomgyakorlasa/beszed.jpg)
 
 ### **Az Eseménysor Folyamata**
 
