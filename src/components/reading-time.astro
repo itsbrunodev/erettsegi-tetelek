@@ -1,5 +1,6 @@
 ---
 import readingTime from "reading-time";
+import removeMarkdown from "remove-markdown";
 
 import { cn } from "@/lib/utils";
 
@@ -10,7 +11,8 @@ interface Props {
 
 const { class: className, content } = Astro.props as Props;
 
-const { minutes } = readingTime(content);
+const rawContent = removeMarkdown(content);
+const { minutes } = readingTime(rawContent);
 ---
 
 {
