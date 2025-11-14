@@ -3,8 +3,8 @@ title: "8. Athén Periklész korában"
 description: "A periklészi kor athéni demokráciája a közvetlen népuralom egyedülálló kísérlete volt, amely a perzsa háborúk utáni politikai és gazdasági fellendülés idején érte el csúcspontját."
 startDate:
   {
-    date: "Kr. e. 445",
-    description: "Periklész sztratégosszá választásának kezdete, amely elindította a demokrácia aranykorát és a nagy középítkezéseket.",
+    date: "Kr. e. 490",
+    description: "A marathóni csata időpontja, amely a görög–perzsa háborúk sorsfordító eseménye volt, és elindította Athént a nagyhatalommá válás útján.",
   }
 endDate:
   {
