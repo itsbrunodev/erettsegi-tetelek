@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Koppány legyőzése a régi, pogány törzsi rend és az új, ____ állam összecsapása volt.",
+    "missing": {
+      "choices": [
+        { "content": "keresztény, központosított", "correct": true },
+        { "content": "bizánci típusú", "correct": false },
+        { "content": "nomád", "correct": false },
+        { "content": "demokratikus", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "István ____ egyházmegyét hozott létre: két érsekséget és nyolc püspökséget.",
+    "missing": {
+      "choices": [
+        { "content": "öt", "correct": false },
+        { "content": "hét", "correct": false },
+        { "content": "tíz", "correct": true },
+        { "content": "tizenkettő", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A magyar egyház függetlenségét biztosította a német érsekektől a(z) ____ érsekség létrehozása.",
+    "missing": {
+      "choices": [
+        { "content": "kalocsai", "correct": false },
+        { "content": "esztergomi", "correct": true },
+        { "content": "veszprémi", "correct": false },
+        { "content": "gyulafehérvári", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "István unokatestvére, ____ volt, akit uralkodásra alkalmatlanná tett, miután Imre herceg meghalt.",
+    "missing": {
+      "choices": [
+        { "content": "Koppány", "correct": false },
+        { "content": "Gyula", "correct": false },
+        { "content": "Ajtony", "correct": false },
+        { "content": "Vazul", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "István ezüstdénárt veretett, amelyen a \"LANCEA REGIS\" felirat a ____ szimbolizálta.",
+    "missing": {
+      "choices": [
+        { "content": "királyi hatalmat", "correct": true },
+        { "content": "keresztény hitet", "correct": false },
+        { "content": "gazdasági jólétet", "correct": false },
+        { "content": "katonai győzelmeket", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az Imre herceghez írt ____ című királytükör az istváni politika szellemiségét összegzi.",
+    "missing": {
+      "choices": [
+        { "content": "Törvénykönyv", "correct": false },
+        { "content": "Pannonhalmi Alapítólevél", "correct": false },
+        { "content": "Intelmek", "correct": true },
+        { "content": "Koronázási Palást", "correct": false }
+      ]
+    }
+  }
+]

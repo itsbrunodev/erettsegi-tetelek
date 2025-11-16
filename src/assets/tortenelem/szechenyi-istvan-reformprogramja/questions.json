@@ -1,0 +1,157 @@
+[
+  {
+    "question": "Mi volt a Hitel (1830) című mű központi problémája, amely Széchenyi szerint a magyar gazdaság modernizációjának legfőbb gátja volt?",
+    "reason": "A mű abból a felismerésből indul ki, hogy a modernizációhoz tőke, azaz hitel kell, de a nemesi birtokok az ősiség törvénye miatt nem szolgálhattak fedezetül, így a hitelfelvétel szinte lehetetlen volt.",
+    "choices": [
+      {
+        "content": "A jobbágyság elnyomása és a robot hatékonyságlansága.",
+        "correct": false
+      },
+      {
+        "content": "Az ősiség törvénye, amely megakadályozta a nemesi birtokok eladását és fedezetként való felhasználását.",
+        "correct": true
+      },
+      {
+        "content": "A magyar nyelv hivatalos használatának hiánya a közigazgatásban.",
+        "correct": false
+      },
+      {
+        "content": "A Habsburg kormányzat elnyomó vám- és adópolitikája.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Miben tért el alapvetően Széchenyi István és Kossuth Lajos reformprogramja?",
+    "reason": "A központi vita kettejük között a reformok üteméről, a vezető társadalmi rétegről és a bécsi udvarhoz fűződő viszonyról szólt. Széchenyi a lassú, arisztokrata vezetésű fejlődést és a kormányzattal való együttműködést, míg Kossuth a gyors, köznemességre támaszkodó, akár konfrontatív politikát részesítette előnyben.",
+    "choices": [
+      {
+        "content": "Széchenyi a jobbágyfelszabadítást elvetette, míg Kossuth támogatta.",
+        "correct": false
+      },
+      {
+        "content": "Kizárólag a gazdasági reformok fontosságában nem értettek egyet.",
+        "correct": false
+      },
+      {
+        "content": "A reformok ütemében, a vezető erőben (arisztokrácia vs. köznemesség) és a bécsi udvarral való viszonyban.",
+        "correct": true
+      },
+      {
+        "content": "Széchenyi ateista volt, míg Kossuth mélyen vallásos, és ez okozta a konfliktust.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyek tartoztak Széchenyi István gyakorlati, a modernizációt elősegítő alkotásai közé?",
+    "reason": "Széchenyi nevéhez fűződik a Lánchíd építésének kezdeményezése, a Magyar Tudományos Akadémia megalapítása egyéves jövedelmének felajánlásával, valamint a Vaskapu hajózhatóvá tétele a dunai kereskedelem fellendítésére. A kötelező örökváltság Kossuth programjának része volt.",
+    "choices": [
+      { "content": "A Lánchíd megépítése.", "correct": true },
+      {
+        "content": "A Magyar Tudományos Akadémia (MTA) megalapítása.",
+        "correct": true
+      },
+      {
+        "content": "A kötelező örökváltság törvénybe iktatása.",
+        "correct": false
+      },
+      { "content": "A Vaskapu szabályozása a Dunán.", "correct": true }
+    ]
+  },
+  {
+    "question": "Milyen céllal írta Széchenyi a Stádium (1833) című művét?",
+    "reason": "A Stádium a korábbi művekben (Hitel, Világ) kifejtett gondolatokat foglalta össze egy rendszerezett, 12 pontból álló program formájában, hogy mindenki számára világos és áttekinthető legyen a reformterv.",
+    "choices": [
+      {
+        "content": "Hogy választ adjon Kossuth Lajos kritikáira.",
+        "correct": false
+      },
+      {
+        "content": "Hogy a reformprogramját 12 pontba szedve, rendszerezetten foglalja össze.",
+        "correct": true
+      },
+      {
+        "content": "Hogy kizárólag a magyar arisztokráciát szólítsa meg.",
+        "correct": false
+      },
+      {
+        "content": "Hogy egy forradalmi kiáltványt tegyen közzé.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mit jelent a Széchenyi által javasolt „részleges közteherviselés” elve?",
+    "reason": "Széchenyi programjában a teljes adómentességet élvező nemességnek is részt kellett vállalnia bizonyos közterhek viseléséből (pl. hídpénz, háziadó), ami az általános közteherviselés felé tett első, óvatos lépés volt.",
+    "choices": [
+      {
+        "content": "Csak a leggazdagabb arisztokratáknak kell adózniuk.",
+        "correct": false
+      },
+      {
+        "content": "A jobbágyság adóterheit csökkenteni kell.",
+        "correct": false
+      },
+      {
+        "content": "A társadalom minden tagja, beleértve a nemességet is, vegye ki a részét az adózásból.",
+        "correct": true
+      },
+      {
+        "content": "A papságnak is adót kell fizetnie, de a nemességnek nem.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik eseményt tekintjük szimbolikusan a magyar reformkor kezdetének?",
+    "reason": "A Hitel 1830-as megjelenése indította el azt a széles körű közgondolkodást és vitát a reformok szükségességéről, amely a reformkor lényegét adta.",
+    "choices": [
+      {
+        "content": "Az 1825-ös országgyűlés és az MTA megalapítása.",
+        "correct": false
+      },
+      {
+        "content": "Kossuth Lajos színre lépése az 1832-36-os országgyűlésen.",
+        "correct": false
+      },
+      {
+        "content": "Széchenyi István Hitel című művének megjelenése 1830-ban.",
+        "correct": true
+      },
+      { "content": "A Lánchíd építésének megkezdése.", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik politikai vitairatában vádolta Széchenyi Kossuthot azzal, hogy politikája forradalomba sodorja a nemzetet?",
+    "reason": "A Kelet Népe című mű Széchenyi és Kossuth vitájának csúcspontja volt, amelyben Széchenyi a fokozatosság és a szerves fejlődés híveként élesen bírálta Kossuth radikálisabb, szerinte veszélyes politikáját.",
+    "choices": [
+      { "content": "Hitel", "correct": false },
+      { "content": "Világ", "correct": false },
+      { "content": "Stádium", "correct": false },
+      { "content": "A Kelet Népe", "correct": true }
+    ]
+  },
+  {
+    "question": "Milyen formában épültek be végül Széchenyi reformkori eszméi a magyar jogrendbe?",
+    "reason": "Bár a reformkorban Széchenyi mérsékelt programja alulmaradt Kossuth radikálisabb irányzatával szemben, a legfontosabb követelései (pl. közteherviselés, törvény előtti egyenlőség, az ősiség eltörlése) végül az 1848-as forradalom vívmányaiként, az áprilisi törvényekben valósultak meg.",
+    "choices": [
+      {
+        "content": "Az 1832-36-os országgyűlésen teljes egészében elfogadták a Stádium 12 pontját.",
+        "correct": false
+      },
+      {
+        "content": "V. Ferdinánd királyi pátensként léptette őket életbe 1840-ben.",
+        "correct": false
+      },
+      {
+        "content": "Főbb elemei beépültek az 1848-as áprilisi törvényekbe.",
+        "correct": true
+      },
+      {
+        "content": "A reformkori viták során elbuktak, és soha nem valósultak meg.",
+        "correct": false
+      }
+    ]
+  }
+]

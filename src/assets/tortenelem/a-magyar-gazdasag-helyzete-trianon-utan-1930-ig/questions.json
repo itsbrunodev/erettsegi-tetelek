@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Melyek voltak a trianoni békeszerződés legfontosabb gazdasági következményei Magyarország számára?",
+    "reason": "A trianoni békeszerződés a piacvesztés mellett elvágta a magyar feldolgozóipart a nyersanyagforrásaitól és szétzilálta a korábban egységes közlekedési infrastruktúrát, különösen a vasúthálózatot.",
+    "choices": [
+      {
+        "content": "Az 50 milliós, egységes monarchiabeli piac elvesztése.",
+        "correct": true
+      },
+      {
+        "content": "A feldolgozóipar teljes megszűnése.",
+        "correct": false
+      },
+      {
+        "content": "A nyersanyagforrások (pl. bányák, erdők) túlnyomó részének elvesztése.",
+        "correct": true
+      },
+      {
+        "content": "A Budapest-központú vasúthálózat megcsonkítása.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mi volt Bethlen István konszolidációs politikájának elsődleges célja az 1920-as években?",
+    "reason": "A konszolidáció szó szerint megerősítést, megszilárdítást jelent. Bethlen célja a háború, a forradalmak és Trianon utáni politikai és gazdasági káosz felszámolása, a rend stabilizálása volt.",
+    "choices": [
+      {
+        "content": "A revízió azonnali fegyveres megvalósítása.",
+        "correct": false
+      },
+      {
+        "content": "A háború és a forradalmak utáni politikai és gazdasági helyzet stabilizálása.",
+        "correct": true
+      },
+      {
+        "content": "A nagybirtokrendszer teljes felszámolása.",
+        "correct": false
+      },
+      {
+        "content": "Magyarország kiléptetése a Népszövetségből.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Hogyan jelentkezett először a nagy gazdasági világválság Magyarországon 1930-ban?",
+    "reason": "A válság nemzetközi túltermelési agrárválságként indult, amely Magyarországot a legfontosabb exportcikke, a búza világpiaci árának összeomlásán keresztül érte el.",
+    "choices": [
+      {
+        "content": "A nehézipar azonnali és teljes összeomlásával.",
+        "correct": false
+      },
+      {
+        "content": "Tömeges bankcsődökkel és a pénzügyi rendszer összeomlásával.",
+        "correct": false
+      },
+      {
+        "content": "A mezőgazdasági termények, elsősorban a búza árának drasztikus zuhanásával.",
+        "correct": true
+      },
+      {
+        "content": "A pengő hiperinflációjával.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mit jelent az \"agrárolló\" fogalma a korszak kontextusában?",
+    "reason": "Az agrárolló kinyílása azt jelenti, hogy a mezőgazdasági termékek árai (amiket a gazda elad) sokkal gyorsabban zuhannak, mint az iparcikkek árai (amiket a gazda vásárol), ami a mezőgazdaságból élők gyors elszegényedéséhez vezet.",
+    "choices": [
+      {
+        "content": "A mezőgazdaság gépesítésére bevezetett új eszközt.",
+        "correct": false
+      },
+      {
+        "content": "A mezőgazdasági termékek és az iparcikkek árai közötti különbség drasztikus növekedését.",
+        "correct": true
+      },
+      {
+        "content": "A nagybirtokok felosztására irányuló politikai programot.",
+        "correct": false
+      },
+      {
+        "content": "A vasúthálózat határok által történő átvágásának szimbólumát.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mi volt a Horthy-korszak külpolitikájának legfőbb, mindent meghatározó célkitűzése?",
+    "reason": "A revízió, azaz a trianoni békeszerződés felülvizsgálatának és az elvesztett területek visszaszerzésének vágya volt a korszak külpolitikájának legfontosabb mozgatórugója.",
+    "choices": [
+      {
+        "content": "A dunai államok konföderációjának létrehozása.",
+        "correct": false
+      },
+      {
+        "content": "A Szovjetunióval való katonai szövetségkötés.",
+        "correct": false
+      },
+      {
+        "content": "A trianoni békeszerződés felülvizsgálata (revízió).",
+        "correct": true
+      },
+      {
+        "content": "Az Osztrák-Magyar Monarchia helyreállítása.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A modern történészi értékelés szerint mi volt a magyar gazdaság sérülékenységének egyik fő, a dualizmus korából örökölt oka?",
+    "reason": "A modern történetírás hangsúlyozza, hogy Trianon mellett a dualizmusból örökölt egyoldalú, agrárexport-orientált szerkezet is hozzájárult a gazdaság sebezhetőségéhez, amit a Monarchia egységes piacának elvesztése tett kritikussá.",
+    "choices": [
+      {
+        "content": "Az ország túlzottan gyors és aránytalan iparosítása.",
+        "correct": false
+      },
+      {
+        "content": "A feudális nagybirtokrendszer és az egyoldalú agrárexport-függőség.",
+        "correct": true
+      },
+      {
+        "content": "A gyarmatok teljes hiánya.",
+        "correct": false
+      },
+      {
+        "content": "A folyamatos belpolitikai instabilitás és a gyakori kormányváltások.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik esemény jelezte először látványosan a gazdasági válság miatti társadalmi elégedetlenséget 1930-ban?",
+    "reason": "Az 1930. szeptember 1-jei budapesti tömegtüntetés volt az első nagyszabású megmozdulás, amelyen a válság által sújtott munkanélküliek és elszegényedők vettek részt, jelezve a bethleni rendszerrel szembeni elégedetlenség növekedését.",
+    "choices": [
+      {
+        "content": "A frankhamisítási botrány kirobbanása.",
+        "correct": false
+      },
+      {
+        "content": "A biatorbágyi merénylet.",
+        "correct": false
+      },
+      {
+        "content": "Egy nagyszabású budapesti tüntetés.",
+        "correct": true
+      },
+      {
+        "content": "A kormányzó elleni merényletkísérlet.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Miért tette a magyar gazdaságot különösen sebezhetővé a nemzetközi válsággal szemben a Trianon után kialakult szerkezet?",
+    "reason": "A magyar gazdaság kritikusan függött egyetlen fő termékcsoport, a mezőgazdasági termények (főleg a búza) exportjától. Amikor ennek a piaca összeomlott, az egész gazdaság megingott.",
+    "choices": [
+      {
+        "content": "Mert a magyar ipar kizárólag a hazai piacra termelt.",
+        "correct": false
+      },
+      {
+        "content": "Mert a gazdaság kritikusan függött az agrárkiviteltől.",
+        "correct": true
+      },
+      {
+        "content": "Mert az ország eladósodottsága már a válság előtt is a legmagasabb volt a világon.",
+        "correct": false
+      },
+      {
+        "content": "Mert nem rendelkezett önálló nemzeti valutával.",
+        "correct": false
+      }
+    ]
+  }
+]

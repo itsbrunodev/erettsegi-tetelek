@@ -1,0 +1,140 @@
+[
+  {
+    "content": "A Horthy-kor külpolitikájának legfőbb mozgatórugója a ____, azaz a békeszerződés felülvizsgálata lett.",
+    "missing": {
+      "choices": [
+        {
+          "content": "konszolidáció",
+          "correct": false
+        },
+        {
+          "content": "revízió",
+          "correct": true
+        },
+        {
+          "content": "integráció",
+          "correct": false
+        },
+        {
+          "content": "restauráció",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "A Bethlen István nevével fémjelzett konszolidáció egyik fontos gazdasági alapját egy ____ biztosította.",
+    "missing": {
+      "choices": [
+        {
+          "content": "szovjet segély",
+          "correct": false
+        },
+        {
+          "content": "német jóvátétel",
+          "correct": false
+        },
+        {
+          "content": "népszövetségi kölcsön",
+          "correct": true
+        },
+        {
+          "content": "belső államosítás",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "Trianon után a magyar gazdaság számára az egyik legnagyobb sokkot az egységes ____ elvesztése jelentette.",
+    "missing": {
+      "choices": [
+        {
+          "content": "nyersanyagbázis",
+          "correct": false
+        },
+        {
+          "content": "katonai erő",
+          "correct": false
+        },
+        {
+          "content": "monarchiabeli piac",
+          "correct": true
+        },
+        {
+          "content": "tengeri kikötők",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "A trianoni határok következtében diszharmónia jött létre az elvesztett nyersanyagforrások és a határon belül maradt ____ között.",
+    "missing": {
+      "choices": [
+        {
+          "content": "politikai pártok",
+          "correct": false
+        },
+        {
+          "content": "agrárlakosság",
+          "correct": false
+        },
+        {
+          "content": "feldolgozókapacitások",
+          "correct": true
+        },
+        {
+          "content": "kulturális intézmények",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "Az 1930-as agrárválságot Magyarországon elsősorban a legfontosabb exportcikk, a ____ világpiaci árának összeomlása okozta.",
+    "missing": {
+      "choices": [
+        {
+          "content": "kukorica",
+          "correct": false
+        },
+        {
+          "content": "bor",
+          "correct": false
+        },
+        {
+          "content": "szarvasmarha",
+          "correct": false
+        },
+        {
+          "content": "búza",
+          "correct": true
+        }
+      ]
+    }
+  },
+  {
+    "content": "A tíz éven át sikeresnek tűnő bethleni konszolidációt az 1929-ben kirobbant ____ ingatta meg alapjaiban.",
+    "missing": {
+      "choices": [
+        {
+          "content": "belpolitikai botrány",
+          "correct": false
+        },
+        {
+          "content": "világgazdasági válság",
+          "correct": true
+        },
+        {
+          "content": "katonai puccs",
+          "correct": false
+        },
+        {
+          "content": "szomszédos államok támadása",
+          "correct": false
+        }
+      ]
+    }
+  }
+]

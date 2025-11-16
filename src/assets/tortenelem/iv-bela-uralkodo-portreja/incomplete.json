@@ -1,0 +1,68 @@
+[
+  {
+    "content": "IV. Béla apja, ____, nagymértékű birtokadományaival jelentősen lecsökkentette a királyi birtokállományt.",
+    "missing": {
+      "choices": [
+        { "content": "Könyves Kálmán", "correct": false },
+        { "content": "Szent László", "correct": false },
+        { "content": "II. András", "correct": true },
+        { "content": "III. Béla", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A tatárjárás után a király a birtokadományozást ahhoz a feltételhez kötötte, hogy a megadományozott ____ építsen.",
+    "missing": {
+      "choices": [
+        { "content": "templomot", "correct": false },
+        { "content": "kővárat", "correct": true },
+        { "content": "ispotályt", "correct": false },
+        { "content": "földvárat", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A lakosság pótlására a király támogatta a külföldről érkező telepesek, azaz a ____ letelepedését.",
+    "missing": {
+      "choices": [
+        { "content": "szerviensek", "correct": false },
+        { "content": "hospesek", "correct": true },
+        { "content": "jobbágyok", "correct": false },
+        { "content": "bárók", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A király a tatárok elől Dalmáciába, ____ (ma Trogir) várába menekült.",
+    "missing": {
+      "choices": [
+        { "content": "Spalato", "correct": false },
+        { "content": "Zára", "correct": false },
+        { "content": "Ragusa", "correct": false },
+        { "content": "Trau", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "Az újjáépítés során a megerősített királyi központ Pest helyett a Várhegyen létrehozott ____ lett.",
+    "missing": {
+      "choices": [
+        { "content": "Buda", "correct": true },
+        { "content": "Esztergom", "correct": false },
+        { "content": "Visegrád", "correct": false },
+        { "content": "Székesfehérvár", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A király befogadta a mongolok elől menekülő ____, de a magyar nemességgel való konfliktusuk miatt a támadás előtt elhagyták az országot.",
+    "missing": {
+      "choices": [
+        { "content": "jászokat", "correct": false },
+        { "content": "besenyőket", "correct": false },
+        { "content": "kunokat", "correct": true },
+        { "content": "úzókat", "correct": false }
+      ]
+    }
+  }
+]

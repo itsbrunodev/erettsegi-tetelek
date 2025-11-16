@@ -1,0 +1,68 @@
+[
+  {
+    "content": "A tőkekoncentráció révén óriásvállalatok, úgynevezett ____ jöttek létre, amelyek uralták a piacot.",
+    "missing": {
+      "choices": [
+        { "content": "céhek", "correct": false },
+        { "content": "manufaktúrák", "correct": false },
+        { "content": "monopóliumok", "correct": true },
+        { "content": "kolhozok", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az új iparágak hatalmas tőkeigénye elősegítette a banktőke és az ____ tőke összefonódását.",
+    "missing": {
+      "choices": [
+        { "content": "mezőgazdasági", "correct": false },
+        { "content": "állami", "correct": false },
+        { "content": "egyházi", "correct": false },
+        { "content": "ipari", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A vegyipar egyik legfontosabb eredménye a ____ megjelenése volt, ami növelte a mezőgazdasági terméshozamokat.",
+    "missing": {
+      "choices": [
+        { "content": "műtrágya", "correct": true },
+        { "content": "műanyag", "correct": false },
+        { "content": "dinamit", "correct": false },
+        { "content": "szintetikus festék", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az egyenlőtlen fejlődés következtében a korábbi vezető hatalom, ____, lemaradt a gazdasági versenyben.",
+    "missing": {
+      "choices": [
+        { "content": "Franciaország", "correct": false },
+        { "content": "az Osztrák-Magyar Monarchia", "correct": false },
+        { "content": "Nagy-Britannia", "correct": true },
+        { "content": "Oroszország", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A gyárak és munkahelyek óriási embertömegeket vonzottak a városokba, ami a modern ____ kialakulásához vezetett.",
+    "missing": {
+      "choices": [
+        { "content": "falanszterek", "correct": false },
+        { "content": "agrárvárosok", "correct": false },
+        { "content": "metropoliszok", "correct": true },
+        { "content": "Hanza-városok", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A második ipari forradalom hatalmas nyersanyag- és piacigénye volt az ____ egyik fő gazdasági mozgatórugója.",
+    "missing": {
+      "choices": [
+        { "content": "imperializmus", "correct": true },
+        { "content": "reformáció", "correct": false },
+        { "content": "felvilágosodás", "correct": false },
+        { "content": "szociáldarwinizmus", "correct": false }
+      ]
+    }
+  }
+]

@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Mi volt IV. Béla legfőbb belpolitikai célkitűzése a tatárjárás ELŐTT?",
+    "reason": "IV. Béla apja, II. András birtokadományozási politikájának következményeit akarta felszámolni, ezért a királyi hatalom központosítása érdekében visszavette a báróknak „haszontalanul” adományozott birtokokat.",
+    "choices": [
+      {
+        "content": "A bárói magánhadseregek (bandériumok) létrehozásának ösztönzése.",
+        "correct": false
+      },
+      {
+        "content": "A királyi birtokállomány helyreállítása a bárói adományok visszavételével.",
+        "correct": true
+      },
+      {
+        "content": "Városfalak és kővárak építtetése egy esetleges támadás ellen.",
+        "correct": false
+      },
+      {
+        "content": "A kunok és jászok behívása az ország védelmének erősítésére.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik csatában szenvedett katasztrofális vereséget a magyar sereg 1241. április 11-én?",
+    "reason": "A muhi csata volt a tatárjárás döntő ütközete, ahol a Sajó folyó mellett a magyar fősereg szinte teljesen megsemmisült a mongol haditaktika fölénye miatt.",
+    "choices": [
+      {
+        "content": "A pozsonyi csatában",
+        "correct": false
+      },
+      {
+        "content": "A mohácsi csatában",
+        "correct": false
+      },
+      {
+        "content": "A muhi csatában",
+        "correct": true
+      },
+      {
+        "content": "A nikápolyi csatában",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mi a legelfogadottabb magyarázat a tatár seregek 1242-es váratlan kivonulására Magyarországról?",
+    "reason": "Bár több tényező is felmerült, a történészek többsége Ögödej nagykán halálát és az emiatt kirobbanó, a kánválasztással kapcsolatos hatalmi küzdelmeket tartja a kivonulás elsődleges okának.",
+    "choices": [
+      {
+        "content": "A magyar seregek sikeres ellentámadást indítottak.",
+        "correct": false
+      },
+      {
+        "content": "A pápa és a német-római császár felmentő sereget küldött.",
+        "correct": false
+      },
+      {
+        "content": "A nomád életmódjukhoz nem találtak megfelelő legelőket.",
+        "correct": false
+      },
+      {
+        "content": "Meghalt Ögödej nagykán, és Batu kánnak haza kellett térnie a kánválasztásra.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Miért nevezik IV. Bélát a „második honalapítónak”?",
+    "reason": "A tatárjárás okozta teljes pusztulás után az országot alapjaiban kellett újjáépíteni. IV. Béla reformjai (várépítés, betelepítések, hadseregreform) egy új, a kor kihívásainak jobban megfelelő államot hoztak létre, ezért munkásságát Szent István államalapításához hasonlítják.",
+    "choices": [
+      {
+        "content": "Mert ő vezette be a kereszténységet.",
+        "correct": false
+      },
+      {
+        "content": "Mert a tatárjárás pusztítása után újjáépítette és modernizálta az országot.",
+        "correct": true
+      },
+      {
+        "content": "Mert ő hódította meg a Kárpát-medencét.",
+        "correct": false
+      },
+      {
+        "content": "Mert ő adta ki az Aranybullát.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyek voltak IV. Béla újjáépítési politikájának legfontosabb elemei a tatárjárás UTÁN?",
+    "reason": "A tatárjárás tanulságaként Béla a védelem megerősítésére fókuszált: kővárak építését rendelte el, falakkal erősíttette meg a városokat, és a népesség pótlására támogatta a telepesek (hospesek) és a kunok letelepedését. A birtokok visszavételét feladta, sőt, várépítés fejében adományozott.",
+    "choices": [
+      {
+        "content": "A királyi birtokok visszavétele a báróktól.",
+        "correct": false
+      },
+      {
+        "content": "Kővárak építésének elrendelése birtokadomány fejében.",
+        "correct": true
+      },
+      {
+        "content": "Telepesek (hospesek) és kunok behívása a népesség pótlására.",
+        "correct": true
+      },
+      {
+        "content": "A városok falakkal való megerősítésének támogatása.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ki volt az a domonkos szerzetes, aki a tatárjárás előtt hírt hozott a közelgő mongol veszélyről?",
+    "reason": "Julianus barát kétszer is járt keleten, hogy felkutassa a magyarok őshazáját. Második útjáról hozta a hírt Batu kán fenyegető levelével, amely a behódolást követelte.",
+    "choices": [
+      {
+        "content": "Szent Gellért püspök",
+        "correct": false
+      },
+      {
+        "content": "Kálti Márk",
+        "correct": false
+      },
+      {
+        "content": "Anonymus",
+        "correct": false
+      },
+      {
+        "content": "Julianus barát",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Milyen katonai tanulsággal szolgált a tatárjárás a magyar hadvezetés számára?",
+    "reason": "A muhi csata és az ország dúlása megmutatta, hogy a korábbi, földvárakra és a vármegyei haderőre épülő védelem hatástalan. Csak a kővárak és a páncélos nehézlovasság tudott ellenállni a mongol taktikának.",
+    "choices": [
+      {
+        "content": "A könnyűlovas íjászok a leghatékonyabbak.",
+        "correct": false
+      },
+      {
+        "content": "A földvárak és a szekértáborok áthatolhatatlan védelmet nyújtanak.",
+        "correct": false
+      },
+      {
+        "content": "A védelem alapját a kővárak és a páncélos nehézlovasság kell, hogy képezze.",
+        "correct": true
+      },
+      {
+        "content": "A külföldi (pápai, német) segítségnyújtásban lehet bízni.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Hogyan változott meg IV. Béla és a bárók viszonya a tatárjárás következtében?",
+    "reason": "A katasztrófa után Béla belátta, hogy az ország védelméhez szüksége van a bárók katonai és gazdasági erejére. Ezért felhagyott a konfrontatív, birtokvisszavevő politikával, és a védelem megszervezésébe bevonta őket (várépítési kötelezettség).",
+    "choices": [
+      {
+        "content": "A viszony még feszültebbé vált, mert a király őket okolta a vereségért.",
+        "correct": false
+      },
+      {
+        "content": "A király minden bárót kivégeztetett, és új arisztokráciát hozott létre.",
+        "correct": false
+      },
+      {
+        "content": "A király kompromisszumot kötött velük, és az ország védelme érdekében birtokadományokkal ösztönözte őket várépítésre.",
+        "correct": true
+      },
+      {
+        "content": "A viszony nem változott, a király folytatta a birtokok visszavételét.",
+        "correct": false
+      }
+    ]
+  }
+]

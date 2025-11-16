@@ -1,0 +1,139 @@
+[
+  {
+    "question": "Mi volt az 1723-as Pragmatica Sanctio legfőbb célja?",
+    "reason": "A törvény a Habsburg-ház nőági örökösödését rögzítette, és kimondta, hogy Magyarország és az örökös tartományok 'feloszthatatlanul és elválaszthatatlanul' tartoznak össze, a magyar rendi jogok formális fenntartása mellett.",
+    "choices": [
+      {
+        "content": "A jobbágyság felszabadítása a földesúri hatalom alól.",
+        "correct": false
+      },
+      {
+        "content": "A Habsburg-ház nőági örökösödésének biztosítása és a birodalom egységének megerősítése.",
+        "correct": true
+      },
+      {
+        "content": "Teljes függetlenség biztosítása a Magyar Királyság számára.",
+        "correct": false
+      },
+      {
+        "content": "A protestánsok és katolikusok teljes vallási egyenjogúságának kihirdetése.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Hogyan alakult a magyarság aránya Magyarország népességén belül a XVIII. század végére a betelepítések következtében?",
+    "reason": "A tétel szövege egyértelműen kimondja, hogy a jelentős népességnövekedés mellett 'a magyarság aránya az összlakosságon belül kb. 40%-ra csökkent'.",
+    "choices": [
+      { "content": "Növekedett, elérte a 75%-ot.", "correct": false },
+      { "content": "Kismértékben csökkent, kb. 60%-ra.", "correct": false },
+      {
+        "content": "Jelentősen lecsökkent, körülbelül 40%-ra.",
+        "correct": true
+      },
+      {
+        "content": "Nem változott számottevően, 50% körül maradt.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mely tényezők motiválták a XVIII. századi magyarországi benépesítést?",
+    "reason": "A szöveg szerint a folyamatot egyszerre mozgatta az udvar adóalap- és újonclétszám-növelési szándéka (A), a földbirtokosok munkaerőhiánya (B), valamint a telepesek jobb megélhetés iránti vágya (D). A C opció ellentétes az udvar katolizációs törekvéseivel.",
+    "choices": [
+      {
+        "content": "Az udvar törekvése az adóalap és a katonai újoncok számának növelésére.",
+        "correct": true
+      },
+      {
+        "content": "A magyar földbirtokosok munkaerőhiánya az elnéptelenedett birtokokon.",
+        "correct": true
+      },
+      {
+        "content": "A protestáns felekezetek tudatos megerősítése a katolikusokkal szemben.",
+        "correct": false
+      },
+      {
+        "content": "A betelepülők és a belső vándorlók reménye a jobb megélhetésre.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mit jelentett a korszakban a 'Hungarus-tudat' fogalma?",
+    "reason": "A Hungarus-tudat egy politikai-területi identitás volt, amely nem etnikai alapon, hanem a Magyar Királysághoz való tartozás alapján határozta meg a közösséget, így az ország minden lakosára kiterjedt.",
+    "choices": [
+      {
+        "content": "A magyar nyelv és kultúra felsőbbrendűségének hirdetését.",
+        "correct": false
+      },
+      {
+        "content": "A Habsburg Birodalomtól való elszakadás politikai programját.",
+        "correct": false
+      },
+      {
+        "content": "Egy etnikai alapú, modern magyar nacionalizmust.",
+        "correct": false
+      },
+      {
+        "content": "Egy politikai nemzetfogalmat, mely szerint az ország minden lakosa (nemzetiségtől függetlenül) a magyar nemzet tagja.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Az alábbi etnikai csoportok közül melyiket telepítette be az állam (az udvar) szervezetten, tudatos politikai és gazdasági célokkal?",
+    "reason": "A tétel kiemeli, hogy az állami (udvari) telepítés 'fő célcsoportja' a német (sváb) telepesek voltak, akiket a birodalomhoz hű, katolikus lakosság arányának növelése érdekében hoztak be.",
+    "choices": [
+      { "content": "Szerbeket", "correct": false },
+      { "content": "Románokat", "correct": false },
+      { "content": "Németeket (svábokat)", "correct": true },
+      { "content": "Ruszinokat", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik állami szerv gyakorolta a végrehajtó hatalmat Magyarországon a XVIII. században a nádor elnökletével?",
+    "reason": "A kulcsfogalmak között szerepel a Helytartótanács definíciója: 'A nádor elnökletével működő központi kormányszerv, amely a végrehajtó hatalmat gyakorolta Budán.'",
+    "choices": [
+      { "content": "Magyar Kancellária", "correct": false },
+      { "content": "Országgyűlés (Diéta)", "correct": false },
+      { "content": "Helytartótanács", "correct": true },
+      { "content": "Kamarai Adminisztráció", "correct": false }
+    ]
+  },
+  {
+    "question": "Milyen társadalmi jellemzője volt a 'csonka társadalmaknak' (pl. szlovákok, románok)?",
+    "reason": "A definíció szerint a csonka társadalom 'nem rendelkezett teljes társadalmi rétegződéssel, különösen hiányzott a politikai vezető szerepet betöltő saját nemessége'.",
+    "choices": [
+      {
+        "content": "Erős és befolyásos polgársággal rendelkeztek.",
+        "correct": false
+      },
+      {
+        "content": "Hiányzott a politikai vezető szerepet betöltő saját nemességük.",
+        "correct": true
+      },
+      { "content": "Kizárólag a városokban éltek.", "correct": false },
+      {
+        "content": "Teljes társadalmi rétegződéssel bírtak, a jobbágyoktól az arisztokráciáig.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "A tétel szerint a XVIII. században kialakult etnikai térkép melyik későbbi történelmi eseménynek ágyazott meg?",
+    "reason": "A 'Hosszú Távú Hatások' részben olvasható, hogy 'A XVIII. században kialakult etnikai térkép lett a későbbi nemzetiségi konfliktusok és a XX. századi területi viták (pl. Trianon) alapja.'",
+    "choices": [
+      {
+        "content": "Az 1848-49-es forradalom és szabadságharcnak.",
+        "correct": false
+      },
+      { "content": "A kiegyezésnek (1867).", "correct": false },
+      {
+        "content": "A trianoni békeszerződés területi döntéseinek.",
+        "correct": true
+      },
+      { "content": "Az 1956-os forradalomnak.", "correct": false }
+    ]
+  }
+]

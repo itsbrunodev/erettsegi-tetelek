@@ -1,0 +1,68 @@
+[
+  {
+    "content": "A \"városi levegő szabaddá tesz\" elve szerint az a jobbágy, aki ____ a város falain belül töltött, felszabadult földesúri kötöttségei alól.",
+    "missing": {
+      "choices": [
+        { "content": "három hónapot", "correct": false },
+        { "content": "egy évet és egy napot", "correct": true },
+        { "content": "öt teljes esztendőt", "correct": false },
+        { "content": "egy évtizedet", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A város leggazdagabb, távolsági kereskedelemmel foglalkozó rétegét, akik a városi tanácsot is a kezükben tartották, ____ nevezték.",
+    "missing": {
+      "choices": [
+        { "content": "plebsnek", "correct": false },
+        { "content": "hospeseknek", "correct": false },
+        { "content": "patríciusoknak", "correct": true },
+        { "content": "céhmestereknek", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Míg a szabad királyi város (civitas) a királynak volt alárendelve, addig a mezőváros (oppidum) ____ joghatósága alatt állt.",
+    "missing": {
+      "choices": [
+        { "content": "egyházi", "correct": false },
+        { "content": "földesúri", "correct": true },
+        { "content": "pápai", "correct": false },
+        { "content": "céhes", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A középkori Magyarországon a városiasodás motorja a ____ volt, amely kiváltságok adományozásával ösztönözte a fejlődést.",
+    "missing": {
+      "choices": [
+        { "content": "bárói réteg", "correct": false },
+        { "content": "pápaság", "correct": false },
+        { "content": "polgári kommunamozgalom", "correct": false },
+        { "content": "királyi hatalom", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A kétnyomásos gazdálkodást felváltó ____ rendszer növelte a termésbiztonságot és a megművelt területek nagyságát.",
+    "missing": {
+      "choices": [
+        { "content": "vetésforgó", "correct": false },
+        { "content": "ugaroló", "correct": false },
+        { "content": "háromnyomásos", "correct": true },
+        { "content": "intenzív", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A feudális, önellátó gazdálkodást a városok megjelenésével egyre inkább felváltotta az ____ alapuló rendszer.",
+    "missing": {
+      "choices": [
+        { "content": "árutermelésen és pénzgazdálkodáson", "correct": true },
+        { "content": "állami újraelosztáson", "correct": false },
+        { "content": "roboton és terményszolgáltatáson", "correct": false },
+        { "content": "hűbéri láncolaton", "correct": false }
+      ]
+    }
+  }
+]

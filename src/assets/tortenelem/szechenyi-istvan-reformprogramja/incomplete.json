@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Széchenyi javaslata a jobbágyfelszabadításra az ____ volt, mely szerint a jobbágy a földesúrral megegyezve, saját erejéből válthatta volna meg magát és a földjét.",
+    "missing": {
+      "choices": [
+        { "content": "kötelező örökváltság", "correct": false },
+        { "content": "önkéntes örökváltság", "correct": true },
+        { "content": "állami kárpótlás", "correct": false },
+        { "content": "jobbágy-amnesztia", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A nemesi birtokok modernizálásához szükséges hitelfelvételt legfőképpen az ____ törvénye akadályozta meg.",
+    "missing": {
+      "choices": [
+        { "content": "Aranybulla", "correct": false },
+        { "content": "Pragmatica Sanctio", "correct": false },
+        { "content": "ősiség", "correct": true },
+        { "content": "úrbéri pátens", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Széchenyi angliai mintára hozta létre a ____ nevű intézményt, amely a társasági élet és a politikai eszmecsere központja lett.",
+    "missing": {
+      "choices": [
+        { "content": "Magyar Tudományos Akadémiát", "correct": false },
+        { "content": "Pesti Hengermalmot", "correct": false },
+        { "content": "Óbudai Hajógyárat", "correct": false },
+        { "content": "Nemzeti Casinót", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A Hitel című művet ért konzervatív kritikákra (pl. Dessewffy József Taglalatára) Széchenyi a ____ című munkájában válaszolt.",
+    "missing": {
+      "choices": [
+        { "content": "Stádium", "correct": false },
+        { "content": "Világ", "correct": true },
+        { "content": "Felelet", "correct": false },
+        { "content": "A Kelet Népe", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A Pest és Buda közötti állandó összeköttetést biztosító ____ hídpénze volt az első rés a nemesi adómentesség pajzsán.",
+    "missing": {
+      "choices": [
+        { "content": "Lánchíd", "correct": true },
+        { "content": "Margit híd", "correct": false },
+        { "content": "Vaskapu-csatorna", "correct": false },
+        { "content": "Erzsébet híd", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Széchenyi politikai ellenfele, Kossuth Lajos a reformok bázisát a ____ látta, szemben Széchenyi arisztokrata-központú elképzelésével.",
+    "missing": {
+      "choices": [
+        { "content": "polgárságban és a jobbágyságban", "correct": false },
+        { "content": "bécsi udvarral való szövetségben", "correct": false },
+        { "content": "köznemességben és az értelmiségben", "correct": true },
+        { "content": "katolikus papságban", "correct": false }
+      ]
+    }
+  }
+]

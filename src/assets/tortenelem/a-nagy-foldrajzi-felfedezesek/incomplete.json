@@ -1,0 +1,68 @@
+[
+  {
+    "content": "A spanyol hódítókat, akik a 16. században leigázták az amerikai indián birodalmakat, ____ nevezték.",
+    "missing": {
+      "choices": [
+        { "content": "felfedezőknek", "correct": false },
+        { "content": "kalózoknak", "correct": false },
+        { "content": "konkvisztádoroknak", "correct": true },
+        { "content": "zsoldosoknak", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "1492-ben Kolumbusz Kristóf partot ért Amerikában, bár élete végéig abban a hitben élt, hogy ____ keleti részét érte el.",
+    "missing": {
+      "choices": [
+        { "content": "Afrika", "correct": false },
+        { "content": "Ausztrália", "correct": false },
+        { "content": "Európa", "correct": false },
+        { "content": "Ázsia", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A ____ csere a kontinensek közötti növények, állatok és betegségek cseréjét jelentette a felfedezések után.",
+    "missing": {
+      "choices": [
+        { "content": "transzatlanti", "correct": false },
+        { "content": "kolumbiai", "correct": true },
+        { "content": "atlanti", "correct": false },
+        { "content": "globális", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az Oszmán Birodalom terjeszkedése megdrágította és veszélyeztette a ____ kereskedelmet, ami új útvonalak keresésére ösztönözte az európaiakat.",
+    "missing": {
+      "choices": [
+        { "content": "levantei", "correct": true },
+        { "content": "hanzai", "correct": false },
+        { "content": "selyemúti", "correct": false },
+        { "content": "óceáni", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Ferdinánd Magellán expedíciója (1519-1522) elsőként ____, ezzel a gyakorlatban is bizonyítva a Föld gömb alakját.",
+    "missing": {
+      "choices": [
+        { "content": "érte el Amerikát", "correct": false },
+        { "content": "kerülte meg Afrikát", "correct": false },
+        { "content": "hajózta körül a Földet", "correct": true },
+        { "content": "jutott el Indiába", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A megnövekedett keresletet a céhes ipar már nem tudta kielégíteni, ezért megjelentek a munkamegosztáson alapuló ____, a tőkés termelés előfutárai.",
+    "missing": {
+      "choices": [
+        { "content": "céhek", "correct": false },
+        { "content": "manufaktúrák", "correct": true },
+        { "content": "gyárak", "correct": false },
+        { "content": "szövetkezetek", "correct": false }
+      ]
+    }
+  }
+]

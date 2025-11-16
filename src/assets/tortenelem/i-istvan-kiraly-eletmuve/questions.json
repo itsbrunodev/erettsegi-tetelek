@@ -1,0 +1,106 @@
+[
+  {
+    "question": "Milyen öröklési elv alapján lépett fel István Koppánnyal szemben, aki a szeniorátust képviselte?",
+    "reason": "A tétel egyértelműen szembeállítja a pogány magyar szeniorátus elvét (a nemzetség legidősebb tagja örököl), amelyet Koppány képviselt, az István által bevezetni kívánt keresztény, európai primogenitúrával (az elsőszülött fiú örököl).",
+    "choices": [
+      { "content": "Levirátus (sógorházasság)", "correct": false },
+      { "content": "Primogenitúra (elsőszülöttség)", "correct": true },
+      {
+        "content": "Szeniorátus (a nemzetség legidősebb tagjának joga)",
+        "correct": false
+      },
+      { "content": "Választófejedelemség", "correct": false }
+    ]
+  },
+  {
+    "question": "Miért volt kiemelkedően fontos diplomáciai lépés, hogy István a pápától kapott koronát, nem pedig a német-római császártól?",
+    "reason": "A koronázás a pápától történt, ami kinyilvánította Magyarország függetlenségét és elkerülte a hűbéri függést a Német-római Birodalomtól, ezzel egyenrangú helyet biztosítva az európai keresztény királyságok sorában.",
+    "choices": [
+      {
+        "content": "Mert a pápa katonai szövetséget is ajánlott a korona mellé.",
+        "correct": false
+      },
+      {
+        "content": "Mert a császár nem akart koronát adni egy pogány fejedelemnek.",
+        "correct": false
+      },
+      {
+        "content": "Mert ez biztosította Magyarország függetlenségét a Német-római Birodalomtól.",
+        "correct": true
+      },
+      {
+        "content": "Mert a pápai korona régebbinek és értékesebbnek számított.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik ellenfelének legyőzése után került a Kárpát-medence egésze István uralma alá?",
+    "reason": "A tétel szerint Ajtony, a Maros-vidék ura bizánci támogatást élvezett, és az ő 1028-as legyőzésével vált teljessé István uralma a Kárpát-medence fölött.",
+    "choices": [
+      { "content": "Koppány, a somogyi úr", "correct": false },
+      { "content": "Vazul, az unokatestvére", "correct": false },
+      { "content": "Az erdélyi Gyula", "correct": false },
+      { "content": "Ajtony, a Maros-vidék ura", "correct": true }
+    ]
+  },
+  {
+    "question": "Melyik intézmény volt a királyi hatalom helyi végrehajtó szerve, amely felszámolta a korábbi törzsi-nemzetségi szerkezetet?",
+    "reason": "A tétel kulcsfogalomként definiálja a vármegyerendszert, mint István által létrehozott területi alapú közigazgatási egységet, amely az ispánon és a királyi váron keresztül biztosította a központi hatalom érvényesülését.",
+    "choices": [
+      { "content": "Az egyházmegye", "correct": false },
+      { "content": "A nemzetségi gyűlés", "correct": false },
+      { "content": "A vármegyerendszer", "correct": true },
+      { "content": "A bencés kolostorok hálózata", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyek voltak I. István törvénykönyveinek legfőbb célkitűzései?",
+    "reason": "A tétel kiemeli, hogy István törvényei a magántulajdon védelmét (szemben a nemzetségi tulajdonnal) és a keresztény vallásgyakorlás (templomba járás, ünnepek) kötelezővé tételét szolgálták, hogy megerősítsék az új társadalmi rendet.",
+    "choices": [
+      { "content": "A magántulajdon védelme.", "correct": true },
+      { "content": "A kalandozó hadjáratok újraindítása.", "correct": false },
+      {
+        "content": "A kötelező keresztény vallásgyakorlás előírása.",
+        "correct": true
+      },
+      {
+        "content": "A szeniorátus öröklési rendjének törvénybe iktatása.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik esemény bizonyította az István által létrehozott magyar állam katonai erejét és függetlenségét a külső hatalmakkal szemben?",
+    "reason": "A szöveg az eredmények között említi, hogy István sikeresen visszaverte II. Konrád német-római császár 1030-as támadását, ami az új állam katonai életképességét igazolta.",
+    "choices": [
+      { "content": "A pápától kapott korona.", "correct": false },
+      {
+        "content": "II. Konrád császár 1030-as támadásának visszaverése.",
+        "correct": true
+      },
+      { "content": "A pannonhalmi apátság megalapítása.", "correct": false },
+      { "content": "A zarándokút megnyitása a Szentföldre.", "correct": false }
+    ]
+  },
+  {
+    "question": "Ki volt az a Géza fejedelem által behívott német lovag, aki segítette Istvánt a Koppány elleni harcban?",
+    "reason": "A tétel a Koppány legyőzéséről szóló részben név szerint említi Vecelint, mint a seregét erősítő német (bajor) lovagok egyikét, aki technikai fölényt biztosított Istvánnak.",
+    "choices": [
+      { "content": "II. Szilveszter pápa", "correct": false },
+      { "content": "I. Ottó császár", "correct": false },
+      { "content": "Vecelin", "correct": true },
+      { "content": "Orseolo Péter", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi okozta a trónutódlási válságot István uralkodásának végén?",
+    "reason": "A szöveg világosan leírja, hogy Imre herceg 1031-es, vadászbalesetben bekövetkezett halála után kezdődött a válság, mivel István nem a pogány hagyományoknak megfelelő Vazult, hanem unokaöccsét, Orseolo Pétert jelölte utódjául.",
+    "choices": [
+      { "content": "Koppány felkelése.", "correct": false },
+      { "content": "II. Konrád császár támadása.", "correct": false },
+      { "content": "Imre herceg váratlan halála.", "correct": true },
+      { "content": "Gizella királyné elégedetlensége.", "correct": false }
+    ]
+  }
+]

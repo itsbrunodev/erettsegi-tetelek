@@ -1,0 +1,68 @@
+[
+  {
+    "content": "A ____ a Habsburg-ház nőági örökösödését biztosító törvény volt, mely kimondta Magyarország és az örökös tartományok 'feloszthatatlan és elválaszthatatlan' egységét.",
+    "missing": {
+      "choices": [
+        { "content": "Szatmári béke", "correct": false },
+        { "content": "Helytartótanács rendelete", "correct": false },
+        { "content": "Pragmatica Sanctio", "correct": true },
+        { "content": "Aranybulla", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A török háborúk utáni elnéptelenedés miatt a XVIII. századi Magyarország benépesítésének egyik fő formája a sűrűbben lakott hegyvidéki területekről az Alföld felé irányuló ____ volt.",
+    "missing": {
+      "choices": [
+        { "content": "kivándorlás", "correct": false },
+        { "content": "belső vándorlás", "correct": true },
+        { "content": "városiasodás", "correct": false },
+        { "content": "állami deportálás", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A korszakra jellemző ____ nem etnikai, hanem politikai-területi alapon határozta meg a közösséghez tartozást, azaz az ország minden lakosát a magyar politikai nemzet részének tekintette.",
+    "missing": {
+      "choices": [
+        { "content": "birodalmi tudat", "correct": false },
+        { "content": "nemzeti ébredés", "correct": false },
+        { "content": "rendi nacionalizmus", "correct": false },
+        { "content": "Hungarus-tudat", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A ____ társadalom olyan nemzetiségi közösséget jelentett, amely nem rendelkezett teljes társadalmi rétegződéssel, mert hiányzott a politikai vezető szerepet betöltő saját nemessége.",
+    "missing": {
+      "choices": [
+        { "content": "csonka", "correct": true },
+        { "content": "teljes", "correct": false },
+        { "content": "polgári", "correct": false },
+        { "content": "törzsi", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az udvar a Török Birodalom felől érkező szerbeket a déli határ fegyveres védelmére a ____ telepítette le, cserébe katonai kiváltságokat biztosított számukra.",
+    "missing": {
+      "choices": [
+        { "content": "Felvidéken", "correct": false },
+        { "content": "Partiumban", "correct": false },
+        { "content": "Határőrvidéken", "correct": true },
+        { "content": "Dunántúlon", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A Habsburg-udvar tudatos birodalmi politikájának része volt a katolikus és a dinasztiához hű ____ lakosság betelepítése, amellyel a magyar rendi ellenzék bázisát is gyengíteni kívánták.",
+    "missing": {
+      "choices": [
+        { "content": "németajkú", "correct": true },
+        { "content": "román", "correct": false },
+        { "content": "szlovák", "correct": false },
+        { "content": "ruszin", "correct": false }
+      ]
+    }
+  }
+]

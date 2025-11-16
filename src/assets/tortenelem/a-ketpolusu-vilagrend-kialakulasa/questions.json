@@ -1,0 +1,118 @@
+[
+  {
+    "question": "Mi volt a Truman-doktrína elsődleges célja?",
+    "reason": "A Truman-doktrína az USA külpolitikájának alapelve lett, amely a kommunizmus terjedésének megakadályozására, azaz a 'feltartóztatására' irányult katonai és gazdasági eszközökkel.",
+    "choices": [
+      { "content": "Európa gazdasági újjáépítése.", "correct": false },
+      { "content": "A Szovjetunió katonai megtámadása.", "correct": false },
+      {
+        "content": "A kommunizmus további terjedésének megakadályozása (feltartóztatás).",
+        "correct": true
+      },
+      { "content": "Az ENSZ létrehozásának felgyorsítása.", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik eseményt tekintik a hidegháború csúcspontjának, amikor a világ a legközelebb került egy nukleáris háborúhoz?",
+    "reason": "A kubai rakétaválság során a két szuperhatalom közvetlenül szembekerült egymással, miután a Szovjetunió atomrakétákat telepített Kubába, az USA pedig tengeri blokáddal válaszolt.",
+    "choices": [
+      { "content": "A koreai háború kitörése.", "correct": false },
+      { "content": "A berlini fal felépítése.", "correct": false },
+      { "content": "A kubai rakétaválság.", "correct": true },
+      { "content": "A Szovjetunió afganisztáni bevonulása.", "correct": false }
+    ]
+  },
+  {
+    "question": "Mely tényezők játszottak szerepet a kétpólusú világrend kialakulásában a II. világháború után?",
+    "reason": "A hidegháború kiváltó okai összetettek voltak: az alapvető ideológiai különbség, a náci Németország veresége után Európában keletkezett hatalmi vákuum, és a szövetségesek közötti kölcsönös bizalmatlanság egyaránt hozzájárult a szembenálláshoz.",
+    "choices": [
+      {
+        "content": "A kapitalista és a kommunista rendszerek közötti kibékíthetetlen ideológiai ellentét.",
+        "correct": true
+      },
+      { "content": "A gyarmati rendszerek megerősödése.", "correct": false },
+      {
+        "content": "A náci Németország veresége után kialakult hatalmi vákuum Európában.",
+        "correct": true
+      },
+      {
+        "content": "A háború végi konferenciákon (Jalta, Potsdam) felszínre kerülő kölcsönös bizalmatlanság.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Melyik katonai szövetség jött létre a Szovjetunió és a keleti blokk országainak részvételével, a NATO ellensúlyozására?",
+    "reason": "A Varsói Szerződést 1955-ben hozta létre a Szovjetunió és a csatlós államai, válaszul arra, hogy az NSZK csatlakozott a nyugati katonai szövetséghez, a NATO-hoz.",
+    "choices": [
+      { "content": "KGST", "correct": false },
+      { "content": "Európai Gazdasági Közösség", "correct": false },
+      { "content": "NATO", "correct": false },
+      { "content": "Varsói Szerződés", "correct": true }
+    ]
+  },
+  {
+    "question": "Mi volt a Marshall-terv?",
+    "reason": "A Marshall-terv egy amerikai gazdasági segélyprogram volt, amely a háború sújtotta európai országok újjáépítését célozta, ezzel stabilizálva őket és csökkentve a kommunista pártok vonzerejét.",
+    "choices": [
+      {
+        "content": "Egy katonai stratégia a Szovjetunió lerohanására.",
+        "correct": false
+      },
+      {
+        "content": "Gazdasági segélyprogram Európa újjáépítésére és a kommunizmus visszaszorítására.",
+        "correct": true
+      },
+      {
+        "content": "A berlini légihíd megszervezésének fedőneve.",
+        "correct": false
+      },
+      {
+        "content": "A kelet-európai országok gazdasági integrációját célzó szovjet program.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Winston Churchill 1946-os fultoni beszédében milyen híres kifejezéssel írta le Európa kettéosztottságát?",
+    "reason": "A 'vasfüggöny' metafora tökéletesen szimbolizálta Európa politikai, katonai és ideológiai kettészakadását a nyugati és a szovjet befolyási övezet között.",
+    "choices": [
+      { "content": "Berlini fal", "correct": false },
+      { "content": "Hidegháború", "correct": false },
+      { "content": "Vasfüggöny", "correct": true },
+      { "content": "Feltartóztatás", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik konfliktus NEM volt a hidegháború ún. 'forró', helyi háborúja?",
+    "reason": "A berlini blokád egy politikai és logisztikai krízis volt, de nem torkollott közvetlen fegyveres összecsapásba a szuperhatalmak erői között, ellentétben a koreai, vietnámi vagy afganisztáni háborúkkal.",
+    "choices": [
+      { "content": "Koreai háború", "correct": false },
+      { "content": "Vietnámi háború", "correct": false },
+      { "content": "Berlini blokád", "correct": true },
+      { "content": "Szovjet invázió Afganisztánban", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi lett a hidegháború egyik legfontosabb hosszú távú következménye?",
+    "reason": "A fegyverkezési verseny gazdaságilag kimerítette a Szovjetuniót, ami a rendszer belső problémáival együtt annak 1991-es összeomlásához vezetett, lezárva a hidegháborút.",
+    "choices": [
+      {
+        "content": "Kína és a Szovjetunió egységének megerősödése.",
+        "correct": false
+      },
+      {
+        "content": "A Szovjetunió gazdasági megerősödése és összeomlása.",
+        "correct": true
+      },
+      {
+        "content": "A gyarmati rendszer teljes helyreállítása.",
+        "correct": false
+      },
+      {
+        "content": "Németország tartós kettéosztottsága a 21. században is.",
+        "correct": false
+      }
+    ]
+  }
+]

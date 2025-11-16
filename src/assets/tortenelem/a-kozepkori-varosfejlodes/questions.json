@@ -1,0 +1,145 @@
+[
+  {
+    "question": "Mi volt a XI-XIII. századi városfejlődés legfontosabb gazdasági előfeltétele?",
+    "reason": "A mezőgazdasági forradalom (pl. nehézeke, háromnyomásos gazdálkodás) élelmiszer-felesleget teremtett, ami lehetővé tette, hogy a népesség egy része elszakadjon a földműveléstől és más tevékenységekkel foglalkozzon.",
+    "choices": [
+      {
+        "content": "A keresztes hadjáratok által szerzett hatalmas vagyon.",
+        "correct": false
+      },
+      {
+        "content": "A nehézipar és a bányászat ugrásszerű fejlődése.",
+        "correct": false
+      },
+      {
+        "content": "A mezőgazdasági termelés hatékonyságának növekedése.",
+        "correct": true
+      },
+      {
+        "content": "A Római Birodalom úthálózatának újrafelfedezése.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik szervezet szabályozta a középkori városokban a kézműves termelést, az árakat és a minőséget?",
+    "reason": "A definíció szerint a céh volt az egyazon szakmát űző kézművesek érdekvédelmi szervezete, amely szabályozta a termelés kereteit és a piacot.",
+    "choices": [
+      { "content": "A kommuna (városi önkormányzat)", "correct": false },
+      { "content": "A céh", "correct": true },
+      { "content": "A patriciátus", "correct": false },
+      { "content": "A Hanza-szövetség", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt a legfontosabb különbség a nyugat-európai és a magyarországi városfejlődés között?",
+    "reason": "A tétel kiemeli, hogy míg Nyugaton a városok 'alulról', a polgárok küzdelmei révén jöttek létre, Magyarországon a folyamat motorja a 'felülről' jövő királyi akarat volt.",
+    "choices": [
+      { "content": "Magyarországon nem voltak céhek.", "correct": false },
+      {
+        "content": "Nyugat-Európában nem létezett a távolsági kereskedelem.",
+        "correct": false
+      },
+      {
+        "content": "Magyarországon a városfejlődést a királyi hatalom kezdeményezte és irányította.",
+        "correct": true
+      },
+      {
+        "content": "A magyar városoknak sosem volt önkormányzatuk.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kik voltak a hospesek a középkori Magyarországon?",
+    "reason": "A hospesek Nyugat-Európából érkező telepesek voltak, akiket a királyok kiváltságokkal csábítottak az országba a gazdaság, különösen a városi élet fellendítése érdekében.",
+    "choices": [
+      { "content": "A királyi udvarban szolgáló lovagok.", "correct": false },
+      {
+        "content": "Földesúri függés alól elszökött jobbágyok.",
+        "correct": false
+      },
+      {
+        "content": "Nyugat-Európából érkező, kiváltságokkal letelepített vendégek.",
+        "correct": true
+      },
+      {
+        "content": "A városi polgárjoggal nem rendelkező alsó réteg tagjai (plebs).",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mit jelentett a középkori városjogban az „árumegállító jog”?",
+    "reason": "Ez a kiváltság arra kötelezte az idegen kereskedőket, hogy a városon áthaladva áruikat kirakodják és eladásra kínálják a helyi piacon, ami a város gazdasági hasznát szolgálta.",
+    "choices": [
+      {
+        "content": "A város joga a nem megfelelő minőségű áruk elkobzására.",
+        "correct": false
+      },
+      {
+        "content": "A földesúr joga a város összes árujának megvásárlására.",
+        "correct": false
+      },
+      {
+        "content": "A város joga, hogy az átutazó kereskedőket árujuk eladására kötelezze.",
+        "correct": true
+      },
+      { "content": "A céhek joga az árak rögzítésére.", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik állítás igaz a magyarországi mezővárosokra (oppidum)?",
+    "reason": "A mezővárosok (oppidum) földesúri joghatóság alatt álltak, jellemzően nem vehette őket körül fal, és autonómiájuk korlátozottabb volt a szabad királyi városokéhoz (civitas) képest.",
+    "choices": [
+      {
+        "content": "A királynak közvetlenül alárendelt, fallal körülvett települések voltak.",
+        "correct": false
+      },
+      {
+        "content": "Földesúri joghatóság alatt álltak és korlátozottabb kiváltságokkal rendelkeztek.",
+        "correct": true
+      },
+      {
+        "content": "Kizárólag a bányavidékeken jöttek létre.",
+        "correct": false
+      },
+      {
+        "content": "Nem rendelkeztek piaccal és iparos lakossággal.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyek tartoztak a városi önkormányzat legfontosabb kiváltságai (privilégiumai) közé?",
+    "reason": "A tétel felsorolja a városi önkormányzat jogai között a szabad bíróválasztást és a földesúr felé egy összegben történő adózást, mint a kommuna által kiharcolt legfontosabb privilégiumokat.",
+    "choices": [
+      { "content": "A szabad bíróválasztás.", "correct": true },
+      { "content": "Az egyösszegű adózás a földesúr felé.", "correct": true },
+      { "content": "Saját hadsereg fenntartásának joga.", "correct": false },
+      { "content": "Saját pénz verésének joga.", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt a városok hosszú távú hatása az európai társadalomra?",
+    "reason": "A szöveg szerint a városi autonómia és a polgári mentalitás teremtette meg a kapitalizmus és a modern polgári demokráciák alapjait, valamint a városhálózat máig meghatározó.",
+    "choices": [
+      {
+        "content": "A feudális rend megerősödése és a jobbágyi kötöttségek szigorodása.",
+        "correct": false
+      },
+      {
+        "content": "Az önellátó gazdálkodás kizárólagossá válása.",
+        "correct": false
+      },
+      {
+        "content": "A kapitalizmus és a modern polgári demokráciák alapjainak megteremtése.",
+        "correct": true
+      },
+      {
+        "content": "A központi királyi hatalom teljes összeomlása.",
+        "correct": false
+      }
+    ]
+  }
+]

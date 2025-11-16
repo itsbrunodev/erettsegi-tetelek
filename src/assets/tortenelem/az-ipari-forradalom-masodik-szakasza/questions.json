@@ -1,0 +1,127 @@
+[
+  {
+    "question": "Mi volt a legfontosabb különbség az első és a második ipari forradalom innovációs folyamata között?",
+    "reason": "A tétel kiemeli, hogy az első forradalom a gyakorlatias feltalálókra épült, míg a másodiknál a tudományos kutatás (kémia, fizika) vált az innováció motorjává.",
+    "choices": [
+      { "content": "A gőzgép feltalálása és elterjedése.", "correct": false },
+      {
+        "content": "A tudományos kutatások eredményeinek közvetlen ipari alkalmazása.",
+        "correct": true
+      },
+      {
+        "content": "A vasútépítés megkezdése és a közlekedés átalakulása.",
+        "correct": false
+      },
+      {
+        "content": "A gyárak kizárólag Angliában koncentrálódtak.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik három iparág volt a második ipari forradalom húzóágazata?",
+    "reason": "A \"Kulcsinformációk\" rész egyértelműen az acélgyártást, a vegyipart és az elektrotechnikai ipart nevezi meg a korszak technológiai robbanásának alapjaiként.",
+    "choices": [
+      { "content": "Textilipar, szénbányászat, vaskohászat", "correct": false },
+      {
+        "content": "Élelmiszeripar, hajógyártás, mezőgazdaság",
+        "correct": false
+      },
+      {
+        "content": "Nehézipar (acélgyártás), vegyipar, elektrotechnikai ipar",
+        "correct": true
+      },
+      { "content": "Nyomdaipar, óragyártás, porcelángyártás", "correct": false }
+    ]
+  },
+  {
+    "question": "Ki forradalmasította az autógyártást a futószalagos tömegtermelés bevezetésével?",
+    "reason": "Henry Ford nevéhez fűződik a T-modell és a futószalagos gyártás, amely a tömegtermelés és a fogyasztói társadalom alapjait rakta le.",
+    "choices": [
+      { "content": "Nikolaus Otto", "correct": false },
+      { "content": "Thomas Edison", "correct": false },
+      { "content": "Alexander Graham Bell", "correct": false },
+      { "content": "Henry Ford", "correct": true }
+    ]
+  },
+  {
+    "question": "Hogyan változott meg a világgazdaság erőegyensúlya a második ipari forradalom következtében?",
+    "reason": "A tétel az \"egyenlőtlen fejlődés\" fogalmánál hangsúlyozza, hogy Nagy-Britannia lemaradt, míg az USA és Németország felemelkedett és átvette a vezető szerepet.",
+    "choices": [
+      {
+        "content": "Nagy-Britannia tovább növelte gazdasági előnyét.",
+        "correct": false
+      },
+      {
+        "content": "Franciaország és Oroszország lett a két vezető hatalom.",
+        "correct": false
+      },
+      {
+        "content": "Az Amerikai Egyesült Államok és Németország átvette a vezető szerepet Nagy-Britanniától.",
+        "correct": true
+      },
+      {
+        "content": "Kína vált a világ legfontosabb ipari termelőjévé.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik gazdasági formát váltotta fel a monopolkapitalizmus?",
+    "reason": "A definíció szerint a monopolkapitalizmus az óriásvállalatok által uralt gazdasági forma, amely a korábbi, kisebb szereplőkre épülő szabadversenyes kapitalizmust követte.",
+    "choices": [
+      { "content": "A feudális gazdaságot", "correct": false },
+      { "content": "A szabadversenyes kapitalizmust", "correct": true },
+      { "content": "A tervgazdálkodást", "correct": false },
+      { "content": "A merkantilizmust", "correct": false }
+    ]
+  },
+  {
+    "question": "Mely új energiaforrások játszottak kulcsszerepet ebben az időszakban?",
+    "reason": "A kőolaj a belső égésű motorok üzemanyaga lett, az elektromosság pedig a gőzt felváltó tiszta és sokoldalú energiaforrás a gyárakban és a háztartásokban.",
+    "choices": [
+      { "content": "Szén és gőz", "correct": false },
+      { "content": "Vízenergia és szélenergia", "correct": false },
+      { "content": "Kőolaj és elektromosság", "correct": true },
+      { "content": "Atomenergia és napenergia", "correct": false }
+    ]
+  },
+  {
+    "question": "Mely társadalmi következményei voltak a második ipari forradalomnak a nyugati világban?",
+    "reason": "A tétel expliciten említi a középosztály (mérnökök, hivatalnokok) megerősödését, valamint az urbanizációt, ami a metropoliszok és a nagy létszámú, szervezett ipari munkásság kialakulásához vezetett.",
+    "choices": [
+      {
+        "content": "A jobbágyság intézményének megerősödése.",
+        "correct": false
+      },
+      {
+        "content": "A középosztály (pl. mérnökök, hivatalnokok) megerősödése.",
+        "correct": true
+      },
+      {
+        "content": "A városok elnéptelenedése és a falusi életmód felértékelődése.",
+        "correct": false
+      },
+      {
+        "content": "Modern nagyvárosok (metropoliszok) kialakulása és a szervezett ipari munkásság megjelenése.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Melyik találmány NEM köthető az 1870-es évekhez?",
+    "reason": "A Wright fivérek első sikeres motoros repülésére 1903-ban került sor, míg a telefon (1876), a belső égésű motor (1876) és a szénszálas izzó (1879) mind az 1870-es évek találmányai.",
+    "choices": [
+      { "content": "A telefon (Alexander Graham Bell)", "correct": false },
+      {
+        "content": "A négyütemű belső égésű motor (Nikolaus Otto)",
+        "correct": false
+      },
+      { "content": "A szénszálas izzólámpa (Thomas Edison)", "correct": false },
+      {
+        "content": "Az első sikeres motoros repülés (Wright fivérek)",
+        "correct": true
+      }
+    ]
+  }
+]

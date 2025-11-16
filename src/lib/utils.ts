@@ -12,20 +12,17 @@ export function formatDate(date: string): string {
 
   const trimmed = date.trim();
 
-  // Handle centuries (e.g. "14. sz.", "19. század", "Kr. e. 5. sz.")
   if (/^Kr\.?\s*e\.?\s*\d{1,2}\.?\s*(sz\.|század)?$/i.test(trimmed)) {
-    return trimmed.replace(/\s+/g, " ").trim(); // normalize spacing
+    return trimmed.replace(/\s+/g, " ").trim();
   }
   if (/^\d{1,2}\.?\s*(sz\.|század)$/i.test(trimmed)) {
     return trimmed.replace(/\s+/g, " ").trim();
   }
 
-  // Handle "Kr. e." with specific years (e.g. "Kr. e. 356")
   if (/^Kr\.?\s*e\.?\s*\d{1,4}$/.test(trimmed)) {
     return trimmed.replace(/\s+/g, " ").trim();
   }
 
-  // choose options by pattern
   const dayPattern = /^\d{4}-\d{2}-\d{2}$/;
   const monthPattern = /^\d{4}-\d{2}$/;
   const yearPattern = /^\d{4}$/;
@@ -43,51 +40,38 @@ export function formatDate(date: string): string {
 
     return new Intl.DateTimeFormat("hu", options).format(new Date(trimmed));
   } catch {
-    // fallback to date string if parsing fails
     return date;
   }
 }
 
-/**
- * Converts a date string to a numeric value for sorting
- * Lower numbers = earlier in history
- * Handles: BCE dates, centuries, ISO dates (YYYY-MM-DD, YYYY-MM, YYYY)
- */
 function dateToSortValue(dateStr: string): number {
-  if (!dateStr) return Number.POSITIVE_INFINITY; // No date goes to the end
+  if (!dateStr) return Number.POSITIVE_INFINITY;
 
   const trimmed = dateStr.trim();
 
-  // Handle BCE centuries (e.g., "Kr. e. 5. sz.")
-  const bceСenturyMatch = trimmed.match(
+  const bceCenturyMatch = trimmed.match(
     /Kr\.?\s*e\.?\s*(\d{1,2})\.?\s*(sz\.|század)/i,
   );
-  if (bceСenturyMatch) {
-    const century = Number.parseInt(bceСenturyMatch[1]);
-    // BCE 5th century = -500 to -401, use middle point
+  if (bceCenturyMatch) {
+    const century = Number.parseInt(bceCenturyMatch[1]);
     return -(century * 100 - 50);
   }
 
-  // Handle BCE years (e.g., "Kr. e. 356")
   const bceYearMatch = trimmed.match(/Kr\.?\s*e\.?\s*(\d{1,4})$/i);
   if (bceYearMatch) {
     return -Number.parseInt(bceYearMatch[1]);
   }
 
-  // Handle CE centuries (e.g., "11. sz.", "14. század")
   const centuryMatch = trimmed.match(/^(\d{1,2})\.?\s*(sz\.|század)$/i);
   if (centuryMatch) {
     const century = Number.parseInt(centuryMatch[1]);
-    // 11th century = 1001-1100, use middle point
     return (century - 1) * 100 + 50;
   }
 
-  // Handle ISO date formats
   if (/^\d{4}(-\d{2}(-\d{2})?)?$/.test(trimmed)) {
     try {
       const date = new Date(trimmed);
       if (!Number.isNaN(date.getTime())) {
-        // Return year with fractional part for month/day precision
         const year = date.getFullYear();
         const dayOfYear = Math.floor(
           (date.getTime() - new Date(year, 0, 0).getTime()) /
@@ -95,19 +79,12 @@ function dateToSortValue(dateStr: string): number {
         );
         return year + dayOfYear / 366;
       }
-    } catch {
-      // Fall through to return Infinity
-    }
+    } catch {}
   }
 
-  // Unknown format - put at the end
   return Number.POSITIVE_INFINITY;
 }
 
-/**
- * Sorts an array of theses in chronological order
- * Uses startDate for sorting, falls back to endDate if startDate is missing
- */
 export function sortChronologically(theses: Thesis[]): Thesis[] {
   return [...theses].sort((a, b) => {
     const aDate = a.data.startDate?.date || a.data.endDate?.date || "";
@@ -120,12 +97,13 @@ export function sortChronologically(theses: Thesis[]): Thesis[] {
   });
 }
 
-export function stringToColor(str: string): string {
-  let hash = 0;
-  for (let i = 0; i < str.length; i++) {
-    hash = str.charCodeAt(i) + ((hash << 5) - hash);
-    hash = hash & hash; // Ensure 32bit integer
+export function shuffleArray<T>(array: T[]): T[] {
+  const newArray = [...array];
+
+  for (let i = newArray.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [newArray[i], newArray[j]] = [newArray[j], newArray[i]];
   }
-  const hue = hash % 360;
-  return `hsl(${hue}, 70%, 80%)`; // Using HSL for pleasant, consistent colors
+
+  return newArray;
 }

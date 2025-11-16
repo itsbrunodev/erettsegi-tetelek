@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Az 1848-as magyar forradalom az európai ____ szerves része volt.",
+    "missing": {
+      "choices": [
+        { "content": "„Szent Szövetségének”", "correct": false },
+        { "content": "„népek tavaszának”", "correct": true },
+        { "content": "„ipari forradalmának”", "correct": false },
+        { "content": "„felvilágosodásának”", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A pozsonyi országgyűlésen Kossuth egy átfogó programot terjesztett elő: jobbágyfelszabadítás, közteherviselés és ____ kormányzás.",
+    "missing": {
+      "choices": [
+        { "content": "abszolutista", "correct": false },
+        { "content": "rendi", "correct": false },
+        { "content": "alkotmányos", "correct": true },
+        { "content": "katonai", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Március 15-én a pesti tömeg a Helytartótanáccsal is elfogadtatta követeléseit, és kiszabadították börtönéből ____.",
+    "missing": {
+      "choices": [
+        { "content": "Kossuth Lajost", "correct": false },
+        { "content": "Wesselényi Miklóst", "correct": false },
+        { "content": "Lovassy Lászlót", "correct": false },
+        { "content": "Táncsics Mihályt", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "V. Ferdinánd király 1848. április 11-én ____ az országgyűlés által kidolgozott áprilisi törvényeket.",
+    "missing": {
+      "choices": [
+        { "content": "szentesítette", "correct": true },
+        { "content": "elutasította", "correct": false },
+        { "content": "megvétózta", "correct": false },
+        { "content": "felülvizsgálatra visszaküldte", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A magyar kormány nem biztosított kollektív jogokat és autonómiát a ____, akiknek elégedetlenségét a bécsi udvar kihasználta.",
+    "missing": {
+      "choices": [
+        { "content": "nemességnek", "correct": false },
+        { "content": "jobbágyságnak", "correct": false },
+        { "content": "nemzetiségeknek", "correct": true },
+        { "content": "papságnak", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Jellačić támadása után a végrehajtó hatalmat az Országos Honvédelmi Bizottmány vette át, ____ vezetésével.",
+    "missing": {
+      "choices": [
+        { "content": "Batthyány Lajos", "correct": false },
+        { "content": "Széchenyi István", "correct": false },
+        { "content": "Görgei Artúr", "correct": false },
+        { "content": "Kossuth Lajos", "correct": true }
+      ]
+    }
+  }
+]

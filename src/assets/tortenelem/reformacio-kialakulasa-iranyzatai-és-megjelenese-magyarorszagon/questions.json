@@ -1,0 +1,121 @@
+[
+  {
+    "question": "Mely tényezők segítették elő a reformáció gyors elterjedését a 16. századi Magyarországon?",
+    "reason": "Az ország három részre szakadása megakadályozta az egységes katolikus fellépést, a mohácsi csatában elesett főpapok gyengítették az egyházat, a törökök pedig a Hódoltságban nem avatkoztak a vallási viszonyokba, ami mind kedvezett az új tanok terjedésének.",
+    "choices": [
+      {
+        "content": "Az ország politikai széttagoltsága (három részre szakadás).",
+        "correct": true
+      },
+      {
+        "content": "A katolikus egyház meggyengülése a mohácsi csata után.",
+        "correct": true
+      },
+      {
+        "content": "A törökök toleráns magatartása a Hódoltság területén.",
+        "correct": true
+      },
+      {
+        "content": "A pápa által nyújtott katonai és pénzügyi támogatás.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik város vált a magyarországi kálvinizmus központjává, kiérdemelve a \"kálvinista Róma\" elnevezést?",
+    "reason": "Debrecen lett a magyar reformátusság legfontosabb szellemi és szervezeti központja, ahol Méliusz Juhász Péter is tevékenykedett.",
+    "choices": [
+      { "content": "Sárospatak", "correct": false },
+      { "content": "Debrecen", "correct": true },
+      { "content": "Kolozsvár", "correct": false },
+      { "content": "Brassó", "correct": false }
+    ]
+  },
+  {
+    "question": "Ki volt az erdélyi unitárius egyház megalapítója és első püspöke?",
+    "reason": "Dávid Ferenc volt az a prédikátor, akinek hatására János Zsigmond fejedelem és Erdély jelentős része unitárius hitre tért, és ő lett az egyház megszervezője.",
+    "choices": [
+      { "content": "Méliusz Juhász Péter", "correct": false },
+      { "content": "Károli Gáspár", "correct": false },
+      { "content": "Dévai Bíró Mátyás", "correct": false },
+      { "content": "Dávid Ferenc", "correct": true }
+    ]
+  },
+  {
+    "question": "Milyen jelentős esemény fűződik a tordai országgyűléshez 1568-ban?",
+    "reason": "A tordai országgyűlés a korabeli Európában egyedülálló módon hirdette ki a lelkiismereti és vallásszabadságot a négy bevett felekezet (katolikus, evangélikus, református, unitárius) számára.",
+    "choices": [
+      {
+        "content": "Törvénybe iktatták a katolikus vallás kizárólagosságát.",
+        "correct": false
+      },
+      { "content": "Béke kötöttek a Habsburgokkal.", "correct": false },
+      {
+        "content": "Európában egyedülálló módon törvényt hoztak a vallásszabadságról.",
+        "correct": true
+      },
+      { "content": "János Zsigmondot királlyá választották.", "correct": false }
+    ]
+  },
+  {
+    "question": "Kinek a nevéhez köthető az első teljes, magyar nyelvű Biblia-fordítás (1590, Vizsoly)?",
+    "reason": "Károli Gáspár gönci lelkész végezte el a teljes Szentírás magyarra fordításának hatalmas munkáját, ami a magyar irodalmi nyelv fejlődésének mérföldköve.",
+    "choices": [
+      { "content": "Sylvester János", "correct": false },
+      { "content": "Károli Gáspár", "correct": true },
+      { "content": "Dévai Bíró Mátyás", "correct": false },
+      { "content": "Nádasdy Tamás", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik protestáns irányzat terjedt el elsősorban a magyar etnikum körében?",
+    "reason": "Míg a lutheránus (evangélikus) tanok főleg a német ajkú lakosság (felvidéki és erdélyi szászok) körében terjedtek, a kálvinista (református) irányzat vált a magyarság vallásává.",
+    "choices": [
+      { "content": "Evangélikus (lutheránus)", "correct": false },
+      { "content": "Unitárius (antitrinitárius)", "correct": false },
+      { "content": "Református (kálvinista)", "correct": true },
+      { "content": "Anabaptista", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt a 'ius patronatus' (kegyúri jog) szerepe a magyarországi reformációban?",
+    "reason": "A kegyúri jog lehetővé tette a földesurak számára, hogy a saját birtokukon lévő egyházközségbe a reformáció tanait követő prédikátort állítsanak, ezzel elősegítve az új hit elterjedését.",
+    "choices": [
+      { "content": "A pápa joga a püspökök kinevezésére.", "correct": false },
+      {
+        "content": "A földesúr joga, hogy a birtokán papot válasszon, ami segítette a reformáció terjedését.",
+        "correct": true
+      },
+      {
+        "content": "A király joga a legfőbb egyházi méltóságok betöltésére.",
+        "correct": false
+      },
+      {
+        "content": "A jobbágyok joga a szabad vallásgyakorlásra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik állítás igaz az Erdélyi Fejedelemség valláspolitikájára a 16. század második felében?",
+    "reason": "Erdély a vallási tolerancia modelljévé vált, ahol a fejedelmek, mint János Zsigmond, politikai okokból is támogatták a felekezeti sokszínűséget, szemben a katolikus Habsburgokkal.",
+    "choices": [
+      {
+        "content": "A fejedelmek erőszakkal próbálták megakadályozni a reformáció terjedését.",
+        "correct": false
+      },
+      {
+        "content": "A fejedelmek a reformációt a Habsburgokkal szembeni függetlenségük erősítésére is felhasználták.",
+        "correct": true
+      },
+      {
+        "content": "Csak a katolikus vallást engedélyezték hivatalos szinten.",
+        "correct": false
+      },
+      {
+        "content": "A török szultán határozta meg az államvallást.",
+        "correct": false
+      }
+    ]
+  }
+]

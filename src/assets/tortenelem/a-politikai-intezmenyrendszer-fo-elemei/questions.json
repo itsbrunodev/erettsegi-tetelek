@@ -1,0 +1,124 @@
+[
+  {
+    "question": "Mi az Országgyűlés legfőbb feladata a magyar politikai rendszerben?",
+    "reason": "Az Országgyűlés Magyarország legfelsőbb államhatalmi és népképviseleti szerve, amelynek elsődleges és legfontosabb feladata a törvények megalkotása.",
+    "choices": [
+      {
+        "content": "A törvények végrehajtásának ellenőrzése és az ország irányítása.",
+        "correct": false
+      },
+      {
+        "content": "Törvényalkotás, a költségvetés elfogadása és a kormány ellenőrzése.",
+        "correct": true
+      },
+      {
+        "content": "Igazságszolgáltatás a jogvitás ügyekben.",
+        "correct": false
+      },
+      {
+        "content": "A jogszabályok alkotmányosságának felülvizsgálata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kinek tartozik felelősséggel a Kormány a munkájáért Magyarországon?",
+    "reason": "A magyar parlamentáris rendszerben a végrehajtó hatalom (Kormány) a törvényhozó hatalomnak (Országgyűlés) felelős, amely bizalmatlansági indítvánnyal le is mondathatja azt.",
+    "choices": [
+      { "content": "A Köztársasági Elnöknek", "correct": false },
+      { "content": "Az Alkotmánybíróságnak", "correct": false },
+      { "content": "Kizárólag a miniszterelnöknek", "correct": false },
+      { "content": "Az Országgyűlésnek", "correct": true }
+    ]
+  },
+  {
+    "question": "Milyen vétójogai vannak a köztársasági elnöknek a törvényalkotási folyamatban?",
+    "reason": "Az államfő kétféle vétóval élhet: vagy politikai megfontolásból visszaküldi a törvényt a parlamentnek, vagy alkotmányossági aggályok esetén az Alkotmánybírósághoz fordul.",
+    "choices": [
+      {
+        "content": "Csak politikai vétója van, amellyel végleg megakadályozhatja egy törvény hatályba lépését.",
+        "correct": false
+      },
+      {
+        "content": "Politikai és alkotmányossági vétója is van.",
+        "correct": true
+      },
+      {
+        "content": "Nincs vétójoga, minden törvényt köteles aláírni.",
+        "correct": false
+      },
+      {
+        "content": "Csak az Alkotmánybíróságnak küldheti meg a törvényeket, de nem küldheti vissza az Országgyűlésnek.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milyen többség szükséges egy sarkalatos törvény elfogadásához az Országgyűlésben?",
+    "reason": "A kiemelt jelentőségű, ún. sarkalatos törvények elfogadásához minősített többség, azaz az összes országgyűlési képviselő kétharmadának szavazata szükséges.",
+    "choices": [
+      {
+        "content": "A jelenlévő képviselők egyszerű többsége.",
+        "correct": false
+      },
+      { "content": "Az összes képviselő egyszerű többsége.", "correct": false },
+      {
+        "content": "Az összes képviselő kétharmadának szavazata.",
+        "correct": true
+      },
+      {
+        "content": "A jelenlévő képviselők kétharmadának szavazata.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mely intézmények alkotják a klasszikus hatalommegosztás három hatalmi ágát Magyarországon?",
+    "reason": "A hatalommegosztás elve szerint a törvényhozó (Országgyűlés), a végrehajtó (Kormány) és a bírói (Bíróságok) hatalom elkülönül egymástól. Az Alkotmánybíróság speciális szerepet tölt be, nem része a rendes bírósági rendszernek.",
+    "choices": [
+      { "content": "Törvényhozás: Országgyűlés", "correct": true },
+      { "content": "Végrehajtás: Kormány", "correct": true },
+      { "content": "Igazságszolgáltatás: Bíróságok", "correct": true },
+      { "content": "Alkotmányvédelem: Köztársasági Elnök", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi az Alkotmánybíróság legfőbb feladata?",
+    "reason": "Az Alkotmánybíróság az Alaptörvény védelmének legfőbb szerve, amelynek feladata a jogszabályok alkotmányosságának felülvizsgálata. Nem szolgáltat igazságot konkrét jogvitákban, mint a rendes bíróságok.",
+    "choices": [
+      { "content": "A Kúria döntéseinek felülbírálata.", "correct": false },
+      {
+        "content": "A jogszabályok Alaptörvénnyel való összhangjának vizsgálata.",
+        "correct": true
+      },
+      {
+        "content": "A kormány munkájának közvetlen ellenőrzése.",
+        "correct": false
+      },
+      { "content": "A köztársasági elnök megválasztása.", "correct": false }
+    ]
+  },
+  {
+    "question": "Kihez fordulhat egy állampolgár, ha úgy érzi, hogy egy állami szerv működése során megsértették az alapvető jogait?",
+    "reason": "Az alapvető jogok biztosa (ombudsman) feladata, hogy kivizsgálja az állami szervek működésével kapcsolatos, alapvető jogokat sértő visszásságokat, és bárki fordulhat hozzá panasszal.",
+    "choices": [
+      { "content": "A miniszterelnökhöz", "correct": false },
+      { "content": "A Kúria elnökéhez", "correct": false },
+      {
+        "content": "Az Alapvető Jogok Biztosához (Ombudsman)",
+        "correct": true
+      },
+      { "content": "Közvetlenül az Alkotmánybírósághoz", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik államforma-modellre épül a mai magyar politikai rendszer?",
+    "reason": "A magyar rendszer a parlamentáris köztársaságok modelljét követi, ahol a kormány a parlamentnek felelős. Ezzel szemben az elnöki rendszerekben (pl. USA) az elnök a végrehajtó hatalom feje és nem felel a parlamentnek.",
+    "choices": [
+      { "content": "Elnöki köztársaság", "correct": false },
+      { "content": "Parlamentáris köztársaság", "correct": true },
+      { "content": "Alkotmányos monarchia", "correct": false },
+      { "content": "Föderatív (szövetségi) állam", "correct": false }
+    ]
+  }
+]

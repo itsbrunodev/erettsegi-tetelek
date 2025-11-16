@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Az Árpád-ház 1301-es kihalását követő trónviszályos időszakot ____ nevezzük.",
+    "missing": {
+      "choices": [
+        { "content": "reformkornak", "correct": false },
+        { "content": "hűbériségnek", "correct": false },
+        { "content": "interregnumnak", "correct": true },
+        { "content": "honfoglalásnak", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az értékálló aranyforint bevezetése után a pénzrontásból származó jövedelem pótlására a király bevezette a ____.",
+    "missing": {
+      "choices": [
+        { "content": "harmincadvámot", "correct": false },
+        { "content": "kapuadót", "correct": true },
+        { "content": "urburát", "correct": false },
+        { "content": "kilencedet", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A bányareform lényege az volt, hogy a bányabér (urbura) egyharmada a ____ illette meg, így érdekeltté téve őt a bányanyitásban.",
+    "missing": {
+      "choices": [
+        { "content": "bányászt", "correct": false },
+        { "content": "pápát", "correct": false },
+        { "content": "kereskedőt", "correct": false },
+        { "content": "földesurat", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "Az 1335-ös visegrádi királytalálkozó célja egy ____ elkerülő kereskedelmi útvonal létrehozása volt.",
+    "missing": {
+      "choices": [
+        { "content": "Prágát", "correct": false },
+        { "content": "Kassát", "correct": false },
+        { "content": "Bécset", "correct": true },
+        { "content": "Budát", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Károly Róbert a külkereskedelmi forgalomra kivetette a ____, amely az áruk értékének kb. 3,33%-át jelentette.",
+    "missing": {
+      "choices": [
+        { "content": "kapuadót", "correct": false },
+        { "content": "harmincadvámot", "correct": true },
+        { "content": "tizedet", "correct": false },
+        { "content": "kamara hasznát", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A királyi hatalom gazdasági alapja a földbirtokok helyett a királyi felségjogon szedett ____ lett.",
+    "missing": {
+      "choices": [
+        { "content": "regáléjövedelem", "correct": true },
+        { "content": "hűbéri adó", "correct": false },
+        { "content": "terményadó", "correct": false },
+        { "content": "ajándék", "correct": false }
+      ]
+    }
+  }
+]

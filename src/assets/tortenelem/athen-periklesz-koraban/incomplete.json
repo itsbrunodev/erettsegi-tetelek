@@ -1,0 +1,68 @@
+[
+  {
+    "content": "Periklész vezette be a ____ intézményét, hogy a szegényebb polgárok is részt vehessenek a közéletben anélkül, hogy jövedelemkiesést szenvednének el.",
+    "missing": {
+      "choices": [
+        { "content": "cserépszavazást", "correct": false },
+        { "content": "napidíjat", "correct": true },
+        { "content": "vagyoni cenzust", "correct": false },
+        { "content": "adósrabszolgaságot", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A perzsa háborúk után Athén a ____ vezető hatalmaként tett szert hatalmas gazdasági és katonai fölényre.",
+    "missing": {
+      "choices": [
+        { "content": "peloponnészoszi szövetség", "correct": false },
+        { "content": "korinthoszi szövetség", "correct": false },
+        { "content": "déloszi szövetség", "correct": true },
+        { "content": "pánhellén szövetség", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A legfőbb döntéshozó szerv a népgyűlés volt, amelynek ügyeit az évente sorsolt ____ készítette elő.",
+    "missing": {
+      "choices": [
+        { "content": "sztratégoszok testülete", "correct": false },
+        { "content": "esküdtbíróság", "correct": false },
+        { "content": "Areioszpagosz", "correct": false },
+        { "content": "Ötszázak Tanácsa", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "Az athéni demokrácia szöges ellentétben állt a ____ oligarchikus berendezkedésével, ahol egy szűk harcos elit uralkodott.",
+    "missing": {
+      "choices": [
+        { "content": "spártai", "correct": true },
+        { "content": "perzsa", "correct": false },
+        { "content": "thébai", "correct": false },
+        { "content": "korinthoszi", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A politikai jogokból teljesen ki voltak zárva a nők, a rabszolgák és a betelepült idegenek, akiket ____ neveztek.",
+    "missing": {
+      "choices": [
+        { "content": "hoplitáknak", "correct": false },
+        { "content": "helótáknak", "correct": false },
+        { "content": "metoikoszoknak", "correct": true },
+        { "content": "thészeknek", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az athéni demokrácia virágkorának és a város birodalmának a ____ vetett véget Kr. e. 404-ben.",
+    "missing": {
+      "choices": [
+        { "content": "perzsa háború", "correct": false },
+        { "content": "peloponnészoszi háború", "correct": true },
+        { "content": "makedón hódítás", "correct": false },
+        { "content": "lázadás a déloszi szövetségben", "correct": false }
+      ]
+    }
+  }
+]

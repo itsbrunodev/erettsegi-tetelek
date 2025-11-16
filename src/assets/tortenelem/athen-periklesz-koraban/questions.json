@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Melyik volt Periklész legfontosabb reformja, amely a gyakorlatban is lehetővé tette a szegényebb polgárok részvételét a politikai életben?",
+    "reason": "A napidíj (miszthosz) bevezetése biztosította, hogy a vagyontalanabb polgárok se szenvedjenek jövedelemkiesést, amikor a népgyűlésen, a tanácsban vagy a bíróságokon vettek részt, így a demokrácia nem csak elvi lehetőség maradt számukra.",
+    "choices": [
+      {
+        "content": "Az adósrabszolgaság eltörlése",
+        "correct": false
+      },
+      {
+        "content": "A napidíj bevezetése a közügyekben való részvételért",
+        "correct": true
+      },
+      {
+        "content": "A területi alapú phülé-rendszer létrehozása",
+        "correct": false
+      },
+      {
+        "content": "A cserépszavazás (osztracizmus) bevezetése",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mi volt a legfőbb törvényhozó és döntéshozó szerv az athéni demokráciában?",
+    "reason": "A népgyűlés (Ekklészia) volt az a fórum, ahol minden teljes jogú polgár részt vehetett a törvényhozásban, a háború és béke kérdéseiről való döntésben, és a tisztségviselők megválasztásában.",
+    "choices": [
+      {
+        "content": "Az Ötszázak Tanácsa (Bulé)",
+        "correct": false
+      },
+      {
+        "content": "Az esküdtbíróság (Héliaia)",
+        "correct": false
+      },
+      {
+        "content": "A sztratégoszok testülete",
+        "correct": false
+      },
+      {
+        "content": "A népgyűlés (Ekklészia)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Milyen célt szolgált a cserépszavazás (osztracizmus) intézménye?",
+    "reason": "A cserépszavazás egy politikai eljárás volt, amellyel a polgárok 10 évre száműzhették azt a politikust, akiről úgy vélték, hogy túlzott hatalomra tör és a demokráciát veszélyezteti, így védve a rendszert a zsarnokságtól.",
+    "choices": [
+      {
+        "content": "A legnépszerűbb politikus évenkénti megválasztása.",
+        "correct": false
+      },
+      {
+        "content": "A hadvezérek (sztratégoszok) kinevezése.",
+        "correct": false
+      },
+      {
+        "content": "A zsarnokságra törő politikusok eltávolítása a városból.",
+        "correct": true
+      },
+      {
+        "content": "A rabszolgák felszabadításáról szóló szavazás.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Ki volt az az államférfi, aki a Kr. e. 6. század végén a területi alapú reformjaival megteremtette az athéni demokrácia intézményi alapjait?",
+    "reason": "Kleiszthenész volt az, aki Kr. e. 508-ban a korábbi vagyoni és származási alapú felosztás helyett területi alapon szervezte újjá a polgárságot (phülék), megteremtve a politikai egyenlőség (iszonómia) alapját.",
+    "choices": [
+      {
+        "content": "Szolón",
+        "correct": false
+      },
+      {
+        "content": "Periklész",
+        "correct": false
+      },
+      {
+        "content": "Themisztoklész",
+        "correct": false
+      },
+      {
+        "content": "Kleiszthenész",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mely tényezők vezettek a periklészi kor végéhez és az athéni demokrácia hanyatlásához?",
+    "reason": "A déloszi szövetség feletti athéni hegemónia kiváltotta Spárta és szövetségesei ellenállását, ami a hosszú és kimerítő peloponnészoszi háborúhoz vezetett. Athén veresége a birodalom végét és a demokrácia válságát jelentette.",
+    "choices": [
+      {
+        "content": "A perzsa birodalom újbóli támadása.",
+        "correct": false
+      },
+      {
+        "content": "A peloponnészoszi háború és az abban elszenvedett vereség.",
+        "correct": true
+      },
+      {
+        "content": "A laurioni ezüstbányák kimerülése.",
+        "correct": false
+      },
+      {
+        "content": "Egy rabszolgafelkelés a városban.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milyen jelentős pénzügyi forrásokra támaszkodott az athéni demokrácia működése és a nagyszabású építkezések Periklész korában?",
+    "reason": "Athén gazdagságának két fő pillére a déloszi szövetség tagjaitól beszedett adó, valamint a laurioni ezüstbányákból származó jövedelem volt. Ezekből finanszírozták a napidíjakat és az Akropolisz építkezéseit is.",
+    "choices": [
+      {
+        "content": "Csak a kereskedelmi vámokra.",
+        "correct": false
+      },
+      {
+        "content": "A déloszi szövetség adóira és a laurioni ezüstbányákra.",
+        "correct": true
+      },
+      {
+        "content": "A spártaiaktól kapott hadisarcra.",
+        "correct": false
+      },
+      {
+        "content": "A polgárok által befizetett magas adókra.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Az athéni demokrácia modern kritikája szerint a rendszer rendkívül kirekesztő volt. Jelöld meg, mely társadalmi csoportok voltak teljesen kizárva a politikai jogok gyakorlásából! (Több helyes válasz is lehetséges.)",
+    "reason": "A polgárjog csak a felnőtt, athéni születésű férfiakat illette meg. A lakosság többségét alkotó nők, a rabszolgák és a betelepült idegenek (metoikoszok) nem vehettek részt a politikai életben.",
+    "choices": [
+      {
+        "content": "A nők",
+        "correct": true
+      },
+      {
+        "content": "A vagyontalan polgárok (thészek)",
+        "correct": false
+      },
+      {
+        "content": "A rabszolgák",
+        "correct": true
+      },
+      {
+        "content": "A betelepült idegenek (metoikoszok)",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Miben különbözik alapvetően az athéni demokrácia a modern képviseleti demokráciáktól?",
+    "reason": "Az athéni modell a közvetlen demokrácia példája volt, ahol a polgárok személyesen vettek részt a döntésekben a népgyűlésen. Ezzel szemben a modern demokráciákban a polgárok választott képviselőkön keresztül gyakorolják a hatalmat.",
+    "choices": [
+      {
+        "content": "Athénban nem voltak választások, minden tisztséget sorsoltak.",
+        "correct": false
+      },
+      {
+        "content": "Athénban a polgárok közvetlenül vettek részt a törvényhozásban, míg ma képviselőket választunk.",
+        "correct": true
+      },
+      {
+        "content": "Athénban nem volt alkotmány.",
+        "correct": false
+      },
+      {
+        "content": "Athénban csak a leggazdagabbak szavazhattak.",
+        "correct": false
+      }
+    ]
+  }
+]

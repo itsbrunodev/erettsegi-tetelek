@@ -1,0 +1,178 @@
+[
+  {
+    "question": "Mi volt a Reichstag (parlamenti épület) 1933. februári felgyújtásának legfontosabb politikai következménye?",
+    "reason": "A nácik a kommunistákat vádolták a gyújtogatással, és ezt ürügyként használva rendkívüli állapotot vezettek be, felfüggesztve az alapvető polgári szabadságjogokat, ami kulcslépés volt a diktatúra kiépítésében.",
+    "choices": [
+      {
+        "content": "Azonnal kiírták a következő választásokat.",
+        "correct": false
+      },
+      {
+        "content": "Hitler lemondott a kancellári tisztségről.",
+        "correct": false
+      },
+      {
+        "content": "Felfüggesztették a polgári szabadságjogokat egy rendkívüli rendelettel.",
+        "correct": true
+      },
+      {
+        "content": "A hadsereg átvette a hatalmat.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik törvény ruházta át a törvényhozói hatalmat Hitler kormányára, ezzel gyakorlatilag felszámolva a parlamentáris demokráciát?",
+    "reason": "Az 1933-as Felhatalmazási törvény (Ermächtigungsgesetz) tette lehetővé a kormánynak, hogy a parlament megkerülésével, rendeleti úton kormányozzon, ami a diktatúra jogi alapját képezte.",
+    "choices": [
+      {
+        "content": "A Nürnbergi törvények",
+        "correct": false
+      },
+      {
+        "content": "A weimari alkotmány 48. cikkelye",
+        "correct": false
+      },
+      {
+        "content": "A versailles-i békeszerződés",
+        "correct": false
+      },
+      {
+        "content": "A Felhatalmazási törvény",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Mi volt a „hosszú kések éjszakája” (1934. június 30.) célja?",
+    "reason": "Hitler ezen az éjszakán számolt le a párton belüli riválisaival, különösen az SA (Sturmabteilung) vezetésével, Ernst Röhm vezetésével, hogy megszilárdítsa saját hatalmát és elnyerje a hadsereg (Wehrmacht) bizalmát.",
+    "choices": [
+      {
+        "content": "Leszámolás a párton belüli ellenzékkel (SA) és a hadsereg támogatásának megszerzése.",
+        "correct": true
+      },
+      {
+        "content": "Egy országos zsidóellenes pogrom végrehajtása.",
+        "correct": false
+      },
+      {
+        "content": "A kommunista párt vezetőinek letartóztatása.",
+        "correct": false
+      },
+      {
+        "content": "A szomszédos országok megtámadásának előkészítése.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mely tényezők játszottak szerepet az NSDAP népszerűségének drámai növekedésében az 1930-as évek elején?",
+    "reason": "A gazdasági világválság okozta tömeges munkanélküliség és kilátástalanság, a versailles-i béke miatti nemzeti sérelem, valamint a Goebbels által irányított hatékony propaganda együttesen vezettek a nácik megerősödéséhez.",
+    "choices": [
+      {
+        "content": "A nagy gazdasági világválság hatásai.",
+        "correct": true
+      },
+      {
+        "content": "A versailles-i békeszerződés megalázó feltételei.",
+        "correct": true
+      },
+      {
+        "content": "A szomszédos országok katonai támogatása.",
+        "correct": false
+      },
+      {
+        "content": "Hatékony náci propaganda és bűnbakképzés.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Ki volt a náci Németország propaganda minisztere?",
+    "reason": "Joseph Goebbels volt a Harmadik Birodalom propagandájának agytrösztje és irányítója, aki a modern tömegkommunikációs eszközöket a náci ideológia terjesztésének szolgálatába állította.",
+    "choices": [
+      {
+        "content": "Heinrich Himmler",
+        "correct": false
+      },
+      {
+        "content": "Ernst Röhm",
+        "correct": false
+      },
+      {
+        "content": "Joseph Goebbels",
+        "correct": true
+      },
+      {
+        "content": "Paul von Hindenburg",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milyen esemény tette lehetővé Hitler számára, hogy összevonja a kancellári és az államfői tisztséget, felvéve a „Vezér” (Führer) címet?",
+    "reason": "Paul von Hindenburg köztársasági elnök 1934. augusztus 2-i halála után Hitler egy törvénnyel megszüntette az elnöki tisztséget, és annak hatásköreit a saját, kancellári pozíciójához vonta, ezzel teljhatalomra téve szert.",
+    "choices": [
+      {
+        "content": "A Felhatalmazási törvény elfogadása",
+        "correct": false
+      },
+      {
+        "content": "A Reichstag felgyújtása",
+        "correct": false
+      },
+      {
+        "content": "Hindenburg elnök halála",
+        "correct": true
+      },
+      {
+        "content": "A „hosszú kések éjszakája”",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mi a „Gleichschaltung” (Egybehangolás) fogalmának lényege a náci hatalomgyakorlásban?",
+    "reason": "A „Gleichschaltung” az a folyamat volt, melynek során a nácik minden állami és társadalmi szervezetet (pártokat, szakszervezeteket, egyesületeket) a párt irányítása alá vontak vagy felszámoltak, létrehozva a totális állami kontrollt.",
+    "choices": [
+      {
+        "content": "Németország és Ausztria egyesítése.",
+        "correct": false
+      },
+      {
+        "content": "A gazdaság teljes államosítása.",
+        "correct": false
+      },
+      {
+        "content": "Az állami és társadalmi szervezetek náci pártirányítás alá vonása.",
+        "correct": true
+      },
+      {
+        "content": "A hadsereg és az SS összevonása.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik állítás igaz a konzervatív elit szerepére Hitler kancellári kinevezésében?",
+    "reason": "A konzervatív politikai körök, mint például Franz von Papen, abban a tévhitben éltek, hogy képesek lesznek Hitlert irányítani és saját céljaikra felhasználni a baloldal ellen, de végzetesen alábecsülték őt.",
+    "choices": [
+      {
+        "content": "Mindvégig elutasították Hitler kinevezését.",
+        "correct": false
+      },
+      {
+        "content": "Azt hitték, képesek lesznek Hitlert irányítani és „kordában tartani”.",
+        "correct": true
+      },
+      {
+        "content": "Azonnal felismerték a nácizmus veszélyeit, és puccsot szerveztek ellene.",
+        "correct": false
+      },
+      {
+        "content": "A kommunistákkal szövetkeztek Hitler ellen.",
+        "correct": false
+      }
+    ]
+  }
+]

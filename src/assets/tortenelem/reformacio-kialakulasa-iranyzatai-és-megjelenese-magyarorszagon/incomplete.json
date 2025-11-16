@@ -1,0 +1,68 @@
+[
+  {
+    "content": "A mohácsi csata utáni politikai helyzet, az ország ____ részre szakadása megakadályozta az egységes, reformációellenes fellépést.",
+    "missing": {
+      "choices": [
+        { "content": "két", "correct": false },
+        { "content": "három", "correct": true },
+        { "content": "négy", "correct": false },
+        { "content": "öt", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az első teljes magyar nyelvű Biblia-fordítás ____ nevéhez fűződik, és 1590-ben jelent meg Vizsolyban.",
+    "missing": {
+      "choices": [
+        { "content": "Dévai Bíró Mátyás", "correct": false },
+        { "content": "Méliusz Juhász Péter", "correct": false },
+        { "content": "Károli Gáspár", "correct": true },
+        { "content": "Sylvester János", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A Szentháromságot tagadó radikális irányzat, az ____ egyház főként Erdélyben vert gyökeret Dávid Ferenc prédikációi nyomán.",
+    "missing": {
+      "choices": [
+        { "content": "evangélikus", "correct": false },
+        { "content": "református", "correct": false },
+        { "content": "anabaptista", "correct": false },
+        { "content": "unitárius", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A magyar jogrendszer sajátossága, a ____ (kegyúri jog) lehetővé tette a földesuraknak, hogy saját birtokaikon támogassák a reformációt.",
+    "missing": {
+      "choices": [
+        { "content": "cuius regio, eius religio", "correct": false },
+        { "content": "ius patronatus", "correct": true },
+        { "content": "Szent Korona-tan", "correct": false },
+        { "content": "ősiség törvénye", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A reformáció hatására jelentős protestáns iskolák jöttek létre, mint például a sárospataki, a pápai és a ____ kollégium.",
+    "missing": {
+      "choices": [
+        { "content": "debreceni", "correct": true },
+        { "content": "nagyszombati", "correct": false },
+        { "content": "pécsi", "correct": false },
+        { "content": "esztergomi", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A történelem egyetlen unitárius uralkodója ____ volt, Erdély első fejedelme.",
+    "missing": {
+      "choices": [
+        { "content": "Báthory István", "correct": false },
+        { "content": "Bocskai István", "correct": false },
+        { "content": "János Zsigmond", "correct": true },
+        { "content": "Bethlen Gábor", "correct": false }
+      ]
+    }
+  }
+]

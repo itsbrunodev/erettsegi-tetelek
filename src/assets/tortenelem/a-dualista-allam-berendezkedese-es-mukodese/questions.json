@@ -1,0 +1,136 @@
+[
+  {
+    "question": "Melyek voltak az Osztrák-Magyar Monarchia úgynevezett közös ügyei?",
+    "reason": "A tétel definíciója szerint a közös ügyek a külügy, a hadügy és az ezek fedezetét biztosító pénzügy voltak, melyeket közös miniszterek és a delegációk irányítottak.",
+    "choices": [
+      { "content": "Külügy, hadügy, oktatásügy", "correct": false },
+      {
+        "content": "Külügy, hadügy, és az ezek fedezetét biztosító pénzügy",
+        "correct": true
+      },
+      { "content": "Belügy, igazságügy, vallásügy", "correct": false },
+      { "content": "Kereskedelem, iparügy, mezőgazdaság", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt a magyar politikai pártok közötti alapvető megosztottság oka a dualizmus korában?",
+    "reason": "A tétel egyértelműen kimondja, hogy a pártokat nem ideológiai alapon, hanem a közjogi kérdéshez, azaz az 1867-es kiegyezéshez való viszonyuk alapján különböztették meg.",
+    "choices": [
+      {
+        "content": "A gazdaságpolitikai nézetek (liberális vs. protekcionista).",
+        "correct": false
+      },
+      { "content": "A kiegyezéshez való viszony.", "correct": true },
+      {
+        "content": "A nemzetiségi kérdés kezelésének módja.",
+        "correct": false
+      },
+      { "content": "A vallási hovatartozás.", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik politikai erő kormányozta Magyarországot 30 éven keresztül, biztosítva a rendszer stabilitását?",
+    "reason": "A Szabadelvű Párt 1875-ös megalakulásától 1905-ig volt kormányon, vezetője hosszú ideig a \"generális\"-ként emlegetett Tisza Kálmán volt.",
+    "choices": [
+      { "content": "Deák-párt", "correct": false },
+      { "content": "Függetlenségi Párt", "correct": false },
+      { "content": "Szabadelvű Párt", "correct": true },
+      { "content": "Balközép Párt", "correct": false }
+    ]
+  },
+  {
+    "question": "Mely tényezők játszottak szerepet az 1867-es kiegyezés létrejöttében?",
+    "reason": "A tétel a neoabszolutizmus kudarcát, Ausztria külső katonai vereségeit (külső nyomás) és a Deák Ferenc nevével fémjelzett magyar reálpolitikát említi kiváltó okként.",
+    "choices": [
+      {
+        "content": "A neoabszolutizmus rendszerének kudarca.",
+        "correct": true
+      },
+      {
+        "content": "Ausztria katonai vereségei (pl. 1866-ban a poroszoktól).",
+        "correct": true
+      },
+      {
+        "content": "A Deák Ferenc által képviselt magyar reálpolitikai irányzat.",
+        "correct": true
+      },
+      {
+        "content": "Egy sikeres, újabb fegyveres felkelés Magyarországon.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mit jelentett a 'kvóta' a dualista állam pénzügyi rendszerében?",
+    "reason": "A kvóta a közös ügyek finanszírozásának arányát jelentette, melyet a két állam gazdasági fejlettsége alapján állapítottak meg, és tízévente újratárgyaltak.",
+    "choices": [
+      {
+        "content": "A parlamentben a nemzetiségi képviselők számára biztosított helyek arányát.",
+        "correct": false
+      },
+      {
+        "content": "A választójogot meghatározó vagyoni cenzus mértékét.",
+        "correct": false
+      },
+      {
+        "content": "A közös ügyek költségeihez való hozzájárulás arányát a két állam között.",
+        "correct": true
+      },
+      {
+        "content": "A hadseregbe évente besorozható újoncok számát.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Kit neveztek \"generális\"-nak, aki 15 éven át (1875-1890) volt Magyarország miniszterelnöke?",
+    "reason": "Tisza Kálmán, a Szabadelvű Párt vezetője volt az a meghatározó politikus, aki hosszú miniszterelnöksége alatt megszilárdította a dualista rendszert, és akit a kortársak \"generális\"-nak neveztek.",
+    "choices": [
+      { "content": "Andrássy Gyula", "correct": false },
+      { "content": "Tisza Kálmán", "correct": true },
+      { "content": "Deák Ferenc", "correct": false },
+      { "content": "Wekerle Sándor", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt a parlamenti obstrukció eszköze, amelyet az ellenzék a kormány megbénítására használt?",
+    "reason": "Az obstrukció a törvényhozás szándékos akadályozását jelentette, leggyakrabban vég nélküli beszédekkel, amivel az ellenzék a számára kedvezőtlen törvények elfogadását próbálta megakadályozni.",
+    "choices": [
+      {
+        "content": "A képviselők kivonulása az ülésteremből.",
+        "correct": false
+      },
+      {
+        "content": "A törvényhozás munkájának akadályozása (pl. vég nélküli beszédekkel).",
+        "correct": true
+      },
+      {
+        "content": "Az uralkodónál való személyes panasztétel.",
+        "correct": false
+      },
+      {
+        "content": "Tüntetések szervezése a Parlament előtt.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milyen hosszú távú hatása volt a dualista berendezkedésnek, amely végül a történelmi Magyarország összeomlásához vezetett?",
+    "reason": "A tétel kiemeli, hogy a közös hadsereg és külpolitika miatt az ország belesodródott az első világháborúba, ami a Monarchia és a történelmi Magyarország szétesését okozta.",
+    "choices": [
+      { "content": "A gazdasági fejlődés elmaradása.", "correct": false },
+      {
+        "content": "A nemzetiségi kérdés végleges és sikeres megoldása.",
+        "correct": false
+      },
+      {
+        "content": "A választójog folyamatos kiterjesztése, ami radikalizálta a társadalmat.",
+        "correct": false
+      },
+      {
+        "content": "Az ország belesodródása az első világháborúba a közös kül- és hadügyek miatt.",
+        "correct": true
+      }
+    ]
+  }
+]

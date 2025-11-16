@@ -1,0 +1,71 @@
+[
+  {
+    "content": "A dualizmus egy kétközpontú állam, amelyben Ausztria és Magyarország belpolitikailag önálló, de közös uralkodó és ____ kapcsolják össze őket.",
+    "missing": {
+      "choices": [
+        { "content": "közös alkotmány", "correct": false },
+        { "content": "közös ügyek", "correct": true },
+        { "content": "közös parlament", "correct": false },
+        { "content": "közös nyelv", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A kiegyezést elutasító Függetlenségi Párt a közös ügyek helyett a ____ megvalósítását követelte, ahol csak az uralkodó személye közös.",
+    "missing": {
+      "choices": [
+        { "content": "reálunió", "correct": false },
+        { "content": "köztársaság", "correct": false },
+        { "content": "perszonálunió", "correct": true },
+        { "content": "alkotmányos monarchia", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A Deák Ferenc nevével fémjelzett magyar politikai elit felismerte, hogy az ország modernizációja a ____ keretein belül reálisabban érhető el.",
+    "missing": {
+      "choices": [
+        { "content": "Német Szövetség", "correct": false },
+        { "content": "Oszmán Birodalom", "correct": false },
+        { "content": "teljes függetlenség", "correct": false },
+        { "content": "Habsburg-birodalom", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A politikai stabilitást segítette a cenzusos választójog és a ____ rendszere, amely lehetővé tette a kormány számára a választók befolyásolását.",
+    "missing": {
+      "choices": [
+        { "content": "nyílt szavazás", "correct": true },
+        { "content": "titkos szavazás", "correct": false },
+        { "content": "általános választójog", "correct": false },
+        { "content": "kétfordulós választás", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A horvát-magyar kiegyezés (1868) Horvátország számára széleskörű területi és politikai ____ biztosított a Magyar Királyságon belül.",
+    "missing": {
+      "choices": [
+        { "content": "szuverenitást", "correct": false },
+        { "content": "autonómiát", "correct": true },
+        {
+          "content": "képviseletet a közös minisztériumokban",
+          "correct": false
+        },
+        { "content": "gazdasági elszakadást", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az 1905-ös belpolitikai válság akkor robbant ki, amikor a választásokon vereséget szenvedett a Szabadelvű Párt, de a győztes ellenzéki koalíciót ____ nem akarta kinevezni.",
+    "missing": {
+      "choices": [
+        { "content": "a parlament alsóháza", "correct": false },
+        { "content": "a magyar miniszterelnök", "correct": false },
+        { "content": "az uralkodó", "correct": true },
+        { "content": "a hadsereg vezérkara", "correct": false }
+      ]
+    }
+  }
+]

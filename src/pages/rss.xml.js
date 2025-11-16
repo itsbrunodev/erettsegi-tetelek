@@ -1,8 +1,8 @@
+import { getImage } from "astro:assets";
 import { getCollection } from "astro:content";
 import rss from "@astrojs/rss";
 
 import { CONFIG } from "../lib/constants";
-import { getImage } from "astro:assets";
 
 export async function GET(context) {
   const [magyar, matematika, tortenelem] = await Promise.all([

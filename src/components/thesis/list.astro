@@ -2,12 +2,12 @@
 import { Image } from "astro:assets";
 import { getCollection } from "astro:content";
 
-import { ThesisOrder } from "@/components/thesis-order.jsx";
+import { ThesisOrder } from "@/components/thesis/order.js";
 
 import type { ThesisType } from "@/lib/types";
 
+import ThesisDate from "./date.astro";
 import ReadingTime from "./reading-time.astro";
-import ThesisDate from "./thesis-date.astro";
 
 interface Props {
   type: ThesisType;
@@ -65,7 +65,7 @@ const formattedType = type === "tortenelem" ? "történelem" : type;
                   class="rounded-[inherit] aspect-[inherit] object-cover"
                   width={1020}
                   height={510}
-                  src={import(`../assets/${type}/${thesis.id}/cover.jpg`)}
+                  src={import(`../../assets/${type}/${thesis.id}/cover.jpg`)}
                   alt=""
                   draggable={false}
                   transition:name={`${type}-${thesis.id}-cover`}

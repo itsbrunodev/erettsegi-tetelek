@@ -1,0 +1,118 @@
+[
+  {
+    "question": "Melyik gazdasági tényező volt a nagy földrajzi felfedezések egyik legfőbb mozgatórugója?",
+    "reason": "A tétel egyértelműen az \"aranyéhséget\" nevezi meg az egyik fő gazdasági mozgatórugónak, amelyet az európai nemesfémbányák kimerülése és a keleti luxuscikkekért való fizetés okozott.",
+    "choices": [
+      { "content": "A céhes ipar válsága", "correct": false },
+      { "content": "Az európai népességnövekedés", "correct": false },
+      { "content": "Az aranyéhség és a nemesfémhiány", "correct": true },
+      { "content": "A Hanza-kereskedelem hanyatlása", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik új technikai vívmány tette lehetővé az óceáni hajózást a 15. században?",
+    "reason": "A karavella volt az a magas oldalfalú, jól kormányozható, nagy vitorlafelületű hajótípus, amely képes volt megbirkózni az óceáni körülményekkel.",
+    "choices": [
+      { "content": "A gőzgép", "correct": false },
+      { "content": "A karavella", "correct": true },
+      { "content": "A szextáns", "correct": false },
+      { "content": "A tengerészeti kronométer", "correct": false }
+    ]
+  },
+  {
+    "question": "Ki volt az a portugál felfedező, aki 1498-ban elsőként jutott el Indiába Afrika megkerülésével?",
+    "reason": "Vasco da Gama expedíciója valósította meg a portugálok régi álmát: a közvetlen tengeri út megnyitását India felé, kikerülve a levantei útvonalat.",
+    "choices": [
+      { "content": "Kolumbusz Kristóf", "correct": false },
+      { "content": "Tengerész Henrik", "correct": false },
+      { "content": "Ferdinánd Magellán", "correct": false },
+      { "content": "Vasco da Gama", "correct": true }
+    ]
+  },
+  {
+    "question": "Mit rögzített az 1494-es tordesillasi szerződés?",
+    "reason": "A szerződésben a két úttörő gyarmatosító hatalom, Spanyolország és Portugália pápai közvetítéssel felosztotta egymás között a Föld felfedezendő területeit egy délkör mentén.",
+    "choices": [
+      {
+        "content": "Békét kötött a spanyolok és az aztékok között.",
+        "correct": false
+      },
+      {
+        "content": "A felfedezendő világ felosztását Spanyolország és Portugália között.",
+        "correct": true
+      },
+      { "content": "A rabszolga-kereskedelem szabályait.", "correct": false },
+      {
+        "content": "Kolumbusz Kristóf jogait az általa felfedezett területeken.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milyen következménnyel járt az Amerikából Európába áramló hatalmas mennyiségű nemesfém?",
+    "reason": "Az \"árforradalom\" a felfedezések egyik legfontosabb gazdasági következménye volt, mely során a beáramló arany és ezüst leértékelte a pénzt, és egész Európában tartós inflációt okozott.",
+    "choices": [
+      { "content": "A pénz értékének növekedése.", "correct": false },
+      { "content": "Az árak általános csökkenése.", "correct": false },
+      {
+        "content": "Az \"árforradalom\", vagyis egy tartós áremelkedési hullám.",
+        "correct": true
+      },
+      {
+        "content": "A nemesfémbányászat összeomlása Európában.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Hogyan alakult át a világkereskedelem szerkezete a felfedezések hatására?",
+    "reason": "Az új tengeri utak felfedezésével a kereskedelem súlypontja a Földközi-tengerről (levantei útvonal) az Atlanti-óceán partvidékére helyeződött át, ahol új, gazdag kikötővárosok emelkedtek fel.",
+    "choices": [
+      {
+        "content": "A levantei kereskedelem még fontosabbá vált.",
+        "correct": false
+      },
+      {
+        "content": "A kereskedelem központja a Földközi-tengerről az Atlanti-óceán térségébe helyeződött át.",
+        "correct": true
+      },
+      {
+        "content": "Kína vette át a világkereskedelem irányítását.",
+        "correct": false
+      },
+      {
+        "content": "A szárazföldi útvonalak, mint a Selyemút, újra virágzásnak indultak.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Az alábbiak közül melyek játszottak szerepet a nagy földrajzi felfedezések elindításában?",
+    "reason": "A felfedezések több tényező együttes hatására indultak meg: a gazdasági kényszer (aranyéhség), a politikai helyzet (oszmán terjeszkedés) és a technikai fejlődés (új hajótípus, navigációs eszközök) mind hozzájárultak.",
+    "choices": [
+      {
+        "content": "Az Oszmán Birodalom terjeszkedése, ami megdrágította a keleti árukat.",
+        "correct": true
+      },
+      {
+        "content": "A reconquista befejeződése az Ibériai-félszigeten.",
+        "correct": true
+      },
+      { "content": "A reformáció elterjedése Európában.", "correct": false },
+      {
+        "content": "Az új hajótípus, a karavella megjelenése.",
+        "correct": true
+      }
+    ]
+  },
+  {
+    "question": "Az alábbiak közül melyik kultúrnövény került Amerikából Európába a \"kolumbiai csere\" részeként?",
+    "reason": "A tétel is említi, hogy a burgonya, a kukorica és a paradicsom is az Újvilágból származik, míg a búza és a szarvasmarha Európából került Amerikába.",
+    "choices": [
+      { "content": "Búza", "correct": false },
+      { "content": "Szarvasmarha", "correct": false },
+      { "content": "Ló", "correct": false },
+      { "content": "Paradicsom", "correct": true }
+    ]
+  }
+]

@@ -1,0 +1,74 @@
+[
+  {
+    "content": "Az USA Truman elnök által meghirdetett külpolitikája, a ____ célja a kommunizmus további terjedésének megakadályozása volt.",
+    "missing": {
+      "choices": [
+        { "content": "Marshall-terv", "correct": false },
+        { "content": "neokolonializmus", "correct": false },
+        { "content": "békés egymás mellett élés", "correct": false },
+        {
+          "content": "feltartóztatás (containment)",
+          "correct": true
+        }
+      ]
+    }
+  },
+  {
+    "content": "1949-ben a nyugati hatalmak létrehozták a ____ nevű katonai-védelmi szövetséget az USA vezetésével.",
+    "missing": {
+      "choices": [
+        { "content": "Varsói Szerződést", "correct": false },
+        { "content": "NATO-t", "correct": true },
+        { "content": "KGST-t", "correct": false },
+        { "content": "ENSZ-t", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A ____ során a világ az atomháború szélére sodródott, miután a Szovjetunió atomrakétákat telepített Kubába.",
+    "missing": {
+      "choices": [
+        { "content": "berlini blokád", "correct": false },
+        { "content": "koreai háború", "correct": false },
+        { "content": "kubai rakétaválság", "correct": true },
+        { "content": "vietnámi háború", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A hidegháború egyik mellékterméke volt a technológiai-tudományos versengés, amely leglátványosabban az ____-ben csúcsosodott ki.",
+    "missing": {
+      "choices": [
+        { "content": "orvostudományban", "correct": false },
+        { "content": "agrárforradalomban", "correct": false },
+        { "content": "űrversenyben", "correct": true },
+        { "content": "környezetvédelemben", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A hidegháború végét és a kétpólusú világrend felbomlását az 1991-es ____ szimbolizálja.",
+    "missing": {
+      "choices": [
+        { "content": "berlini fal leomlása", "correct": false },
+        { "content": "Szovjetunió felbomlása", "correct": true },
+        { "content": "NATO megalakulása", "correct": false },
+        { "content": "kubai forradalom", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A nyugati és keleti tömb gazdasági integrációi párhuzamosan jöttek létre: Nyugaton az Európai Gazdasági Közösség, Keleten pedig a ____.",
+    "missing": {
+      "choices": [
+        { "content": "Varsói Szerződés", "correct": false },
+        { "content": "NATO", "correct": false },
+        { "content": "Marshall-terv", "correct": false },
+        {
+          "content": "Kölcsönös Gazdasági Segítség Tanácsa (KGST)",
+          "correct": true
+        }
+      ]
+    }
+  }
+]

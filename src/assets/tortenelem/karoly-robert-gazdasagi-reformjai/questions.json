@@ -1,0 +1,118 @@
+[
+  {
+    "question": "Melyik jövedelemtípusra alapozta Károly Róbert a gazdasági reformjait, felváltva a korábbi, birtokokon alapuló rendszert?",
+    "reason": "Károly Róbert a királyi felségjogon szedett jövedelmekre (vámok, adók, monopóliumok), azaz a regálékra helyezte a hangsúlyt a kiürült kincstár feltöltésére, szemben a korábbi, földbirtokokon alapuló domaniális jövedelmekkel.",
+    "choices": [
+      { "content": "Domaniális jövedelmek", "correct": false },
+      { "content": "Regáléjövedelmek", "correct": true },
+      { "content": "Egyházi tized", "correct": false },
+      { "content": "Hadisarc", "correct": false }
+    ]
+  },
+  {
+    "question": "Hogyan ösztönözte Károly Róbert a földesurakat a birtokaikon található bányák megnyitására?",
+    "reason": "A reform előtt a bányászat királyi monopólium volt. Károly Róbert a bányabér (urbura) egyharmadát a földesúrnak adta, így közvetlenül érdekeltté tette őket a nemesfémbányák feltárásában és művelésében.",
+    "choices": [
+      {
+        "content": "Örökös nemesi címet adományozott nekik.",
+        "correct": false
+      },
+      {
+        "content": "Teljes adómentességet biztosított számukra.",
+        "correct": false
+      },
+      {
+        "content": "Nekik adta a bányabér (urbura) egyharmadát.",
+        "correct": true
+      },
+      {
+        "content": "Engedélyezte számukra a saját pénz verését.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Mi volt a kapuadó bevezetésének közvetlen oka?",
+    "reason": "Az értékálló aranyforint bevezetésével a király megszüntette a pénzrontást, így elesett a korábbi, ebből származó bevételétől (kamara haszna). Ennek pótlására vezette be az első állami egyenes adót, a kapuadót.",
+    "choices": [
+      {
+        "content": "A tartományurak elleni háborúk finanszírozása.",
+        "correct": false
+      },
+      {
+        "content": "A kamara hasznának (pénzrontásból származó jövedelem) kiesésének pótlása.",
+        "correct": true
+      },
+      { "content": "Az egyház támogatásának növelése.", "correct": false },
+      {
+        "content": "A visegrádi palota építési költségeinek fedezése.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Milyen céllal jött létre a visegrádi királytalálkozón (1335) a cseh-lengyel-magyar megállapodás?",
+    "reason": "A találkozón a három uralkodó egy Bécset elkerülő kereskedelmi útvonal létrehozásáról állapodott meg, hogy kikerüljék a bécsi árumegállító jogot, ami súlyos gazdasági hátrányt okozott a magyar és a többi térségbeli kereskedőnek.",
+    "choices": [
+      {
+        "content": "Egy közös, törökellenes hadjárat megszervezése.",
+        "correct": false
+      },
+      { "content": "Trónöröklési viták rendezése.", "correct": false },
+      {
+        "content": "Egy Bécset elkerülő kereskedelmi útvonal biztosítása.",
+        "correct": true
+      },
+      {
+        "content": "A Német-római Császárság elleni katonai szövetség létrehozása.",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik pénzérme szolgált mintául Károly Róbert 1325-ben bevezetett aranyforintjához?",
+    "reason": "A tétel szövege egyértelműen említi, hogy az értékálló aranypénzt firenzei mintára verték, ami akkoriban Európa egyik legelismertebb valutája volt.",
+    "choices": [
+      { "content": "Velencei dukát", "correct": false },
+      { "content": "Bizánci solidus", "correct": false },
+      { "content": "Angol font", "correct": false },
+      { "content": "Firenzei fiorino", "correct": true }
+    ]
+  },
+  {
+    "question": "Ki volt Károly Róbert tárnokmestere, a gazdasági reformok legfőbb kidolgozója és végrehajtója?",
+    "reason": "A tétel a kulcsszereplők között említi Nekcsei Demetert mint Károly Róbert gazdasági szakemberét, akinek kulcsszerepe volt a reformok megtervezésében.",
+    "choices": [
+      { "content": "Csák Máté", "correct": false },
+      { "content": "Kán László", "correct": false },
+      { "content": "Nekcsei Demeter", "correct": true },
+      { "content": "Hunyadi János", "correct": false }
+    ]
+  },
+  {
+    "question": "Jelölje be Károly Róbert gazdasági reformjainak elemeit!",
+    "reason": "Az aranyforint bevezetése a pénzügyi reform, a harmincadvám a kereskedelmi reform, a kapuadó pedig az adórendszer reformjának központi eleme volt. A jobbágyok örökös felszabadítása nem tartozott az intézkedései közé.",
+    "choices": [
+      { "content": "Az értékálló aranyforint bevezetése.", "correct": true },
+      {
+        "content": "A harmincadvám bevezetése a külkereskedelemre.",
+        "correct": true
+      },
+      {
+        "content": "A kapuadó, mint első állami adó kivetése.",
+        "correct": true
+      },
+      { "content": "A jobbágyok örökös felszabadítása.", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik esemény tekinthető a tartományúri hatalom megtörése felé tett legfontosabb katonai lépésnek Károly Róbert uralkodása alatt?",
+    "reason": "Az 1312-es rozgonyi csata, ahol Károly Róbert döntő győzelmet aratott az Abák felett, fordulópontot jelentett a kiskirályok elleni küzdelemben és a központi hatalom helyreállításában.",
+    "choices": [
+      { "content": "A visegrádi királytalálkozó", "correct": false },
+      { "content": "A rozgonyi csata", "correct": true },
+      { "content": "Az aranyforint veretése", "correct": false },
+      { "content": "Második koronázása", "correct": false }
+    ]
+  }
+]

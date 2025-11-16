@@ -1,10 +1,14 @@
 ---
 import { Image } from "astro:assets";
 import type { CollectionEntry } from "astro:content";
+import { existsSync } from "node:fs";
+import { readFile } from "node:fs/promises";
+import { join } from "node:path";
 import type { MarkdownHeading } from "astro";
 
-import ReadingTime from "@/components/reading-time.astro";
-import ThesisDate from "@/components/thesis-date.astro";
+import ThesisDate from "@/components/thesis/date.astro";
+import ReadingTime from "@/components/thesis/reading-time.astro";
+import { ThesisTabs } from "@/components/thesis/tabs";
 import TableOfContents from "@/components/toc/index.astro";
 import { BackButton } from "@/components/ui/back-button";
 
@@ -28,6 +32,31 @@ const {
   type,
   headings,
 } = Astro.props;
+
+// Load quiz data
+let questionsData = null;
+let incompleteData = null;
+let hasQuestions = false;
+
+try {
+  const assetsPath = join(process.cwd(), "src", "assets", type, id);
+  const quizPath = join(assetsPath, "questions.json");
+  const incompletePath = join(assetsPath, "incomplete.json");
+
+  if (existsSync(quizPath)) {
+    const quizContent = await readFile(quizPath, "utf-8");
+    questionsData = JSON.parse(quizContent);
+    hasQuestions = true;
+  }
+
+  if (existsSync(incompletePath)) {
+    const incompleteContent = await readFile(incompletePath, "utf-8");
+    incompleteData = JSON.parse(incompleteContent);
+    hasQuestions = true;
+  }
+} catch (error) {
+  console.error("Error loading quiz data:", error);
+}
 ---
 
 <MainLayout title={`${title} - ${CONFIG.site.title}`} description={description}>
@@ -48,40 +77,52 @@ const {
         </div>
       )
     }
-    <div>
-      <div class="pb-6 my-6 border-b">
-        <h1 class="text-3xl font-bold" transition:name={`${type}-${id}-title`}>
-          {title}
-        </h1>
-        <p
-          class="mt-2 text-muted-foreground"
-          transition:name={`${type}-${id}-description`}
-        >
-          {description}
-        </p>
-        <div
-          class="flex items-center gap-1 mt-1"
-          transition:name={`${type}-${id}-other`}
-        >
-          <ThesisDate
-            class="mt-0"
-            type={type}
-            id={id}
-            startDate={startDate}
-            endDate={endDate}
-          />
-          {
-            body.length > 0 && startDate && endDate && (
-              <span class="text-muted-foreground text-xs">•</span>
-            )
-          }
-          <ReadingTime class="text-sm" content={body} />
+    <div class="mt-4">
+      <ThesisTabs
+        client:load
+        hasQuestions={hasQuestions}
+        questionsData={questionsData}
+        incompleteData={incompleteData}
+      >
+        <div>
+          <div class="pb-4 border-b">
+            <h1
+              class="text-3xl font-bold"
+              transition:name={`${type}-${id}-title`}
+            >
+              {title}
+            </h1>
+            <p
+              class="mt-2 text-muted-foreground"
+              transition:name={`${type}-${id}-description`}
+            >
+              {description}
+            </p>
+            <div
+              class="flex items-center gap-1 mt-1"
+              transition:name={`${type}-${id}-other`}
+            >
+              <ThesisDate
+                class="mt-0"
+                type={type}
+                id={id}
+                startDate={startDate}
+                endDate={endDate}
+              />
+              {
+                body.length > 0 && startDate && endDate && (
+                  <span class="text-muted-foreground text-xs">•</span>
+                )
+              }
+              <ReadingTime class="text-sm" content={body} />
+            </div>
+          </div>
+          <div class="typography mt-4">
+            <TableOfContents headings={headings} />
+            <slot />
+          </div>
         </div>
-      </div>
-      <div class="typography">
-        <TableOfContents headings={headings} />
-        <slot />
-      </div>
+      </ThesisTabs>
     </div>
   </article>
 </MainLayout>

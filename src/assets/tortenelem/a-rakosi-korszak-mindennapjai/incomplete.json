@@ -1,0 +1,68 @@
+[
+  {
+    "content": "A Rákosi-korszak politikai berendezkedése a ____ volt, ahol az állam és az MDP teljesen összefonódott.",
+    "missing": {
+      "choices": [
+        { "content": "alkotmányos monarchia", "correct": false },
+        { "content": "pártállam", "correct": true },
+        { "content": "többpárti demokrácia", "correct": false },
+        { "content": "katonai diktatúra", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A tervgazdaság elsősorban a ____ erőltetett fejlesztését helyezte a középpontba.",
+    "missing": {
+      "choices": [
+        { "content": "mezőgazdaság", "correct": false },
+        { "content": "könnyűipar", "correct": false },
+        { "content": "nehézipar", "correct": true },
+        { "content": "szolgáltató szektor", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az ítélet nélkül elhurcolt embereket ____ szállították, mint például Recskre vagy Hortobágyra.",
+    "missing": {
+      "choices": [
+        { "content": "munkásszállókra", "correct": false },
+        { "content": "börtönökbe", "correct": false },
+        { "content": "nevelőintézetekbe", "correct": false },
+        { "content": "internálótáborokba", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "A kommunista egyházüldözés legismertebb áldozata ____ volt, akit koncepciós perben ítéltek életfogytiglani börtönre.",
+    "missing": {
+      "choices": [
+        { "content": "Rákosi Mátyás", "correct": false },
+        { "content": "Rajk László", "correct": false },
+        { "content": "Mindszenty József", "correct": true },
+        { "content": "Nagy Imre", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Rákosi Mátyás ____ kiépítése azt jelentette, hogy képei, szobrai és a róla szóló dicsőítő cikkek mindenhol jelen voltak.",
+    "missing": {
+      "choices": [
+        { "content": "személyi kultuszának", "correct": true },
+        { "content": "gazdasági programjának", "correct": false },
+        { "content": "ellenzéki mozgalmának", "correct": false },
+        { "content": "tudományos életművének", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "____ halála után, 1953-tól egy átmeneti enyhülés kezdődött a diktatúrában, amely Nagy Imre első miniszterelnökségéhez vezetett.",
+    "missing": {
+      "choices": [
+        { "content": "Lenin", "correct": false },
+        { "content": "Rákosi", "correct": false },
+        { "content": "Hitler", "correct": false },
+        { "content": "Sztálin", "correct": true }
+      ]
+    }
+  }
+]

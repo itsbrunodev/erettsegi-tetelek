@@ -1,0 +1,140 @@
+[
+  {
+    "content": "A náci propaganda egyszerű ____ kínált az ország problémáira: a zsidókat, a kommunistákat és a versailles-i békéért felelős politikusokat.",
+    "missing": {
+      "choices": [
+        {
+          "content": "gazdasági megoldásokat",
+          "correct": false
+        },
+        {
+          "content": "tudományos magyarázatokat",
+          "correct": false
+        },
+        {
+          "content": "bűnbakokat",
+          "correct": true
+        },
+        {
+          "content": "törvényjavaslatokat",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "Az 1933-as ____ lényegében a parlament lemondása volt a saját jogköreiről, mivel a törvényhozó hatalmat a kormányra ruházta.",
+    "missing": {
+      "choices": [
+        {
+          "content": "választási törvény",
+          "correct": false
+        },
+        {
+          "content": "Felhatalmazási törvény",
+          "correct": true
+        },
+        {
+          "content": "Nürnbergi törvény",
+          "correct": false
+        },
+        {
+          "content": "állampolgársági törvény",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "A nagy gazdasági világválság Németországban drámai méreteket öltő ____ vezetett, ami a szélsőséges pártok megerősödésének táptalaja lett.",
+    "missing": {
+      "choices": [
+        {
+          "content": "inflációhoz",
+          "correct": false
+        },
+        {
+          "content": "hadseregfejlesztéshez",
+          "correct": false
+        },
+        {
+          "content": "munkanélküliséghez",
+          "correct": true
+        },
+        {
+          "content": "jóléthez",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "A „hosszú kések éjszakáján” Hitler az SS segítségével leszámolt a párton belüli riválisával, Ernst Röhmmel és az ____ vezetésével.",
+    "missing": {
+      "choices": [
+        {
+          "content": "SA (Sturmabteilung)",
+          "correct": true
+        },
+        {
+          "content": "Gestapo",
+          "correct": false
+        },
+        {
+          "content": "Wehrmacht",
+          "correct": false
+        },
+        {
+          "content": "Hitlerjugend",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "Az 1935-ös ____ faji alapon fosztották meg a zsidókat német állampolgárságuktól és alapvető jogaiktól.",
+    "missing": {
+      "choices": [
+        {
+          "content": "berlini rendeletek",
+          "correct": false
+        },
+        {
+          "content": "müncheni törvények",
+          "correct": false
+        },
+        {
+          "content": "weimari törvények",
+          "correct": false
+        },
+        {
+          "content": "Nürnbergi törvények",
+          "correct": true
+        }
+      ]
+    }
+  },
+  {
+    "content": "Hindenburg elnök 1934-es halála után Hitler összevonta a kancellári és az elnöki tisztséget, felvéve a ____ címet.",
+    "missing": {
+      "choices": [
+        {
+          "content": "Birodalmi Protektor",
+          "correct": false
+        },
+        {
+          "content": "Nemzetvezető",
+          "correct": false
+        },
+        {
+          "content": "Vezér és Birodalmi Kancellár",
+          "correct": true
+        },
+        {
+          "content": "Legfőbb Hadúr",
+          "correct": false
+        }
+      ]
+    }
+  }
+]

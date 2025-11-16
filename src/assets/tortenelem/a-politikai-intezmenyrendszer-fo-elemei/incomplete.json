@@ -1,0 +1,71 @@
+[
+  {
+    "content": "Magyarország legmagasabb szintű jogszabálya az ____, amely 2012. január 1-jén lépett hatályba.",
+    "missing": {
+      "choices": [
+        { "content": "Alkotmány", "correct": false },
+        { "content": "Alaptörvény", "correct": true },
+        { "content": "Törvények Törvénye", "correct": false },
+        { "content": "Polgári Törvénykönyv", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "Az egykamarás magyar parlament, az Országgyűlés ____ képviselőből áll.",
+    "missing": {
+      "choices": [
+        { "content": "386", "correct": false },
+        { "content": "249", "correct": false },
+        { "content": "199", "correct": true },
+        { "content": "450", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A ____ a miniszterelnökből és a miniszterekből áll, és a végrehajtó hatalom csúcsszerve.",
+    "missing": {
+      "choices": [
+        { "content": "Kormány", "correct": true },
+        { "content": "Országgyűlés", "correct": false },
+        { "content": "Kúria", "correct": false },
+        { "content": "Miniszterelnöki Hivatal", "correct": false }
+      ]
+    }
+  },
+  {
+    "content": "A bírák ____, ítélkezési tevékenységükben csak a törvényeknek vannak alárendelve.",
+    "missing": {
+      "choices": [
+        { "content": "a Kormánynak felelősek", "correct": false },
+        { "content": "az Országgyűlés által irányítottak", "correct": false },
+        { "content": "függetlenek", "correct": true },
+        {
+          "content": "a köztársasági elnök által felügyeltek",
+          "correct": false
+        }
+      ]
+    }
+  },
+  {
+    "content": "A magyar bírósági rendszer csúcsán a ____ áll.",
+    "missing": {
+      "choices": [
+        { "content": "Legfőbb Ügyészség", "correct": false },
+        { "content": "Alkotmánybíróság", "correct": false },
+        { "content": "Ítélőtábla", "correct": false },
+        { "content": "Kúria", "correct": true }
+      ]
+    }
+  },
+  {
+    "content": "Az Országgyűlés ____ indítvánnyal lemondathatja a kormányt.",
+    "missing": {
+      "choices": [
+        { "content": "bizalmatlansági", "correct": true },
+        { "content": "alkotmányossági", "correct": false },
+        { "content": "interpellációs", "correct": false },
+        { "content": "fegyelmi", "correct": false }
+      ]
+    }
+  }
+]
