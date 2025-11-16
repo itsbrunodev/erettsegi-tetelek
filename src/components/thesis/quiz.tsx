@@ -145,7 +145,7 @@ export function ThesisQuiz({
       selectedAnswers.get(questionId)?.has(choice.content) ?? false;
 
     if (!isSubmitted) {
-      return isSelected ? "default" : "outline";
+      return isSelected ? "default" : "secondary";
     }
 
     if (choice.correct) {
@@ -156,7 +156,7 @@ export function ThesisQuiz({
       return "destructive";
     }
 
-    return "outline";
+    return "secondary";
   };
 
   const isCheckButtonDisabled =
