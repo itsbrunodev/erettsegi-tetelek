@@ -84,10 +84,22 @@ export function ThesisTabs({
   );
 
   const shuffledQuizData = useMemo(() => {
-    const allItems = [...quizData.questions, ...quizData.incomplete];
+    const processedQuestions = quizData.questions.map((q) => ({
+      ...q,
+      choices: shuffleArray(q.choices),
+    }));
+
+    const processedIncomplete = quizData.incomplete.map((inc) => ({
+      ...inc,
+      missing: {
+        choices: shuffleArray(inc.missing.choices),
+      },
+    }));
+
+    const allItems = [...processedQuestions, ...processedIncomplete];
 
     return shuffleArray(allItems);
-  }, [quizData]);
+  }, [quizData, activeTab]);
 
   if (!hasQuestions) {
     return <div>{children}</div>;

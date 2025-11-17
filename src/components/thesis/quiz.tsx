@@ -12,10 +12,8 @@ import {
   SelectTrigger,
   SelectValue,
 } from "../ui/select";
-// Assuming these types are defined elsewhere, as per your original code
 import type { IncompleteType, QuestionType } from "./tabs";
 
-// The component now correctly handles a flat array of quiz items
 export function ThesisQuiz({
   data,
 }: {
@@ -45,7 +43,6 @@ export function ThesisQuiz({
         (item) => "question" in item && item.question === id,
       ) as QuestionType | undefined;
 
-      // Determine if the question is single or multiple choice
       const isMultipleChoice =
         (question?.choices.filter((c) => c.correct).length ?? 0) > 1;
 
