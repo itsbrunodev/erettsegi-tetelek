@@ -93,7 +93,7 @@
     ]
   },
   {
-    "question": "Az alábbiak közül melyek voltak a Rákosi-korszak jellemzői? (Több helyes válasz is lehetséges!)",
+    "question": "Az alábbiak közül melyek voltak a Rákosi-korszak jellemzői?",
     "reason": "A korszakot a pártállam (az MDP totális hatalma), a tervgazdaság (a nehézipar erőltetett fejlesztésével) és a Rákosi köré épített személyi kultusz egyaránt jellemezte.",
     "choices": [
       { "content": "Többpártrendszer és sajtószabadság.", "correct": false },
