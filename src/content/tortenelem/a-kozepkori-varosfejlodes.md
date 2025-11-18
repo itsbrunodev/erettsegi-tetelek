@@ -41,7 +41,7 @@ Hogyan vezetett az érett középkor gazdasági és társadalmi átalakulása eg
 - **Hospes (vendég):** Nyugat-Európából érkező telepesek a középkori Magyarországon, akiket a királyok kiváltságokkal (személyes szabadság, adókedvezmények) csábítottak az országba a gazdaság fellendítése érdekében.
 - **Civitas vs. Oppidum:**
   - **Szabad királyi város (civitas):** Fallal körülvett, a királynak közvetlenül alárendelt, teljes önkormányzattal rendelkező város.
-  - **Mezőváros (oppidum):** Földesúri joghatóság alatt álló, fallal nem rendelkező, korlátozottabb autonómiájú, de piaccal és bizonyos kiváltságokkal bíró település.
+  - **Mezőváros (oppidum):** Földesúri joghatóság alatt álló, kőfallal nem rendelkező (bár gyakran palánkkal vagy árokkal védett), korlátozottabb autonómiájú, de piaccal és bizonyos kiváltságokkal bíró település.
 
 ## **A Téma Részletes Elemzése**
 
@@ -80,7 +80,7 @@ Hogyan vezetett az érett középkor gazdasági és társadalmi átalakulása eg
 - **A hospesek szerepe:** A tatárjárás után IV. Béla és utódai tömegesen hívtak be nyugati telepeseket (főleg németeket), akik magukkal hozták a városi életformát, a szakértelmet és a jogszokásokat.
 - **A városhálózat kettőssége:**
   - **Szabad királyi városok:** Stratégiailag fontos helyeken (pl. határvédelem, bányavidékek) jöttek létre. Ide tartoztak a **tárnoki városok** (Buda, Kassa, Pozsony stb.) és a **bányavárosok** (Körmöcbánya, Selmecbánya).
-  - **Mezővárosok:** Típusosan magyar településforma. Jelentős gazdasági központokká nőhették ki magukat (pl. Debrecen, Kecskemét), de jogilag a földesúr joghatósága alatt maradtak, és nem illette meg őket a falépítés joga.
+  - **Mezővárosok:** Típusosan magyar településforma. Jelentős gazdasági központokká nőhették ki magukat (pl. Debrecen, Kecskemét), de jogilag a földesúr joghatósága alatt maradtak, és nem illette meg őket a kőfalépítés joga (bár palánkkal gyakran védték őket).
 
 ### **Eredmények és Közvetlen Következmények**
 

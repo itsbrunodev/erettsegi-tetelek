@@ -35,7 +35,7 @@ Hogyan volt képes egy korábban marginális politikai erő, a Nemzetiszocialist
   - **Nemzetiszocializmus (nácizmus):** Szélsőjobboldali, totalitárius politikai ideológia, melynek központi elemei a fajelmélet (árja felsőbbrendűség), az antiszemitizmus, a vezérelv (Führerprinzip), az élettér-elmélet (Lebensraum) és az antidemokratizmus.
   - **Totális diktatúra:** Olyan államforma, ahol a hatalom egyetlen párt vagy személy kezében összpontosul, és az állam az élet minden területére (gazdaság, kultúra, magánélet) kiterjeszti ellenőrzését.
   - **Felhatalmazási törvény (1933):** Kulcsfontosságú törvény, amely a törvényhozó hatalmat a kormányra ruházta, ezzel gyakorlatilag felszámolva a parlamentáris demokráciát.
-  - **Nürnbergi törvények (1935):** Faji alapú törvények, amelyek megfosztották a zsidókat német állampolgárságuktól és alapvető jogaiktól.
+  - **Nürnbergi törvények (1935):** Faji alapú törvények, amelyek megfosztották a zsidókat német állampolgárságuktól és alapvető jogaiktól (ezek már a konszolidált diktatúra intézkedései).
 - **Kulcsszereplők:**
   - **Adolf Hitler:** Az NSDAP vezére (Führer), 1933-tól Németország kancellárja, majd diktátora.
   - **Paul von Hindenburg:** A weimari köztársaság elnöke, aki kinevezte Hitlert kancellárrá.
@@ -45,7 +45,7 @@ Hogyan volt képes egy korábban marginális politikai erő, a Nemzetiszocialist
   - **1933. január 30.:** Hitler kancellári kinevezése.
   - **1933. február 27.:** A Reichstag (parlament) felgyújtása, ami ürügyet szolgáltatott a polgári szabadságjogok felfüggesztésére.
   - **1934. június 30.:** "Hosszú kések éjszakája", leszámolás a párton belüli ellenzékkel (SA).
-  - **1938. november 9-10.:** "Kristályéjszaka", országos pogrom a zsidók ellen.
+  - **1938. november 9-10.:** "Kristályéjszaka", országos pogrom (pusztítás, erőszakos rombolás) a zsidók ellen (a diktatúra radikalizálódásának jelképe).
 
 ## **A Téma Részletes Elemzése**
 
@@ -76,7 +76,8 @@ Hogyan volt képes egy korábban marginális politikai erő, a Nemzetiszocialist
     - Hindenburg elnök egy koalíciós kormány élére nevezte ki.
 3.  **A diktatúra kiépítésének lépései (1933-34):**
     - **Reichstag felgyújtása (1933. február):** A kommunistákra fogott merénylet ürügyén **rendkívüli állapotot** vezettek be, felfüggesztve az alapvető polgári szabadságjogokat.
-    - **Felhatalmazási törvény (1933. március):** A parlament lényegében lemondott saját jogköreiről, a kormány rendeleti úton kormányozhatott. Ezzel a **törvényesség látszatát fenntartva** számolták fel a demokráciát.
+    - **Felhatalmazási törvény (1933. március):** A parlament lényegében lemondott saját jogköreiről, a kormány rendeleti úton kormányozhatott.
+      _Fontos részlet:_ Bár a szavazás formailag törvényes volt, a légkört terror uralta: a kommunista (KPD) képviselőket már letartóztatták, az üléstermet pedig fegyveres SA-osztagok vették körbe, megfélemlítve a még jelenlévő ellenzéket (az SPD kivételével mindenki megszavazta).
     - **"Gleichschaltung" (Egybehangolás):** Felszámolták a szakszervezeteket, betiltották a többi politikai pártot, létrehozva az **egypártrendszert**. Az állami és társadalmi szervezeteket a náci párt irányítása alá vonták.
     - **"Hosszú kések éjszakája" (1934. június):** Hitler az SS segítségével leszámolt a párton belüli riválisával, Ernst Röhmmel és az SA (Sturmabteilung) vezetésével, elnyerve ezzel a hadsereg (Wehrmacht) támogatását.
     - **A Führer megszületése (1934. augusztus):** Hindenburg halála után Hitler összevonta a kancellári és az elnöki tisztséget, felvéve a **"Vezér és Birodalmi Kancellár"** címet. A hadsereg és a köztisztviselők személyesen neki tettek hűségesküt.
@@ -96,7 +97,7 @@ Hogyan volt képes egy korábban marginális politikai erő, a Nemzetiszocialist
   - A társadalom militarizálása és totális ideológiai kontroll alá vonása (Hitlerjugend, propaganda).
 - **Hosszú Távú Hatások:**
   - Az agresszív, élettér-elméleten alapuló külpolitika egyenes úton vezetett a **második világháború kitöréséhez (1939)**.
-  - A faji alapú üldözés a **holokausztba**, az európai zsidóság és más kisebbségek szisztematikus kiirtásába torkollott.
+  - A faji alapú üldözés a nürnbergi törvényeken keresztül a **holokausztba**, az európai zsidóság és más kisebbségek szisztematikus kiirtásába torkollott.
   - Németország teljes háborús veresége, az ország kettéosztása és a nürnbergi per, amely elítélte a náci háborús bűnösöket.
 
 # **Kontextus és Kritika**
@@ -124,7 +125,7 @@ A náci hatalomátvétel nem egyetlen ok, hanem több tényező - a versailles-i
 
 ## **Válasz a Központi Kérdésre**
 
-A Nemzetiszocialista Párt azért juthatott törvényes úton hatalomra, mert a demokratikus rendszer válságát és a társadalom kétségbeesését kihasználva a legerősebb politikai erővé vált, amelyet a hatalmi elit - tévesen - egy átmeneti, kezelhető eszköznek tekintett a rend helyreállítására. A hatalom megszerzése után pedig a jogrendszer villámgyors és gátlástalan átalakításával, valamint a terror eszközeivel számolták fel a demokrácia intézményeit, mielőtt a társadalom vagy a politikai ellenfelek hatékonyan reagálhattak volna.
+A Nemzetiszocialista Párt azért juthatott törvényes úton hatalomra, mert a demokratikus rendszer válságát és a társadalom kétségbeesését kihasználva a legerősebb politikai erővé vált, amelyet a hatalmi elit - tévesen - egy átmeneti, kezelhető eszköznek tekintett a rend helyreállítására. A hatalom megszerzése után pedig a jogrendszer villámgyors és gátlástalan átalakításával (például a Felhatalmazási törvény terrorlégkörben való elfogadtatásával), valamint a terror eszközeivel számolták fel a demokrácia intézményeit, mielőtt a társadalom vagy a politikai ellenfelek hatékonyan reagálhattak volna.
 
 ## **Záró Perspektíva**
 

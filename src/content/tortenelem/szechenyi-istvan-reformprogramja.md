@@ -36,17 +36,17 @@ Hogyan lehet a feudális, rendi kiváltságokra épülő, gazdaságilag elmarado
 
 - **Kulcsfogalmak:**
   - **Reformkor:** Az 1830 és 1848 közötti időszak Magyarországon, amelynek célja a polgári átalakulás békés, reformok útján történő megvalósítása volt.
-  - **Ősiség törvénye (aviticitas):** Nagy Lajos 1351-es törvénye, amely kimondta, hogy a nemesi birtokot nem lehet eladni, csak a családon belül örökíteni. Ez akadályozta a birtokok fedezetként való felhasználását a hitelfelvételnél.
-  - **Önkéntes örökváltság:** Széchenyi javaslata a jobbágyfelszabadításra, mely szerint a jobbágy a földesúrral megegyezve, saját erejéből megválthatta volna magát és a földjét.
-  - **Közteherviselés:** Az az elv, hogy a társadalom minden tagja, beleértve a nemességet is, vegye ki a részét az adózásból és más közterhek viseléséből. Széchenyi kezdetben részleges közteherviselést javasolt.
+  - **Ősiség törvénye (aviticitas):** Nagy Lajos 1351-es törvénye, amely kimondta, hogy a nemesi birtokot nem lehet eladni, csak a családon belül örökíteni. Ez akadályozta a birtokok jelzálogként való felhasználását a hitelfelvételnél.
+  - **Önkéntes örökváltság:** Széchenyi javaslata a jobbágyfelszabadításra (az 1840-es évek elején törvénybe is iktatták), mely szerint a jobbágy a földesúrral szabadon megegyezve, saját erejéből megválthatta volna magát és a földjét.
+  - **Közteherviselés:** Az az elv, hogy a társadalom minden tagja, beleértve a nemességet is, vegye ki a részét az adózásból. Széchenyi kezdetben részleges közteherviselést (pl. házi adó, hídpénz) javasolt.
 - **Kulcsszereplők:**
   - **Gróf Széchenyi István (1791-1860):** Arisztokrata, politikus, író, "a legnagyobb magyar". A reformkor elindítója, akinek programja a gazdasági modernizációra és a lassú, szerves fejlődésre épült.
-  - **Báró Wesselényi Miklós:** Széchenyi barátja, majd politikai vitapartnere. A reformokat a liberális nemességre támaszkodva, a kormányzattal szemben képzelte el.
-  - **Kossuth Lajos:** A liberális köznemesség vezetője, Széchenyi legfőbb politikai ellenfele. Radikálisabb változásokat, gyorsabb politikai reformokat és nagyobb nemzeti önállóságot sürgetett.
+  - **Báró Wesselényi Miklós:** Széchenyi barátja, majd politikai vitapartnere. A reformokat a liberális nemességre támaszkodva, a kormányzattal szemben, keményebb ellenzéki fellépéssel képzelte el.
+  - **Kossuth Lajos:** A liberális köznemesség vezetője, az 1840-es évektől Széchenyi legfőbb politikai ellenfele. Radikálisabb változásokat, gyorsabb politikai reformokat és az érdekegyesítést sürgette.
 - **Meghatározó Dátumok / Időszakok:**
-  - **1825:** Az MTA megalapítása Széchenyi felajánlásával; a reformországgyűlések kezdetét jelzi.
+  - **1825:** Az MTA megalapítása Széchenyi birtokjövedelmének felajánlásával; a reformországgyűlések kezdetét jelzi.
   - **1830:** A _Hitel_ című mű megjelenése, a reformkor szimbolikus kezdete.
-  - **1833:** A _Stádium_ című programadó mű megjelenése.
+  - **1833:** A _Stádium_ című programadó mű megjelenése (külföldön nyomtatták ki a cenzúra miatt).
 
 <!-- _[Ide Széchenyi István portréjának leírása]_ -->
 
@@ -55,7 +55,7 @@ Hogyan lehet a feudális, rendi kiváltságokra épülő, gazdaságilag elmarado
 ### **Kiváltó Okok és Előzmények**
 
 - **Gazdasági kényszer:** A napóleoni háborúk utáni dekonjunktúra súlyosan érintette a magyar nemességet. A mezőgazdasági termékek iránti kereslet csökkent, a birtokok modernizálásra szorultak volna, amihez tőkére, azaz **hitelre** lett volna szükség.
-- **A feudális rendszer korlátai:** Az **ősiség törvénye** megakadályozta a hitelfelvételt, mivel a nemesi birtok nem szolgálhatott fedezetül. A **robot** és a jobbágyi szolgáltatások rendszere nem volt hatékony, a jobbágy nem volt érdekelt a minőségi munkában.
+- **A feudális rendszer korlátai:** Az **ősiség törvénye** megakadályozta a hitelfelvételt, mivel a nemesi birtok nem szolgálhatott fedezetül (nem lehetett elárverezni). A **robot** és a jobbágyi szolgáltatások rendszere nem volt hatékony, a jobbágy nem volt érdekelt a minőségi munkában.
 - **Személyes tapasztalatok:** Széchenyi nyugat-európai (főleg angliai) utazásai során szembesült Magyarország elmaradottságával. Rádöbbent, hogy a modernizáció elkerülhetetlen.
 - **A _Hitel_ (1830) megírása:** A reformprogram elindítója Széchenyi saját, sikertelen hitelfelvételi kísérlete volt. A műben logikusan vezette le, hogy a hitel hiánya az ősiség törvényéből fakad, és ennek eltörlése további reformok láncolatát vonja maga után.
 
@@ -64,44 +64,44 @@ Hogyan lehet a feudális, rendi kiváltságokra épülő, gazdaságilag elmarado
 Széchenyi programját három fő művében fejtette ki, amelyek egymásra épültek.
 
 1.  **_Hitel_ (1830):**
-    - **Központi gondolata:** A gazdasági modernizáció alapja a hitel, de ezt akadályozza az ősiség törvénye.
-    - **Következtetései:** El kell törölni az ősiséget, a fiscalitast (a kincstár öröklési jogát), és lehetővé kell tenni a nem nemesek birtokszerzését.
+    - **Központi gondolata:** A gazdasági modernizáció alapja a hitel, de ezt akadályozza az ősiség (aviticitas) törvénye.
+    - **Következtetései:** El kell törölni az ősiséget, a fiscalitast (a kincstár öröklési jogát a család kihalása esetén), és lehetővé kell tenni a nem nemesek birtokszerzését (jus proprietatis).
     - Kritizálta a robotot, mint "erkölcstelen és haszontalan" rendszert, és felvetette a közteherviselés szükségességét.
 2.  **_Világ_ (1831):**
-    - Válasz a _Hitel_-t ért konzervatív kritikákra (pl. Dessewffy József _Taglalat_ című művére).
+    - Válasz a _Hitel_-t ért konzervatív kritikákra (főként Dessewffy József _Taglalat_ című művére).
     - Ebben a művében a "világ" szó világosságot jelent; célja a reformgondolatok tisztázása és megvédése volt.
     - Hangsúlyozta a reformok fokozatosságát és a kormányzattal való együttműködés fontosságát.
 3.  **_Stádium_ (1833):**
     - A reformprogram 12 pontba szedett, rendszerezett összefoglalása.
-    - **Gazdasági pontok:** Hitel, ősiség és fiscalitas eltörlése, birtokszerzési jog, a monopóliumok, céhek és belső vámok megszüntetése.
-    - **Társadalmi-jogi pontok:** Törvény előtti egyenlőség, részleges közteherviselés.
+    - **Gazdasági pontok:** Hitel, ősiség és fiscalitas eltörlése, birtokszerzési jog, a monopóliumok, céhek és hatósági árszabások megszüntetése.
+    - **Társadalmi-jogi pontok:** Törvény előtti egyenlőség, részleges közteherviselés (házi adó).
     - **Politikai-közigazgatási pontok:** A törvényhozás és a bíróságok nyilvánossága, a magyar nyelv hivatalossá tétele.
 
 <!-- _[Ide a Stádium 12 pontját ábrázoló infografika leírása]_ -->
 
 ### **Eredmények és Gyakorlati Tevékenység**
 
-Széchenyi nemcsak elméleti programot alkotott, hanem a gyakorlati megvalósításban is élen járt.
+Széchenyi nemcsak elméleti programot alkotott, hanem a gyakorlati megvalósításban is élen járt ("a legnagyobb magyar" elnevezést éppen ezért kapta Kossuthtól).
 
 - **Közlekedésfejlesztés:**
-  - **Lánchíd:** Pest és Buda állandó összekötése, amelynek hídpénze az első rés volt a nemesi adómentesség pajzsán.
+  - **Lánchíd:** Pest és Buda állandó összekötése, amelynek hídpénze (melyet a nemeseknek is fizetniük kellett) az első rés volt a nemesi adómentesség pajzsán.
   - **Folyószabályozás:** A Vaskapu hajózhatóvá tétele a Dunán és a Tisza szabályozásának elindítása a kereskedelem fellendítése érdekében.
   - **Gőzhajózás:** A dunai és balatoni gőzhajózás beindítása, Óbudai Hajógyár megalapítása.
 - **Gazdaságélénkítés:**
-  - Pesti Hengermalom létrehozása.
-  - Selyemhernyó-tenyésztés és lóversenyzés meghonosítása.
+  - Pesti Hengermalom létrehozása (részvénytársasági alapon).
+  - Selyemhernyó-tenyésztés népszerűsítése és a lóversenyzés meghonosítása (a lótenyésztés fejlesztése érdekében).
 - **Társadalmi élet és kultúra:**
   - **Magyar Tudományos Akadémia (MTA):** 1825-ös felajánlása a magyar nyelv és tudományosság fejlesztésére.
-  - **Nemzeti Casino:** A társasági élet és a politikai eszmecsere központjaként jött létre.
+  - **Nemzeti Casino:** A társasági élet és a politikai eszmecsere központjaként jött létre a főnemesség és az értelmiség közeledésére.
 
 ## **Hatásvizsgálat**
 
 - **Közvetlen Következmények:**
   - Széchenyi programja **elindította a reformkori közgondolkodást** és vitákat.
   - Gyakorlati alkotásai **megteremtették a modernizáció alapjait** a közlekedésben és a gazdaságban.
-  - Programja megosztotta a politikai elitet: támogatókra talált a reformpárti arisztokrácia és köznemesség egy részében, de a konzervatívok elutasították.
+  - Programja megosztotta a politikai elitet: támogatókra talált a reformpárti arisztokrácia és köznemesség egy részében, de a konzervatívok (a "fontolva haladók") elutasították.
 - **Hosszú Távú Hatások:**
-  - Bár Széchenyi mérsékelt programja helyett végül a Kossuth által képviselt radikálisabb irány kerekedett felül, Széchenyi **eszméi beépültek az 1848-as áprilisi törvényekbe** (pl. közteherviselés, törvény előtti egyenlőség).
+  - Bár Széchenyi mérsékelt programja helyett végül a Kossuth által képviselt radikálisabb irány kerekedett felül, Széchenyi **eszméi beépültek az 1848-as áprilisi törvényekbe** (pl. közteherviselés, törvény előtti egyenlőség, ősiség eltörlése).
   - Gyakorlati alkotásai (pl. Lánchíd, folyószabályozás) **évszázados távlatban is meghatározták Magyarország fejlődését**.
   - Kossuthtal folytatott vitája a mai napig a politikai gondolkodás két archetípusát képviseli: a **fokozatos, szerves fejlődés** és a **gyors, radikális változás** modelljét.
 
@@ -113,18 +113,18 @@ Széchenyi programja szorosan kapcsolódik a kor európai liberális mozgalmaiho
 
 ## **Eltérő Nézőpontok és Viták**
 
-A reformkor központi vitája Széchenyi és Kossuth között zajlott.
+A reformkor központi vitája Széchenyi és Kossuth között zajlott az 1840-es években.
 
 - **Széchenyi álláspontja:**
   - A reformok vezető ereje az **arisztokrácia**.
   - A haladás útja a **lassú, megfontolt, szerves fejlődés**.
-  - A Habsburg Birodalommal való **együttműködés** elengedhetetlen, a forradalmat el kell kerülni.
-  - A _Kelet Népe_ című vitairatában azzal vádolta Kossuthot, hogy izgatásával forradalomba és katasztrófába sodorja a nemzetet.
+  - A Habsburg Birodalommal való **együttműködés** elengedhetetlen, a forradalmat minden áron el kell kerülni.
+  - A _Kelet Népe_ (1841) című vitairatában azzal vádolta Kossuthot, hogy a Pesti Hírlapban folytatott izgatásával ("szívhez szóló modorával") forradalomba és katasztrófába sodorja a nemzetet.
 - **Kossuth álláspontja:**
   - A reformok bázisa a **köznemesség és az értelmiség**.
   - **Gyors és radikális politikai reformokra** van szükség (pl. kötelező örökváltság állami kárpótlással).
   - Az **érdekegyesítés** (a nemesség és a jobbágyság közös fellépése) és a nemzeti önállóság a cél. A bécsi udvarral szemben akár konfrontációt is vállalni kell.
-  - A _Felelet_ című művében, bár "a legnagyobb magyarnak" nevezte Széchenyit, visszautasította a vádakat.
+  - A _Felelet_ című művében, bár "a legnagyobb magyarnak" nevezte Széchenyit, visszautasította a vádakat és a politikai cselekvés szükségességét hangsúlyozta.
 
 ## **Örökség és Jelenkori Relevancia**
 
