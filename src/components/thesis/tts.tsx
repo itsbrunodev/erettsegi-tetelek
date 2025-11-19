@@ -1,6 +1,6 @@
 import {
-  GaugeIcon,
   AudioLinesIcon,
+  GaugeIcon,
   PauseIcon,
   PlayIcon,
   SquareIcon,
