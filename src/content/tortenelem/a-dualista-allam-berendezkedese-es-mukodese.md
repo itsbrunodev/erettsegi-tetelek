@@ -114,7 +114,7 @@ A dualista állam a kiegyezés kompromisszumára épült, amely gazdasági prosp
 
 ## **Válasz a Központi Kérdésre**
 
-A dualizmus rendszere azért maradhatott fenn fél évszázadig a folyamatos közjogi viták ellenére, mert a Deák, majd a Tisza által vezetett politikai elit – az uralkodó támogatásával – sikeresen tartotta távol a hatalomtól a radikális ellenzéket. A rendszer stabilitását a gazdasági sikerek legitimálták, míg a társadalmi elégedetlenséget a rendvédelmi szervek és a korlátozott demokrácia tartotta kordában.
+A dualizmus rendszere azért maradhatott fenn fél évszázadig a folyamatos közjogi viták ellenére, mert a Deák, majd a Tisza által vezetett politikai elit - az uralkodó támogatásával - sikeresen tartotta távol a hatalomtól a radikális ellenzéket. A rendszer stabilitását a gazdasági sikerek legitimálták, míg a társadalmi elégedetlenséget a rendvédelmi szervek és a korlátozott demokrácia tartotta kordában.
 
 ## **Záró Perspektíva**
 

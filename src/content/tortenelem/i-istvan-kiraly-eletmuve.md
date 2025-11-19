@@ -8,13 +8,14 @@ startDate:
   }
 endDate: { date: "1038-08-15", description: "I. István király halála." }
 coverImage: true
+audio: true
 ---
 
 # **Bevezetés**
 
 ## **Történelmi Elhelyezés**
 
-I. István kora a **kora középkor** és az **európai államalapítások** időszaka. A 10–11. század fordulóján Közép- és Észak-Európa pogány népei (dánok, lengyelek, csehek, magyarok) sorsdöntő választás előtt álltak: beilleszkednek a formálódó keresztény Európába, vagy a belső széthúzás és külső hódítások áldozataivá válnak. István tevékenysége ebben a kontextusban értelmezhető, a nyugati (római) és a keleti (bizánci) kereszténység határmezsgyéjén, a **Német-római Birodalom** és a **Bizánci Birodalom** politikai erőterében.
+I. István kora a **kora középkor** és az **európai államalapítások** időszaka. A 10-11. század fordulóján Közép- és Észak-Európa pogány népei (dánok, lengyelek, csehek, magyarok) sorsdöntő választás előtt álltak: beilleszkednek a formálódó keresztény Európába, vagy a belső széthúzás és külső hódítások áldozataivá válnak. István tevékenysége ebben a kontextusban értelmezhető, a nyugati (római) és a keleti (bizánci) kereszténység határmezsgyéjén, a **Német-római Birodalom** és a **Bizánci Birodalom** politikai erőterében.
 
 ## **Központi Problémafelvetés**
 
@@ -36,7 +37,7 @@ Hogyan volt képes István egy félnomád hagyományokkal rendelkező, törzsi-n
   - **Törvénykönyvek:** István két törvénykönyve (I. és II.) a szokásjoggal szemben az írott jogot vezette be. Fő céljaik: a magántulajdon védelme, a keresztény vallásgyakorlás kikényszerítése és a társadalmi rend védelme.
   - **Apostoli királyság eszméje:** Bár maga az "apostoli király" címet hivatalosan csak a 18. században hagyták jóvá, a fogalom István kivételes egyházszervezői jogaira utal (püspökségek alapítása, főpapok kinevezése), melyeket a pápai elismerés és a szuverenitás biztosított számára (legátusi jogok).
 - **Kulcsszereplők:**
-  - **I. (Szent) István (Vajk):** Géza fejedelem fia, az utolsó fejedelem (997–1000) és az első magyar király (1000–1038).
+  - **I. (Szent) István (Vajk):** Géza fejedelem fia, az utolsó fejedelem (997-1000) és az első magyar király (1000-1038).
   - **Géza fejedelem:** István apja, aki elindította a nyugati orientációt, békét kötött a Német-római Birodalommal, és dinasztikus házasságot szervezett fiának.
   - **Koppány:** István nagybátyja (vagy unokatestvére), a somogyi hercegség ura. A szeniorátus és a levirátus (sógorházasság) elve alapján lépett fel trónkövetelőként.
   - **Gizella királyné:** II. (Civakodó) Henrik bajor herceg lánya, István felesége. Házasságuk (996) biztosította a bajor szövetséget és a nyugati hittérítők, lovagok érkezését.

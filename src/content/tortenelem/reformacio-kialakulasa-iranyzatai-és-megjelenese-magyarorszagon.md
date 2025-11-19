@@ -12,6 +12,7 @@ endDate:
     description: "A bécsi béke törvénybe iktatása, amely biztosította a vallásszabadságot a nemesek és a városok számára.",
   }
 coverImage: true
+audio: true
 ---
 
 # **Bevezetés**
@@ -126,7 +127,7 @@ A reformáció magyarországi sikerét a katolikus egyház mohácsi vész utáni
 
 ## **Válasz a Központi Kérdésre**
 
-A reformáció nem csupán hitújítás volt, hanem alapvetően formálta át a magyar társadalmat: a katolikus egységet felekezeti pluralizmus váltotta fel, a protestantizmus pedig – különösen Erdélyben és a Hódoltságban – a magyar nemzeti identitás és a rendi függetlenség bástyájává vált. A nyugat-európai mintáktól eltérően itt a vallási türelem (Erdély) és a geopolitikai kényszerhelyzet (török-Habsburg szembenállás) együttesen alakította a felekezeti viszonyokat.
+A reformáció nem csupán hitújítás volt, hanem alapvetően formálta át a magyar társadalmat: a katolikus egységet felekezeti pluralizmus váltotta fel, a protestantizmus pedig - különösen Erdélyben és a Hódoltságban - a magyar nemzeti identitás és a rendi függetlenség bástyájává vált. A nyugat-európai mintáktól eltérően itt a vallási türelem (Erdély) és a geopolitikai kényszerhelyzet (török-Habsburg szembenállás) együttesen alakította a felekezeti viszonyokat.
 
 ## **Záró Perspektíva**
 

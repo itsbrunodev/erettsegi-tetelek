@@ -4,7 +4,7 @@ description: "A periklészi kor athéni demokráciája a közvetlen népuralom e
 startDate:
   {
     date: "Kr. e. 490",
-    description: "A marathóni csata időpontja, amely a görög–perzsa háborúk sorsfordító eseménye volt, és elindította Athént a nagyhatalommá válás útján.",
+    description: "A marathóni csata időpontja, amely a görög-perzsa háborúk sorsfordító eseménye volt, és elindította Athént a nagyhatalommá válás útján.",
   }
 endDate:
   {

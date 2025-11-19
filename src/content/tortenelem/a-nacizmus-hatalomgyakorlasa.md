@@ -9,6 +9,7 @@ endDate:
     description: "Paul von Hindenburg elnök halála, amellyel Hitler az államfői tisztséget is megszerezve teljhatalomra tesz szert.",
   }
 coverImage: true
+audio: true
 ---
 
 # **Bevezetés**

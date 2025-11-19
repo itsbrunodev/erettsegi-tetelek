@@ -111,7 +111,7 @@ Hogyan volt képes egy eredetileg békés szimpátiatüntetésből kiinduló né
 
 - **Kádár-rendszer kiépülése:**
   - A rendszer kezdetben a terrorra és a **Munkásőrségre** támaszkodott.
-  - A 60-as évektől – részben 1956 tanulságai miatt – Kádár kiegyezést kínált ("Aki nincs ellenünk, az velünk van"): az életszínvonal emeléséért cserébe ("gulyáskommunizmus") a társadalom lemondott a politikai szabadságról.
+  - A 60-as évektől - részben 1956 tanulságai miatt - Kádár kiegyezést kínált ("Aki nincs ellenünk, az velünk van"): az életszínvonal emeléséért cserébe ("gulyáskommunizmus") a társadalom lemondott a politikai szabadságról.
 - **Nemzetközi jelentőség:**
   - A forradalom leleplezte a szovjet kommunizmus valódi, elnyomó arcát, ami a nyugati baloldali értelmiség körében is nagy kiábrándulást okozott.
   - Az 1956-os események miatt került a Time magazin címlapjára "A magyar szabadságharcos", mint az év embere.

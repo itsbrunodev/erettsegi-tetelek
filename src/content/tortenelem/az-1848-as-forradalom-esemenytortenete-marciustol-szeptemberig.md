@@ -9,6 +9,7 @@ endDate:
     description: "A pákozdi csata, az első jelentős katonai ütközet a magyar honvédsereg és a császári-horvát erők között.",
   }
 coverImage: true
+audio: true
 ---
 
 # **Bevezetés**
@@ -77,7 +78,7 @@ Hogyan alakult át egy vértelen, törvényes keretek között zajló forradalom
   - **Július 11.:** Az első népképviseleti országgyűlésen Kossuth drámai beszédében („Megajánlási beszéd”) kérésére a képviselők megszavazták a haza védelméhez szükséges 200 000 újoncot és 42 millió forint hitelt.
 - **Szeptember - A fegyveres harc kezdete:**
   - Az európai forradalmi hullám lecsengésével (pl. Radetzky győzelmei Itáliában) a bécsi udvar elérkezettnek látta az időt a visszavágásra.
-  - **Szeptember 11.:** Jellačić horvát bán császári jóváhagyással, hadüzenet nélkül átlépte a Drávát, és Pest felé indult. Ugyanezen a napon a Batthyány-kormány – látva békés törekvéseinek kudarcát – benyújtotta lemondását.
+  - **Szeptember 11.:** Jellačić horvát bán császári jóváhagyással, hadüzenet nélkül átlépte a Drávát, és Pest felé indult. Ugyanezen a napon a Batthyány-kormány - látva békés törekvéseinek kudarcát - benyújtotta lemondását.
   - Az ország irányítását ideiglenesen, majd véglegesen a Kossuth vezette **Országos Honvédelmi Bizottmány** vette át.
 
 ### **Eredmények és A Szeptemberi Végkifejlet**
@@ -117,7 +118,7 @@ Az 1848 tavaszán és nyarán zajló események egy sikeres polgári átalakulá
 
 ## **Válasz a Központi Kérdésre**
 
-A forradalom azért vált szabadságharccá, mert a bécsi udvar – megerősödve itáliai győzelmei után – már nem volt hajlandó tolerálni a magyar állam áprilisi törvényekben garantált önállóságát (különösen a had- és pénzügyet). Mivel a politikai kompromisszumok útja Jellačić támadásával lezárult, Magyarország csak fegyverrel védhette meg frissen szerzett polgári szabadságát és szuverenitását.
+A forradalom azért vált szabadságharccá, mert a bécsi udvar - megerősödve itáliai győzelmei után - már nem volt hajlandó tolerálni a magyar állam áprilisi törvényekben garantált önállóságát (különösen a had- és pénzügyet). Mivel a politikai kompromisszumok útja Jellačić támadásával lezárult, Magyarország csak fegyverrel védhette meg frissen szerzett polgári szabadságát és szuverenitását.
 
 ## **Záró Perspektíva**
 

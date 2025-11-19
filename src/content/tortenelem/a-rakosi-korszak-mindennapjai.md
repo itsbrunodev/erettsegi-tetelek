@@ -118,4 +118,4 @@ A rezsim a magánélet minden területére (munka, család, hit) behatolt. A fé
 
 ## **Záró Perspektíva**
 
-Bár Rákosi Mátyás uralma történelmi léptékkel mérve rövid ideig tartott (1948–1956), a társadalmi szövetben okozott károk és a bizalmi tőke lerombolása generációkra kiható örökséget hagyott hátra.
+Bár Rákosi Mátyás uralma történelmi léptékkel mérve rövid ideig tartott (1948-1956), a társadalmi szövetben okozott károk és a bizalmi tőke lerombolása generációkra kiható örökséget hagyott hátra.

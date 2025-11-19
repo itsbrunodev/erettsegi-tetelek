@@ -8,13 +8,14 @@ endDate:
     description: "A drinápolyi béke, amely tartósította az ország három részre szakadt állapotát.",
   }
 coverImage: true
+audio: true
 ---
 
 # **Bevezetés**
 
 ## **Történelmi Elhelyezés**
 
-A mohácsi csata a **kora újkor** elején, a **Jagelló-kor** (1490–1526) végén zajlott. Ezt az időszakot Magyarországon a **központi hatalom meggyengülése**, a főúri pártok közötti viszálykodás és a déli végvárrendszer pénzhiány miatti elhanyagolása jellemezte. Európában eközben a **Habsburgok és Franciaország** vetélkedése (itáliai háborúk), valamint a **reformáció** kezdete kötötte le a nagyhatalmak figyelmét, ami Magyarország végzetes külpolitikai elszigetelődéséhez vezetett. Az **Oszmán Birodalom** I. (Nagy) Szulejmán vezetésével terjeszkedésének csúcspontján volt, és Magyarországot a Bécs és Nyugat-Európa felé vezető hadjáratok kulcsfontosságú felvonulási területének tekintette.
+A mohácsi csata a **kora újkor** elején, a **Jagelló-kor** (1490-1526) végén zajlott. Ezt az időszakot Magyarországon a **központi hatalom meggyengülése**, a főúri pártok közötti viszálykodás és a déli végvárrendszer pénzhiány miatti elhanyagolása jellemezte. Európában eközben a **Habsburgok és Franciaország** vetélkedése (itáliai háborúk), valamint a **reformáció** kezdete kötötte le a nagyhatalmak figyelmét, ami Magyarország végzetes külpolitikai elszigetelődéséhez vezetett. Az **Oszmán Birodalom** I. (Nagy) Szulejmán vezetésével terjeszkedésének csúcspontján volt, és Magyarországot a Bécs és Nyugat-Európa felé vezető hadjáratok kulcsfontosságú felvonulási területének tekintette.
 
 ## **Központi Problémafelvetés**
 
@@ -32,7 +33,7 @@ Miért vezetett egyetlen, alig néhány órás csata a középkori, egységes Ma
 
 - **Kulcsfogalmak:**
   - **Jagelló-kor:** A központi hatalom gyengeségének és a rendi széthúzásnak a korszaka Magyarországon (1490-1526), II. Ulászló és II. Lajos uralkodása alatt.
-  - **Végvárrendszer:** A déli határ (Duna–Száva vonal) védelmét szolgáló várak láncolata, amely a központi kincstár kiürülése miatt a 16. század elejére súlyosan meggyengült.
+  - **Végvárrendszer:** A déli határ (Duna-Száva vonal) védelmét szolgáló várak láncolata, amely a központi kincstár kiürülése miatt a 16. század elejére súlyosan meggyengült.
   - **Török hódoltság:** Az Oszmán Birodalom által elfoglalt és közigazgatásilag betagozott (vilajetekre osztott) magyarországi terület, amely Buda 1541-es elfoglalásával jött létre ténylegesen.
   - **Kettős királyválasztás:** II. Lajos halála után a magyar nemesség megosztottsága miatt két uralkodót választottak: a köznemesi párt Szapolyai Jánost, a főúri párt Habsburg Ferdinándot.
 - **Kulcsszereplők:**
@@ -40,9 +41,9 @@ Miért vezetett egyetlen, alig néhány órás csata a középkori, egységes Ma
   - **I. (Nagy) Szulejmán:** Az Oszmán Birodalom szultánja (1520-1566). A birodalom az ő uralkodása alatt élte fénykorát; célja a Magyar Királyság megtörése, majd Bécs elfoglalása volt.
   - **Tomori Pál:** Kalocsai érsek, alsó-magyarországi főkapitány, a magyar sereg egyik fővezére. A csata egyik legelszántabb támogatója, hősi halált halt az ütközetben.
   - **Szapolyai János:** Erdélyi vajda, az ország legnagyobb birtokosa. Seregével (kb. 10-15 ezer fő) nem érkezett meg időben a csatamezőre, később magyar királlyá választották.
-  - **Habsburg Ferdinánd:** Osztrák főherceg, II. Lajos sógora. A Habsburg–Jagelló házassági szerződés alapján tartott igényt a trónra.
+  - **Habsburg Ferdinánd:** Osztrák főherceg, II. Lajos sógora. A Habsburg-Jagelló házassági szerződés alapján tartott igényt a trónra.
 - **Meghatározó Dátumok:**
-  - **1521:** Nándorfehérvár (Belgrád) eleste – a déli végvárrendszer kulcsának elvesztése megnyitotta az utat az ország belseje felé.
+  - **1521:** Nándorfehérvár (Belgrád) eleste - a déli végvárrendszer kulcsának elvesztése megnyitotta az utat az ország belseje felé.
   - **1526. augusztus 29.:** A mohácsi csata napja.
   - **1541:** Buda török kézre kerülése (augusztus 29.), az ország három részre szakadásának tényleges kezdete.
 
@@ -125,4 +126,4 @@ Azért vezethetett egyetlen csata az ország összeomlásához, mert a Magyar Ki
 
 ## **Záró Perspektíva**
 
-1526. augusztus 29. a középkori magyar nagyhatalmi státusz végét és egy másfél évszázados, küzdelmes túlélési korszak kezdetét jelentette, amely alapjaiban rajzolta át a Kárpát-medence etnikai és politikai térképét.
+**1526. augusztus 29.** a középkori magyar nagyhatalmi státusz végét és egy másfél évszázados, küzdelmes túlélési korszak kezdetét jelentette, amely alapjaiban rajzolta át a Kárpát-medence etnikai és politikai térképét.

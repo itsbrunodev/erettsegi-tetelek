@@ -12,6 +12,7 @@ endDate:
     description: "A compiègne-i fegyverszünet aláírásával a nyugati fronton befejeződnek a harci cselekmények.",
   }
 coverImage: true
+audio: true
 ---
 
 # **Bevezetés**
@@ -46,7 +47,7 @@ Hogyan vezettek a nagyhatalmi érdekellentétek és a merev szövetségi rendsze
 - **Kulcsszereplők:**
 
   - **II. Vilmos német császár:** A német agresszív külpolitika ("Weltpolitik") képviselője, aki a német flottafejlesztéssel kihívta maga ellen Nagy-Britanniát.
-  - **I. Ferenc József:** Az Osztrák-Magyar Monarchia uralkodója, aki a trónörökös meggyilkolása után – német támogatással – hadat üzent Szerbiának.
+  - **I. Ferenc József:** Az Osztrák-Magyar Monarchia uralkodója, aki a trónörökös meggyilkolása után - német támogatással - hadat üzent Szerbiának.
   - **Gavrilo Princip:** A Fekete Kéz terrorszervezethez köthető szerb nacionalista diák, aki elkövette a szarajevói merényletet.
 
 - **Meghatározó Dátumok:**
@@ -74,7 +75,7 @@ Hogyan vezettek a nagyhatalmi érdekellentétek és a merev szövetségi rendsze
 
 - **A háború közvetlen ürügye (Casus Belli):**
   - **1914. június 28-án** Szarajevóban **Gavrilo Princip** meggyilkolta **Ferenc Ferdinánd** trónörököst.
-  - A Monarchia – német biztatásra – egy teljesíthetetlen **ultimátumot** küldött Szerbiának.
+  - A Monarchia - német biztatásra - egy teljesíthetetlen **ultimátumot** küldött Szerbiának.
   - Az elutasítást követően, **1914. július 28-án** a Monarchia hadat üzent. Ezt követte az orosz mozgósítás, majd a szövetségi szerződések láncreakciója révén napokon belül hadba léptek a nagyhatalmak.
 
 ### **Az Eseménysor Folyamata: A háború katonai jellemzői**

@@ -72,7 +72,7 @@ Károly Róbert, miután **1321**-re (Csák Máté halála) az ország nagy rés
 
 3.  **Kereskedelmi reform (a bevételek növelése):**
     - **Harmincadvám:** Egységes határvámot vezetett be, amelyet nemcsak a pénzben, hanem áruban is be lehetett szedni.
-    - **Visegrádi királytalálkozó (1335):** A cseh (Luxemburgi János) és lengyel (III. Kázmér) királlyal megállapodott egy **Bécset elkerülő kereskedelmi útvonal** (Buda–Esztergom–Brünn–Prága) létrehozásáról. Bécs árumegállító joga addig súlyos károkat okozott a magyar kereskedőknek.
+    - **Visegrádi királytalálkozó (1335):** A cseh (Luxemburgi János) és lengyel (III. Kázmér) királlyal megállapodott egy **Bécset elkerülő kereskedelmi útvonal** (Buda-Esztergom-Brünn-Prága) létrehozásáról. Bécs árumegállító joga addig súlyos károkat okozott a magyar kereskedőknek.
 
 ### **Eredmények és Közvetlen Következmények**
 

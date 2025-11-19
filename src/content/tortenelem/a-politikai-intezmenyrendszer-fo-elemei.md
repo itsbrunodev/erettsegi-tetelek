@@ -36,7 +36,7 @@ Hogyan valósul meg a hatalommegosztás és a népszuverenitás elve a mai magya
 
 - **Politikai rendszer:** Azoknak a struktúráknak és szabályoknak az összessége, amelyeken belül a hatalmi cselekvés zajlik. Részei a jogrendszer, a gazdasági rendszer és a politikai kultúra.
 - **Jogállam:** Olyan állam, ahol a közhatalmat a jogszabályok és a nyilvánosság által ellenőrizhető módon gyakorolják. Alapelve az emberi jogok védelme és a törvény előtti egyenlőség.
-- **Hatalommegosztás elve:** A demokratikus államokban a hatalmi ágak – **törvényhozás, végrehajtás, bíráskodás** – szétválasztása és kölcsönös ellenőrzése a hatalommal való visszaélés megakadályozása érdekében.
+- **Hatalommegosztás elve:** A demokratikus államokban a hatalmi ágak - **törvényhozás, végrehajtás, bíráskodás** - szétválasztása és kölcsönös ellenőrzése a hatalommal való visszaélés megakadályozása érdekében.
 - **Alaptörvény:** Magyarország legmagasabb szintű jogszabálya, amely 2012. január 1-jén lépett hatályba. Meghatározza az államszervezet felépítését és működését, valamint az állampolgárok alapvető jogait és kötelességeit.
 
 ## **A Téma Részletes Elemzése**

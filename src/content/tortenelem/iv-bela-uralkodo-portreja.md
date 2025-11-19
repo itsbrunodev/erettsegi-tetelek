@@ -64,7 +64,7 @@ A tétel központi kérdése: hogyan alakította át a tatárjárás kataklizmá
 - **Külső fenyegetés:**
   - A **Dzsingisz kán** utódai által vezetett mongol törzsek nyugati irányú hódításba kezdtek.
   - **Batu kán** seregei **1240 decemberében** elfoglalták Kijevet, ezzel közvetlenül fenyegetve Magyarországot.
-  - Béla befogadta a mongolok elől menekülő **kunokat**, remélve, hogy könnyűlovas erejüket felhasználhatja. Ez azonban belső konfliktusokhoz vezetett a magyar lakosság és a nomád kunok között. A kun vezér, **Kötöny** meggyilkolása után a kunok – pusztítva és fosztogatva – kivonultak az országból, éppen a mongol betörés kritikus időszakában.
+  - Béla befogadta a mongolok elől menekülő **kunokat**, remélve, hogy könnyűlovas erejüket felhasználhatja. Ez azonban belső konfliktusokhoz vezetett a magyar lakosság és a nomád kunok között. A kun vezér, **Kötöny** meggyilkolása után a kunok - pusztítva és fosztogatva - kivonultak az országból, éppen a mongol betörés kritikus időszakában.
 
 ### **Az Eseménysor Folyamata**
 
@@ -114,7 +114,7 @@ A tétel központi kérdése: hogyan alakította át a tatárjárás kataklizmá
 
 ## **A Fő Érvek Összegzése**
 
-IV. Béla uralkodását a tatárjárás tragédiája alapvetően két részre osztotta. A kezdeti, a királyi hatalom visszamenőleges megerősítését célzó, merev politika a mongol invázióval és a társadalmi elszigetelődése miatt kudarcot vallott. A katasztrófa utáni újjáépítés során Béla – felismerve a realitásokat – a bárókra és a városokra támaszkodva, a kővárak és a korszerű hadsereg építését ösztönözve teremtett új államot.
+IV. Béla uralkodását a tatárjárás tragédiája alapvetően két részre osztotta. A kezdeti, a királyi hatalom visszamenőleges megerősítését célzó, merev politika a mongol invázióval és a társadalmi elszigetelődése miatt kudarcot vallott. A katasztrófa utáni újjáépítés során Béla - felismerve a realitásokat - a bárókra és a városokra támaszkodva, a kővárak és a korszerű hadsereg építését ösztönözve teremtett új államot.
 
 ## **Válasz a Központi Kérdésre**
 
