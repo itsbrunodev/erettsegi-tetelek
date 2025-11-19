@@ -17,6 +17,7 @@ function schema() {
     startDate: dateSchema,
     endDate: dateSchema,
     coverImage: z.boolean().optional(),
+    audio: z.boolean().optional(),
   });
 }
 

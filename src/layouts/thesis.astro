@@ -9,6 +9,7 @@ import type { MarkdownHeading } from "astro";
 import ThesisDate from "@/components/thesis/date.astro";
 import ReadingTime from "@/components/thesis/reading-time.astro";
 import { ThesisTabs } from "@/components/thesis/tabs";
+import { TextToSpeech } from "@/components/thesis/tts";
 import TableOfContents from "@/components/toc/index.astro";
 import { BackButton } from "@/components/ui/back-button";
 
@@ -26,7 +27,7 @@ type Props = {
 const {
   thesis: {
     body = "",
-    data: { title, description, startDate, endDate, coverImage },
+    data: { title, description, startDate, endDate, coverImage, audio },
     id,
   },
   type,
@@ -117,9 +118,17 @@ try {
               <ReadingTime class="text-sm" content={body} />
             </div>
           </div>
-          <div class="typography mt-4">
+          <div class="mt-4">
             <TableOfContents headings={headings} />
-            <slot />
+            <TextToSpeech
+              type={type}
+              id={id}
+              audioAvailable={audio || false}
+              client:load
+            />
+            <div class="typography" id="thesis">
+              <slot />
+            </div>
           </div>
         </div>
       </ThesisTabs>
