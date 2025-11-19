@@ -1,6 +1,6 @@
 import {
   GaugeIcon,
-  MicIcon,
+  AudioLinesIcon,
   PauseIcon,
   PlayIcon,
   SquareIcon,
@@ -392,7 +392,7 @@ export function TextToSpeech({
             {audioAvailable && (
               <Select value={mode} onValueChange={handleModeChange}>
                 <SelectTrigger className="h-9">
-                  <MicIcon />
+                  <AudioLinesIcon />
                   <SelectValue />
                 </SelectTrigger>
                 <SelectContent>
