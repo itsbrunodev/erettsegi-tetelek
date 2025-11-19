@@ -36,17 +36,14 @@ interface TextToSpeechProps {
   contentSelector?: string;
   type: string;
   id: string;
-  audioAvailable: boolean;
 }
 
 type SourceMode = "tts" | "audio";
 
 function formatTime(seconds: number) {
   if (!seconds || Number.isNaN(seconds)) return "00:00";
-
   const m = Math.floor(seconds / 60);
   const s = Math.floor(seconds % 60);
-
   return `${m.toString().padStart(2, "0")}:${s.toString().padStart(2, "0")}`;
 }
 
@@ -54,13 +51,15 @@ export function TextToSpeech({
   contentSelector = "#thesis",
   type,
   id,
-  audioAvailable,
 }: TextToSpeechProps) {
+  const assetPath = `/src/assets/${type}/${id}/audio.mp3`;
+  const resolvedAudioSrc = audioFiles[assetPath] as string | undefined;
+  const hasAudioFile = !!resolvedAudioSrc;
+
   const [isTtsSupported, setIsTtsSupported] = useState(false);
-  const [mode, setMode] = useState<SourceMode>(
-    audioAvailable ? "audio" : "tts",
-  );
   const [ttsVoice, setTtsVoice] = useState<SpeechSynthesisVoice | null>(null);
+
+  const [mode, setMode] = useState<SourceMode>(hasAudioFile ? "audio" : "tts");
 
   const [isPlaying, setIsPlaying] = useState(false);
   const [isPaused, setIsPaused] = useState(false);
@@ -74,110 +73,105 @@ export function TextToSpeech({
   const cursorPositionRef = useRef<number>(0);
   const audioRef = useRef<HTMLAudioElement | null>(null);
 
-  useEffect(
-    function mount() {
-      if (typeof window !== "undefined" && window.speechSynthesis) {
-        const loadVoices = () => {
-          const voices = window.speechSynthesis.getVoices();
-          const selected =
-            voices.find(
-              (v) => v.lang === "hu-HU" && v.name.includes("Google"),
-            ) ||
-            voices.find(
-              (v) => v.lang === "hu-HU" && v.name.includes("Microsoft"),
-            ) ||
-            voices.find((v) => v.lang === "hu-HU") ||
-            voices.find((v) => v.lang.startsWith("hu"));
+  useEffect(() => {
+    if (typeof window === "undefined" || !window.speechSynthesis) {
+      setIsTtsSupported(false);
+      return;
+    }
 
-          if (selected) {
-            setTtsVoice(selected);
-            setIsTtsSupported(true);
-            if (!audioAvailable) setMode("tts");
-          }
-        };
-        loadVoices();
-        window.speechSynthesis.onvoiceschanged = loadVoices;
+    const loadVoices = () => {
+      const voices = window.speechSynthesis.getVoices();
+
+      const selected =
+        voices.find((v) => v.lang === "hu-HU" && v.name.includes("Google")) ||
+        voices.find(
+          (v) => v.lang === "hu-HU" && v.name.includes("Microsoft"),
+        ) ||
+        voices.find((v) => v.lang === "hu-HU") ||
+        voices.find((v) => v.lang.startsWith("hu"));
+
+      if (selected || voices.length > 0) {
+        if (selected) setTtsVoice(selected);
+        setIsTtsSupported(true);
+
+        if (!hasAudioFile) setMode("tts");
       }
+    };
 
-      const audio = new Audio();
-      const assetPath = `/src/assets/${type}/${id}/audio.mp3`;
-      const resolvedSrc = audioFiles[assetPath] as string;
+    loadVoices();
+    window.speechSynthesis.onvoiceschanged = loadVoices;
 
-      if (resolvedSrc && audioAvailable) {
-        audio.src = resolvedSrc;
-      } else if (audioAvailable) {
-        console.warn(`TTS Component: Audio file not found at: ${assetPath}`);
-      }
+    return () => {
+      window.speechSynthesis.onvoiceschanged = null;
+      window.speechSynthesis.cancel();
+    };
+  }, [hasAudioFile]);
 
-      audioRef.current = audio;
+  useEffect(() => {
+    const audio = new Audio();
+
+    if (hasAudioFile && resolvedAudioSrc) {
+      audio.src = resolvedAudioSrc;
       audio.volume = volume;
+    }
 
-      const onLoadedMetadata = () => {
-        setDuration(audio.duration);
-      };
+    audioRef.current = audio;
 
-      const onTimeUpdate = () => {
-        if (audio.duration) {
-          setProgress((audio.currentTime / audio.duration) * 100);
-        }
-      };
+    const onLoadedMetadata = () => setDuration(audio.duration);
 
-      const onEnded = () => {
-        setIsPlaying(false);
-        setIsPaused(false);
-        setProgress(100);
-      };
+    const onTimeUpdate = () => {
+      if (audio.duration) {
+        setProgress((audio.currentTime / audio.duration) * 100);
+      }
+    };
 
-      const onPlay = () => {
-        setIsPlaying(true);
-        setIsPaused(false);
-      };
+    const onEnded = () => {
+      setIsPlaying(false);
+      setIsPaused(false);
+      setProgress(100);
+    };
 
-      const onPause = () => {
-        setIsPaused(true);
-        setIsPlaying(false);
-      };
+    const onPlay = () => {
+      setIsPlaying(true);
+      setIsPaused(false);
+    };
 
-      audio.addEventListener("loadedmetadata", onLoadedMetadata);
-      audio.addEventListener("timeupdate", onTimeUpdate);
-      audio.addEventListener("ended", onEnded);
-      audio.addEventListener("play", onPlay);
-      audio.addEventListener("pause", onPause);
+    const onPause = () => {
+      setIsPaused(true);
+      setIsPlaying(false);
+    };
 
-      return function unmount() {
-        if (window.speechSynthesis) {
-          window.speechSynthesis.cancel();
-          window.speechSynthesis.onvoiceschanged = null;
-        }
+    audio.addEventListener("loadedmetadata", onLoadedMetadata);
+    audio.addEventListener("timeupdate", onTimeUpdate);
+    audio.addEventListener("ended", onEnded);
+    audio.addEventListener("play", onPlay);
+    audio.addEventListener("pause", onPause);
 
-        audio.pause();
+    return () => {
+      audio.pause();
 
-        audio.src = "";
+      audio.src = "";
 
-        audio.removeEventListener("loadedmetadata", onLoadedMetadata);
-        audio.removeEventListener("timeupdate", onTimeUpdate);
-        audio.removeEventListener("ended", onEnded);
-        audio.removeEventListener("play", onPlay);
-        audio.removeEventListener("pause", onPause);
-      };
-    },
-    [type, id, audioAvailable],
-  );
+      audio.removeEventListener("loadedmetadata", onLoadedMetadata);
+      audio.removeEventListener("timeupdate", onTimeUpdate);
+      audio.removeEventListener("ended", onEnded);
+      audio.removeEventListener("play", onPlay);
+      audio.removeEventListener("pause", onPause);
+    };
+  }, [hasAudioFile, resolvedAudioSrc]);
 
   function handleModeChange(value: string) {
     handleStop();
-
     setMode(value as SourceMode);
-
-    if (value === "tts") setDuration(0);
-
-    if (value === "audio" && audioRef.current) {
+    if (value === "tts") {
+      setDuration(0);
+    } else if (value === "audio" && audioRef.current) {
       setDuration(audioRef.current.duration || 0);
     }
   }
 
   const speakTts = useCallback(
-    function speak(startOffset = 0, rate = 1.0, vol = 1.0) {
+    (startOffset = 0, rate = 1.0, vol = 1.0) => {
       if (!ttsVoice || !textRef.current) return;
 
       window.speechSynthesis.cancel();
@@ -231,7 +225,7 @@ export function TextToSpeech({
 
   function handlePlay() {
     if (mode === "audio") {
-      if (audioRef.current?.src) {
+      if (audioRef.current?.src && hasAudioFile) {
         audioRef.current.playbackRate = playbackRate;
         audioRef.current.volume = volume;
         audioRef.current
@@ -240,7 +234,6 @@ export function TextToSpeech({
       }
     } else {
       const element = document.querySelector(contentSelector) as HTMLElement;
-
       if (!element) return;
 
       if (isPaused && !audioRef.current?.paused) {
@@ -275,38 +268,36 @@ export function TextToSpeech({
       if (audioRef.current) {
         audioRef.current.pause();
         audioRef.current.currentTime = 0;
-        setProgress(0);
-        setIsPlaying(false);
-        setIsPaused(false);
       }
     } else {
       window.speechSynthesis.cancel();
-      setIsPlaying(false);
-      setIsPaused(false);
-      setProgress(0);
       cursorPositionRef.current = 0;
     }
+    setProgress(0);
+    setIsPlaying(false);
+    setIsPaused(false);
   }
 
   function handleSeek(value: number[]) {
     const newPercent = value[0];
     setProgress(newPercent);
 
-    if (mode === "audio") {
-      if (audioRef.current?.duration) {
-        const newTime = (newPercent / 100) * audioRef.current.duration;
-        audioRef.current.currentTime = newTime;
-      }
-    } else {
+    if (mode === "audio" && audioRef.current?.duration) {
+      const newTime = (newPercent / 100) * audioRef.current.duration;
+      audioRef.current.currentTime = newTime;
+    } else if (mode === "tts") {
       if (!textRef.current) {
         const element = document.querySelector(contentSelector) as HTMLElement;
         if (element) textRef.current = element.innerText;
       }
-      const newIndex = Math.floor((newPercent / 100) * textRef.current.length);
-      cursorPositionRef.current = newIndex;
-
-      if (isPlaying || isPaused) {
-        speakTts(newIndex, playbackRate, volume);
+      if (textRef.current) {
+        const newIndex = Math.floor(
+          (newPercent / 100) * textRef.current.length,
+        );
+        cursorPositionRef.current = newIndex;
+        if (isPlaying || isPaused) {
+          speakTts(newIndex, playbackRate, volume);
+        }
       }
     }
   }
@@ -315,14 +306,10 @@ export function TextToSpeech({
     const newRate = Number.parseFloat(value);
     setPlaybackRate(newRate);
 
-    if (mode === "audio") {
-      if (audioRef.current) {
-        audioRef.current.playbackRate = newRate;
-      }
-    } else {
-      if (isPlaying) {
-        speakTts(cursorPositionRef.current, newRate, volume);
-      }
+    if (mode === "audio" && audioRef.current) {
+      audioRef.current.playbackRate = newRate;
+    } else if (mode === "tts" && isPlaying) {
+      speakTts(cursorPositionRef.current, newRate, volume);
     }
   }
 
@@ -339,20 +326,18 @@ export function TextToSpeech({
     // It will apply on the next play/seek.
   }
 
-  if (!isTtsSupported && !audioAvailable) return null;
+  if (!isTtsSupported && !hasAudioFile) return null;
 
   const getCurrentTimeLabel = () => {
     if (mode === "audio" && duration > 0) {
       return formatTime((progress / 100) * duration);
     }
-
     return progress > 0 ? `${Math.round(progress)}%` : "Start";
   };
 
   const getEndTimeLabel = () => {
-    if (mode === "audio" && duration > 0) {
-      return formatTime(duration);
-    }
+    if (mode === "audio" && duration > 0) return formatTime(duration);
+
     return "Vége";
   };
 
@@ -380,7 +365,6 @@ export function TextToSpeech({
                 <span className="sr-only">Pause</span>
               </Button>
             )}
-
             {(isPlaying || isPaused) && (
               <Button size="icon" variant="ghost" onClick={handleStop}>
                 <SquareIcon />
@@ -389,17 +373,15 @@ export function TextToSpeech({
             )}
           </div>
           <div className="flex items-center gap-3">
-            {audioAvailable && (
+            {hasAudioFile && isTtsSupported && (
               <Select value={mode} onValueChange={handleModeChange}>
-                <SelectTrigger className="h-9">
+                <SelectTrigger>
                   <AudioLinesIcon />
                   <SelectValue />
                 </SelectTrigger>
                 <SelectContent>
-                  <SelectItem value="audio">Audio</SelectItem>
-                  {isTtsSupported && (
-                    <SelectItem value="tts">Text-to-Speech</SelectItem>
-                  )}
+                  <SelectItem value="audio">Eredeti hang</SelectItem>
+                  <SelectItem value="tts">Felolvasó</SelectItem>
                 </SelectContent>
               </Select>
             )}
