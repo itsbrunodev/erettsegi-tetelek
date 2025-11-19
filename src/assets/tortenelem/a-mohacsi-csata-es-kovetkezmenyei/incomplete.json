@@ -4,7 +4,7 @@
     "missing": {
       "choices": [
         { "content": "Fekete Sereg", "correct": false },
-        { "content": "**végvárrendszer**", "correct": true },
+        { "content": "végvárrendszer", "correct": true },
         { "content": "királyi testőrség", "correct": false },
         { "content": "nemesi felkelés", "correct": false }
       ]
@@ -16,7 +16,7 @@
       "choices": [
         { "content": "Szigetvár", "correct": false },
         { "content": "Eger", "correct": false },
-        { "content": "**Nándorfehérvár (Belgrád)**", "correct": true },
+        { "content": "Nándorfehérvár (Belgrád)", "correct": true },
         { "content": "Buda", "correct": false }
       ]
     }
@@ -28,7 +28,7 @@
         { "content": "Dunába", "correct": false },
         { "content": "Tiszába", "correct": false },
         { "content": "Sajó-patakba", "correct": false },
-        { "content": "**Csele-patakba**", "correct": true }
+        { "content": "Csele-patakba", "correct": true }
       ]
     }
   },
@@ -36,7 +36,7 @@
     "content": "A király halála utáni ____ következtében az országban polgárháború tört ki Szapolyai János és Habsburg Ferdinánd között.",
     "missing": {
       "choices": [
-        { "content": "**kettős királyválasztás**", "correct": true },
+        { "content": "kettős királyválasztás", "correct": true },
         { "content": "török békediktátum", "correct": false },
         { "content": "jobbágyfelkelés", "correct": false },
         { "content": "rendi gyűlés", "correct": false }
@@ -48,7 +48,7 @@
     "missing": {
       "choices": [
         { "content": "Királyi Magyarország", "correct": false },
-        { "content": "**Erdélyi Fejedelemség**", "correct": true },
+        { "content": "Erdélyi Fejedelemség", "correct": true },
         { "content": "Török Hódoltság", "correct": false },
         { "content": "Partium", "correct": false }
       ]
@@ -60,7 +60,7 @@
       "choices": [
         { "content": "dicsőséges helytállás", "correct": false },
         { "content": "vallási egység", "correct": false },
-        { "content": "**széthúzás**", "correct": true },
+        { "content": "széthúzás", "correct": true },
         { "content": "gazdasági fellendülés", "correct": false }
       ]
     }
