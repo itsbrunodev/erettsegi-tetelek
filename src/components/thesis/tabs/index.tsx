@@ -2,11 +2,13 @@ import { useEffect, useMemo, useState } from "react";
 
 import { Tabs, TabsContent, TabsList, TabsTrigger } from "@/components/ui/tabs";
 
+import type { ThesisType } from "@/lib/types";
 import { shuffleArray } from "@/lib/utils";
 
+import { ThesisNarration } from "./narration";
 import { ThesisQuiz } from "./quiz";
 
-type TabValue = "tetel" | "kviz";
+type TabValue = "tetel" | "narracio" | "kviz";
 
 export interface QuestionType {
   question: string;
@@ -15,13 +17,11 @@ export interface QuestionType {
 }
 
 export interface IncompleteType {
-  content: string;
-  missing: {
-    choices: {
-      content: string;
-      correct: boolean;
-    }[];
-  };
+  sentence: string;
+  choices: {
+    content: string;
+    correct: boolean;
+  }[];
 }
 
 interface QuizDataType {
@@ -31,6 +31,8 @@ interface QuizDataType {
 
 type ThesisTabsProps = {
   children: React.ReactNode;
+  id: string;
+  type: ThesisType;
   hasQuestions: boolean;
   questionsData: QuestionType[] | null;
   incompleteData: IncompleteType[] | null;
@@ -38,6 +40,8 @@ type ThesisTabsProps = {
 
 export function ThesisTabs({
   children,
+  id,
+  type,
   hasQuestions,
   questionsData,
   incompleteData,
@@ -47,7 +51,10 @@ export function ThesisTabs({
   useEffect(() => {
     const handleLocationChange = () => {
       const params = new URLSearchParams(window.location.search);
-      const currentTab = params.get("oldal") === "kviz" ? "kviz" : "tetel";
+      const oldal = params.get("oldal");
+      const currentTab =
+        oldal === "kviz" ? "kviz" : oldal === "narracio" ? "narracio" : "tetel";
+
       setActiveTab(currentTab);
     };
 
@@ -68,6 +75,8 @@ export function ThesisTabs({
 
     if (newTab === "kviz") {
       params.set("oldal", "kviz");
+    } else if (newTab === "narracio") {
+      params.set("oldal", "narracio");
     } else {
       params.delete("oldal");
     }
@@ -92,7 +101,7 @@ export function ThesisTabs({
     const processedIncomplete = quizData.incomplete.map((inc) => ({
       ...inc,
       missing: {
-        choices: shuffleArray(inc.missing.choices),
+        choices: shuffleArray(inc.choices),
       },
     }));
 
@@ -110,20 +119,33 @@ export function ThesisTabs({
       <div className="mb-4">
         <TabsList>
           <TabsTrigger value="tetel">Tétel</TabsTrigger>
+          <TabsTrigger value="narracio">Narráció</TabsTrigger>
           <TabsTrigger value="kviz">Kvíz</TabsTrigger>
         </TabsList>
       </div>
       <TabsContent value="tetel">{children}</TabsContent>
-      <TabsContent value="kviz">
-        <div>
-          <div className="mb-6 border-b pb-4">
-            <h1 className="font-bold text-2xl">Kvíz</h1>
-            <p className="text-muted-foreground text-sm tabular-nums">
-              {shuffledQuizData.length} darab feladat
-            </p>
-          </div>
-          <ThesisQuiz data={shuffledQuizData} />
+      <TabsContent value="narracio">
+        <div className="mb-6 border-b pb-4">
+          <h1 className="font-bold text-2xl">Narráció</h1>
+          <p className="text-muted-foreground text-sm tabular-nums">
+            A tétel tömörebb változata
+          </p>
         </div>
+        <ThesisNarration
+          data={{
+            id,
+            type,
+          }}
+        />
+      </TabsContent>
+      <TabsContent value="kviz">
+        <div className="mb-6 border-b pb-4">
+          <h1 className="font-bold text-2xl">Kvíz</h1>
+          <p className="text-muted-foreground text-sm tabular-nums">
+            {shuffledQuizData.length} darab feladat
+          </p>
+        </div>
+        <ThesisQuiz data={shuffledQuizData} />
       </TabsContent>
     </Tabs>
   );

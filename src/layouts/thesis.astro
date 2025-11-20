@@ -9,7 +9,6 @@ import type { MarkdownHeading } from "astro";
 import ThesisDate from "@/components/thesis/date.astro";
 import ReadingTime from "@/components/thesis/reading-time.astro";
 import { ThesisTabs } from "@/components/thesis/tabs";
-import { TextToSpeech } from "@/components/thesis/tts";
 import TableOfContents from "@/components/toc/index.astro";
 import { BackButton } from "@/components/ui/back-button";
 
@@ -27,14 +26,13 @@ type Props = {
 const {
   thesis: {
     body = "",
-    data: { title, description, startDate, endDate, coverImage, audio },
+    data: { title, description, startDate, endDate, coverImage },
     id,
   },
   type,
   headings,
 } = Astro.props;
 
-// Load quiz data
 let questionsData = null;
 let incompleteData = null;
 let hasQuestions = false;
@@ -80,10 +78,12 @@ try {
     }
     <div class="mt-4">
       <ThesisTabs
-        client:load
         hasQuestions={hasQuestions}
+        id={id}
+        type={type}
         questionsData={questionsData}
         incompleteData={incompleteData}
+        client:load
       >
         <div>
           <div class="pb-4 border-b">
@@ -120,12 +120,6 @@ try {
           </div>
           <div class="mt-4">
             <TableOfContents headings={headings} />
-            <TextToSpeech
-              type={type}
-              id={id}
-              audioAvailable={audio || false}
-              client:load
-            />
             <div class="typography" id="thesis">
               <slot />
             </div>

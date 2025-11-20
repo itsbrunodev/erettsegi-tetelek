@@ -2,17 +2,17 @@ import React, { useMemo, useState } from "react";
 
 import { cn } from "@/lib/utils";
 
-import { Alert, AlertDescription, AlertTitle } from "../ui/alert";
-import { Button } from "../ui/button";
-import { ButtonGroup } from "../ui/button-group";
+import { Alert, AlertDescription, AlertTitle } from "../../ui/alert";
+import { Button } from "../../ui/button";
+import { ButtonGroup } from "../../ui/button-group";
 import {
   Select,
   SelectContent,
   SelectItem,
   SelectTrigger,
   SelectValue,
-} from "../ui/select";
-import type { IncompleteType, QuestionType } from "./tabs";
+} from "../../ui/select";
+import type { IncompleteType, QuestionType } from ".";
 
 export function ThesisQuiz({
   data,
@@ -74,17 +74,17 @@ export function ThesisQuiz({
       let isCorrect = false;
 
       // incomplete
-      if ("content" in element) {
+      if ("sentence" in element) {
         const userAnswer = selectedAnswers
-          .get(element.content)
+          .get(element.sentence)
           ?.values()
           .next().value;
 
-        const correctChoice = element.missing.choices.find((c) => c.correct);
+        const correctChoice = element.choices.find((c) => c.correct);
 
         isCorrect = userAnswer === correctChoice?.content;
 
-        newResults.set(element.content, isCorrect);
+        newResults.set(element.sentence, isCorrect);
 
         // question
       } else {
@@ -156,6 +156,8 @@ export function ThesisQuiz({
     return "secondary";
   };
 
+  console.log("ASSAD");
+
   const isCheckButtonDisabled =
     totalQuestions !== selectedAnswers.size || isSubmitted;
 
@@ -163,39 +165,39 @@ export function ThesisQuiz({
     <div className="flex flex-col gap-8">
       {data.map((element, index) => {
         // incomplete
-        if ("content" in element) {
+        if ("sentence" in element) {
           const isIncorrect =
-            isSubmitted && results.get(element.content) === false;
+            isSubmitted && results.get(element.sentence) === false;
           const correctAnswer = isIncorrect
-            ? element.missing.choices.find((c) => c.correct)?.content
+            ? element.choices.find((c) => c.correct)?.content
             : null;
 
           return (
-            <div key={element.content}>
+            <div key={element.sentence}>
               <p className="font-medium">
                 <span className="mr-2">{index + 1}.</span>
-                {element.content.split("____").map((content, idx, arr) => (
-                  <React.Fragment key={`${element.content}-${idx}`}>
+                {element.sentence.split("____").map((content, idx, arr) => (
+                  <React.Fragment key={`${element.sentence}-${idx}`}>
                     <span>{content}</span>
                     {idx < arr.length - 1 && (
                       <span className="inline-flex items-center">
                         <Select
                           onValueChange={(value) =>
-                            handleSelectChange(element.content, value)
+                            handleSelectChange(element.sentence, value)
                           }
                           disabled={isSubmitted}
                         >
                           <SelectTrigger
                             className={cn(
                               "mx-1 inline-flex h-7 w-auto min-w-24 shrink-0 align-middle transition-colors",
-                              getSelectClasses(element.content),
+                              getSelectClasses(element.sentence),
                             )}
                             size="sm"
                           >
                             <SelectValue placeholder="..." />
                           </SelectTrigger>
                           <SelectContent>
-                            {element.missing.choices.map(
+                            {element.choices.map(
                               ({ content: choiceContent }) => (
                                 <SelectItem
                                   value={choiceContent}
