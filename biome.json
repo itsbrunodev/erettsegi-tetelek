@@ -75,6 +75,10 @@
         "useUniqueElementIds": "info",
         "noEmptyPattern": "off"
       },
+      "a11y": {
+        "noStaticElementInteractions": "off",
+        "useKeyWithClickEvents": "off"
+      },
       "nursery": {
         "useSortedClasses": {
           "level": "warn",
