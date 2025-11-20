@@ -218,6 +218,58 @@ export function TextToSpeech({ type, id }: AudioPlayerProps) {
   }, [resolvedNarration, resolvedSrt]);
 
   useEffect(() => {
+    const handleKeyDown = (event: KeyboardEvent) => {
+      if (event.ctrlKey || event.metaKey || event.altKey) return;
+
+      const audio = audioRef.current;
+
+      if (!audio) return;
+
+      switch (event.code) {
+        case "Space": {
+          event.preventDefault();
+
+          if (audio.paused) {
+            audio.play().catch(console.error);
+          } else {
+            audio.pause();
+          }
+
+          break;
+        }
+        case "ArrowLeft": {
+          event.preventDefault();
+
+          const prevTime = Math.max(0, audio.currentTime - 5);
+          audio.currentTime = prevTime;
+
+          setCurrentTime(prevTime);
+
+          if (audio.duration) setProgress((prevTime / audio.duration) * 100);
+
+          break;
+        }
+        case "ArrowRight": {
+          event.preventDefault();
+          const nextTime = Math.min(audio.duration, audio.currentTime + 5);
+          audio.currentTime = nextTime;
+
+          setCurrentTime(nextTime);
+
+          if (audio.duration) setProgress((nextTime / audio.duration) * 100);
+
+          break;
+        }
+      }
+    };
+
+    window.addEventListener("keydown", handleKeyDown);
+    return () => {
+      window.removeEventListener("keydown", handleKeyDown);
+    };
+  }, []);
+
+  useEffect(() => {
     if (!resolvedAudioSrc) return;
 
     const audio = new Audio(resolvedAudioSrc);
