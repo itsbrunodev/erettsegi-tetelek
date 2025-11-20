@@ -1,5 +1,6 @@
 ---
 import ThesisList from "@/components/thesis/list.astro";
+import { Alert, AlertDescription, AlertTitle } from "@/components/ui/alert";
 
 import { CONFIG } from "@/lib/constants";
 
@@ -7,5 +8,12 @@ import MainLayout from "@/layouts/main.astro";
 ---
 
 <MainLayout title={`Történelem - ${CONFIG.site.title}`}>
+  <Alert className="mb-6">
+    <AlertTitle>Figyelem</AlertTitle>
+    <AlertDescription>
+      A tételeket éppen átdolgozom a könnyebb megértés és a gyorsabb
+      feldolgozhatóság érdekében, a tartalmuk hamarosan változni fog.
+    </AlertDescription>
+  </Alert>
   <ThesisList type="tortenelem" />
 </MainLayout>
