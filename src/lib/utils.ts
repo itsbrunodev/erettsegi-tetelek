@@ -98,6 +98,9 @@ export function sortChronologically(theses: Thesis[]): Thesis[] {
 }
 
 export function shuffleArray<T>(array: T[]): T[] {
+  if (!Array.from) return array;
+  if (!Array.isArray(array)) return array;
+
   const newArray = [...array];
 
   for (let i = newArray.length - 1; i > 0; i--) {
