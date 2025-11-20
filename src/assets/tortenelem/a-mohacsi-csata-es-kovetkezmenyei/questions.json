@@ -1,130 +1,114 @@
 [
   {
-    "question": "Mely tényezők játszottak szerepet a Magyar Királyság meggyengülésében a mohácsi csata előtt?",
-    "reason": "A Jagelló-korban a központi hatalom gyenge volt, a főúri pártok folyamatosan harcoltak egymással, a végvárrendszer pedig elhanyagolt állapotba került a pénzhiány miatt, ami mind hozzájárult az ország védelmi képességének hanyatlásához.",
+    "question": "Melyik évben foglalták el a törökök Nándorfehérvárt?",
+    "reason": "Nándorfehérvár (a mai Belgrád) 1521-ben esett el, ez nyitotta meg az utat Mohács felé.",
     "choices": [
-      {
-        "content": "A központi hatalom gyengesége és a királyi jövedelmek csökkenése.",
-        "correct": true
-      },
-      {
-        "content": "A Fekete Sereg folyamatosan vívott, sikeres háborúi.",
-        "correct": false
-      },
-      {
-        "content": "A főúri pártok (pl. Szapolyai-párt, Habsburg-párt) közötti viszálykodás.",
-        "correct": true
-      },
-      {
-        "content": "A déli végvárrendszer elhanyagolt állapota.",
-        "correct": true
-      }
+      { "content": "1514", "correct": false },
+      { "content": "1521", "correct": true },
+      { "content": "1526", "correct": false },
+      { "content": "1541", "correct": false }
     ]
   },
   {
-    "question": "Ki volt a magyar sereg fővezére a mohácsi csatában?",
-    "reason": "Tomori Pál kalocsai érsek volt az alsó-magyarországi főkapitány és a magyar hadak fővezére, aki maga is elesett az ütközetben.",
+    "question": "Ki volt a magyar király a mohácsi csata idején?",
+    "reason": "II. Lajos volt az uralkodó, aki a csata után menekülés közben életét vesztette.",
     "choices": [
-      { "content": "II. Lajos király", "correct": false },
       { "content": "Szapolyai János", "correct": false },
+      { "content": "I. Mátyás", "correct": false },
+      { "content": "II. Lajos", "correct": true },
+      { "content": "I. Ferdinánd", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik esemény történt 1541-ben?",
+    "reason": "1541-ben foglalták el a törökök Budát csellel, ezzel három részre szakadt az ország.",
+    "choices": [
+      { "content": "A mohácsi csata", "correct": false },
+      { "content": "Buda török kézre kerülése", "correct": true },
+      { "content": "A váradi béke", "correct": false },
+      { "content": "Bécs ostroma", "correct": false }
+    ]
+  },
+  {
+    "question": "Kik voltak a kettős királyválasztás szereplői?",
+    "reason": "A mohácsi vész után Szapolyai Jánost és Habsburg Ferdinándot is királlyá koronázták.",
+    "choices": [
+      { "content": "II. Lajos és Szulejmán", "correct": false },
+      { "content": "Szapolyai János és I. Ferdinánd", "correct": true },
+      { "content": "Tomori Pál és Werbőczy István", "correct": false },
+      { "content": "Fráter György és Bocskai István", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt a neve a törökök elit gyalogos katonáinak?",
+    "reason": "A janicsárok voltak a szultán elit, zsoldos gyalogsága.",
+    "choices": [
+      { "content": "Szpáhi", "correct": false },
+      { "content": "Hajdú", "correct": false },
+      { "content": "Janicsár", "correct": true },
+      { "content": "Vitéz", "correct": false }
+    ]
+  },
+  {
+    "question": "Ki volt a magyar sereg egyik fővezére Mohácsnál?",
+    "reason": "Tomori Pál kalocsai érsek volt az egyik kinevezett fővezér.",
+    "choices": [
+      { "content": "Zrínyi Miklós", "correct": false },
+      { "content": "Dobó István", "correct": false },
       { "content": "Tomori Pál", "correct": true },
-      { "content": "Habsburg Ferdinánd", "correct": false }
+      { "content": "Hunyadi János", "correct": false }
     ]
   },
   {
-    "question": "Mi volt a csata katonai fordulópontja, ami a magyar roham összeomlásához vezetett?",
-    "reason": "A magyar nehézlovasság kezdeti sikerei után a janicsárok pusztító sortüze és a török tüzérség bevetése állította meg a támadást, ami után a számbeli fölényben lévő oszmán sereg bekeríthette a magyarokat.",
+    "question": "Milyen következménnyel járt a váradi béke (1538)?",
+    "reason": "A felek megegyeztek, hogy Szapolyai halála után az egész ország Ferdinándra száll, de ezt nem tartották be.",
     "choices": [
-      { "content": "Szapolyai János seregének megérkezése.", "correct": false },
+      { "content": "A törökök kivonultak az országból", "correct": false },
       {
-        "content": "A janicsárok sortüze és a török tüzérség bevetése.",
+        "content": "Szapolyai halála után Ferdinándé lesz a trón",
         "correct": true
       },
       {
-        "content": "A magyar sereg rendezett visszavonulása.",
-        "correct": false
-      },
-      { "content": "II. Lajos király halála a csata közben.", "correct": false }
-    ]
-  },
-  {
-    "question": "Mi volt a csata legfontosabb, az ország sorsát azonnal befolyásoló politikai következménye?",
-    "reason": "II. Lajos király halála utódlási válságot és hatalmi vákuumot teremtett, ami közvetlenül a kettős királyválasztáshoz és az azt követő polgárháborúhoz vezetett.",
-    "choices": [
-      {
-        "content": "Az ország azonnali három részre szakadása.",
+        "content": "Magyarország belépett a Német-római Birodalomba",
         "correct": false
       },
       {
-        "content": "Buda azonnali és tartós török megszállása.",
-        "correct": false
-      },
-      {
-        "content": "Az uralkodó halála és az ebből fakadó utódlási válság.",
-        "correct": true
-      },
-      { "content": "A reformáció azonnali betiltása.", "correct": false }
-    ]
-  },
-  {
-    "question": "Melyik eseményt tekintjük az ország tényleges három részre szakadása kezdetének?",
-    "reason": "Bár a folyamat korábban elkezdődött, Buda 1541-es, csellel történő elfoglalása és a Hódoltság megszervezése tette véglegessé és tartóssá az ország három részre szakadt állapotát.",
-    "choices": [
-      { "content": "A mohácsi csata (1526)", "correct": false },
-      { "content": "A kettős királyválasztás (1526)", "correct": false },
-      { "content": "Buda csellel történő elfoglalása (1541)", "correct": true },
-      { "content": "A drinápolyi béke (1568)", "correct": false }
-    ]
-  },
-  {
-    "question": "Kik voltak a kettős királyválasztás során megválasztott uralkodók?",
-    "reason": "II. Lajos halála után a köznemesi párt Szapolyai Jánost, az ország legnagyobb birtokosát, míg a Habsburg-párti bárók II. Lajos sógorát, Habsburg Ferdinándot választották királlyá.",
-    "choices": [
-      { "content": "II. Ulászló és I. Szulejmán", "correct": false },
-      { "content": "Szapolyai János és Habsburg Ferdinánd", "correct": true },
-      { "content": "Tomori Pál és Frangepán Kristóf", "correct": false },
-      { "content": "V. Károly és I. Ferenc", "correct": false }
-    ]
-  },
-  {
-    "question": "Milyen külső körülmények nehezítették, hogy Magyarország érdemi segítséget kapjon a törökök ellen?",
-    "reason": "Európa vezető hatalmait, a Habsburgokat és a franciákat az itáliai háborúk kötötték le, a reformáció pedig vallásilag is megosztotta a kontinenst, így Magyarország külpolitikailag elszigetelődött.",
-    "choices": [
-      {
-        "content": "A Habsburgok és Franciaország vetélkedése (itáliai háborúk).",
-        "correct": true
-      },
-      {
-        "content": "A pápaság egyértelmű támogatása a törökök mellett.",
-        "correct": false
-      },
-      {
-        "content": "Az angol-spanyol háborúk a gyarmatokért.",
-        "correct": false
-      },
-      {
-        "content": "Az Oszmán Birodalom belső polgárháborúja.",
+        "content": "Szulejmán elismerte Magyarország függetlenségét",
         "correct": false
       }
     ]
   },
   {
-    "question": "Mi lett a sorsa Budának közvetlenül a csata után?",
-    "reason": "A győztes Szulejmán a csata után bevonult a védtelenül maradt fővárosba, amelyet kirabolt és felgyújtott, de ekkor még nem szállta meg tartósan, hanem hadaival kivonult az országból.",
+    "question": "Mit jelent a hódoltság kifejezés?",
+    "reason": "Az ország azon részét jelöli, amely közvetlen török katonai és közigazgatási uralom alá került.",
     "choices": [
-      { "content": "A magyar seregek sikeresen megvédték.", "correct": false },
+      { "content": "A királyi Magyarország területe", "correct": false },
+      { "content": "Erdély területe", "correct": false },
+      { "content": "A török által megszállt országrész", "correct": true },
+      { "content": "A végvárak vonala", "correct": false }
+    ]
+  },
+  {
+    "question": "Mekkora volt a török túlerő Mohácsnál?",
+    "reason": "A török sereg kb. 60-70 ezer fő volt, míg a magyar csak 25 ezer, tehát kb. két-háromszoros volt a túlerő.",
+    "choices": [
+      { "content": "A magyarok voltak többen", "correct": false },
+      { "content": "Kiegyenlített volt az erőviszony", "correct": false },
+      { "content": "Tízszeres túlerő", "correct": false },
+      { "content": "Többszörös (kb. 2-3x) túlerő", "correct": true }
+    ]
+  },
+  {
+    "question": "Miért nem érkezett időben segítség Mohácsra?",
+    "reason": "A nemzetközi helyzet (Habsburg-francia háború) és a belső széthúzás miatt a mozgósítás késett vagy elmaradt.",
+    "choices": [
+      { "content": "Mert a futárok eltévedtek", "correct": false },
+      { "content": "Mert mindenki Szapolyaira várt", "correct": false },
       {
-        "content": "Szulejmán azonnal a birodalom tartományi székhelyévé tette.",
-        "correct": false
-      },
-      {
-        "content": "A törökök kirabolták és felgyújtották, majd elhagyták.",
+        "content": "A belső viszályok és a nemzetközi elszigeteltség miatt",
         "correct": true
       },
-      {
-        "content": "Habsburg Ferdinánd csapatai szállták meg.",
-        "correct": false
-      }
+      { "content": "Mert a törökök lezárták az utakat", "correct": false }
     ]
   }
 ]

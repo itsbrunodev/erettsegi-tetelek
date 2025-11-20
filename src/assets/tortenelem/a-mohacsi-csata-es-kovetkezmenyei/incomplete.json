@@ -1,68 +1,92 @@
 [
   {
-    "content": "A Jagelló-korban a déli határ védelmét szolgáló ____ pénzhiány miatt súlyosan meggyengült.",
-    "missing": {
-      "choices": [
-        { "content": "Fekete Sereg", "correct": false },
-        { "content": "végvárrendszer", "correct": true },
-        { "content": "királyi testőrség", "correct": false },
-        { "content": "nemesi felkelés", "correct": false }
-      ]
-    }
+    "sentence": "A mohácsi csatában a magyar sereget ____ Lajos király vezette.",
+    "choices": [
+      { "content": "II.", "correct": true },
+      { "content": "IV.", "correct": false },
+      { "content": "I.", "correct": false },
+      { "content": "V.", "correct": false }
+    ]
   },
   {
-    "content": "1521-ben ____ eleste jelentette a déli védelem kulcsának elvesztését, ami után a török sereg előtt nyitva állt az út az ország belseje felé.",
-    "missing": {
-      "choices": [
-        { "content": "Szigetvár", "correct": false },
-        { "content": "Eger", "correct": false },
-        { "content": "Nándorfehérvár (Belgrád)", "correct": true },
-        { "content": "Buda", "correct": false }
-      ]
-    }
+    "sentence": "A csata dátuma 1526. augusztus ____.",
+    "choices": [
+      { "content": "29", "correct": true },
+      { "content": "15", "correct": false },
+      { "content": "20", "correct": false },
+      { "content": "06", "correct": false }
+    ]
   },
   {
-    "content": "II. Lajos király a csatából menekülve a ____ fulladt, ami az országot uralkodó nélkül hagyta.",
-    "missing": {
-      "choices": [
-        { "content": "Dunába", "correct": false },
-        { "content": "Tiszába", "correct": false },
-        { "content": "Sajó-patakba", "correct": false },
-        { "content": "Csele-patakba", "correct": true }
-      ]
-    }
+    "sentence": "Nándorfehérvár elvesztése ____-ben történt.",
+    "choices": [
+      { "content": "1521", "correct": true },
+      { "content": "1514", "correct": false },
+      { "content": "1526", "correct": false },
+      { "content": "1541", "correct": false }
+    ]
   },
   {
-    "content": "A király halála utáni ____ következtében az országban polgárháború tört ki Szapolyai János és Habsburg Ferdinánd között.",
-    "missing": {
-      "choices": [
-        { "content": "kettős királyválasztás", "correct": true },
-        { "content": "török békediktátum", "correct": false },
-        { "content": "jobbágyfelkelés", "correct": false },
-        { "content": "rendi gyűlés", "correct": false }
-      ]
-    }
+    "sentence": "Az ország három részre szakadása Buda ____-es/as elfoglalásával vált véglegessé.",
+    "choices": [
+      { "content": "1541", "correct": true },
+      { "content": "1538", "correct": false },
+      { "content": "1526", "correct": false },
+      { "content": "1552", "correct": false }
+    ]
   },
   {
-    "content": "Az ország három részre szakadása után a keleti országrész török hűbéresként, de viszonylagos önállósággal létezett tovább ____ néven.",
-    "missing": {
-      "choices": [
-        { "content": "Királyi Magyarország", "correct": false },
-        { "content": "Erdélyi Fejedelemség", "correct": true },
-        { "content": "Török Hódoltság", "correct": false },
-        { "content": "Partium", "correct": false }
-      ]
-    }
+    "sentence": "A kettős királyválasztás során Szapolyai Jánost és ____ választották királlyá.",
+    "choices": [
+      { "content": "I. Ferdinándot", "correct": true },
+      { "content": "Miksa császárt", "correct": false },
+      { "content": "II. Lajost", "correct": false },
+      { "content": "V. Károlyt", "correct": false }
+    ]
   },
   {
-    "content": "A 'mohácsi vész' a magyar nemzeti emlékezetben a ____ és a balsors szimbólumaként él tovább.",
-    "missing": {
-      "choices": [
-        { "content": "dicsőséges helytállás", "correct": false },
-        { "content": "vallási egység", "correct": false },
-        { "content": "széthúzás", "correct": true },
-        { "content": "gazdasági fellendülés", "correct": false }
-      ]
-    }
+    "sentence": "A törökök elit katonái, a(z) ____ döntő szerepet játszottak a mohácsi győzelemben.",
+    "choices": [
+      { "content": "janicsárok", "correct": true },
+      { "content": "huszárok", "correct": false },
+      { "content": "hajdúk", "correct": false },
+      { "content": "lovagok", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A(z) ____ országrész a Habsburgok irányítása alá került.",
+    "choices": [
+      { "content": "Királyi Magyarország", "correct": true },
+      { "content": "Hódoltság", "correct": false },
+      { "content": "Erdély", "correct": false },
+      { "content": "Délvidék", "correct": false }
+    ]
+  },
+  {
+    "sentence": "Tomori Pál, aki a sereg egyik vezére volt, egyházi rangját tekintve ____ volt.",
+    "choices": [
+      { "content": "érsek", "correct": true },
+      { "content": "pápa", "correct": false },
+      { "content": "szerzetes", "correct": false },
+      { "content": "káplán", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A(z) ____ béke 1538-ban megpróbálta rendezni a trónutódlás kérdését.",
+    "choices": [
+      { "content": "váradi", "correct": true },
+      { "content": "bécsi", "correct": false },
+      { "content": "szatmári", "correct": false },
+      { "content": "drinápolyi", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A mohácsi vész után az ország ____ királyválasztás miatt polgárháborúba süllyedt.",
+    "choices": [
+      { "content": "kettős", "correct": true },
+      { "content": "érvénytelen", "correct": false },
+      { "content": "egységes", "correct": false },
+      { "content": "elmaradt", "correct": false }
+    ]
   }
 ]

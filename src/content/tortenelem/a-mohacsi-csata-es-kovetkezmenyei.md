@@ -1,129 +1,118 @@
 ---
 title: "18. A mohácsi csata és következményei"
-description: "A középkori Magyar Királyság történetének tragikus végpontja és egy új, a török hódoltság és az ország három részre szakadásának korszakának kezdete."
+description: "A középkori Magyar Királyság bukása, a török hódoltság kezdete és az azt követő trónutódlási harcok bemutatása."
 startDate: { date: "1526-08-29", description: "A mohácsi csata napja." }
 endDate:
   {
-    date: "1568-02-17",
-    description: "A drinápolyi béke, amely tartósította az ország három részre szakadt állapotát.",
+    date: "1541-08-29",
+    description: "Buda török kézre kerülése, amivel véglegesült az ország három részre szakadása.",
   }
 coverImage: true
-audio: true
+audio: false
 ---
 
-# **Bevezetés**
+# Bevezetés
 
-## **Történelmi Elhelyezés**
+## Történelmi Háttér
 
-A mohácsi csata a **kora újkor** elején, a **Jagelló-kor** (1490-1526) végén zajlott. Ezt az időszakot Magyarországon a **központi hatalom meggyengülése**, a főúri pártok közötti viszálykodás és a déli végvárrendszer pénzhiány miatti elhanyagolása jellemezte. Európában eközben a **Habsburgok és Franciaország** vetélkedése (itáliai háborúk), valamint a **reformáció** kezdete kötötte le a nagyhatalmak figyelmét, ami Magyarország végzetes külpolitikai elszigetelődéséhez vezetett. Az **Oszmán Birodalom** I. (Nagy) Szulejmán vezetésével terjeszkedésének csúcspontján volt, és Magyarországot a Bécs és Nyugat-Európa felé vezető hadjáratok kulcsfontosságú felvonulási területének tekintette.
+A 16. század elején Magyarország egyre nehezebb helyzetbe került. Bár a reneszánsz kultúra még virágzott, a politikai életet a [rendi anarchia](## "A nemesség és a király közötti hatalmi harc miatti zűrzavar, gyenge központi hatalom") jellemezte a Jagelló-uralkodók alatt. A királyi kincstár kiürült, a nemesség pártokra szakadt, és a déli határoknál már fenyegetően állt a világpolitikai tényezővé váló Oszmán Birodalom. A társadalmi feszültségeket a Dózsa-féle parasztháború (1514) leverése utáni "vad" törvények is mélyítették, ami elidegenítette a parasztságot a honvédelemtől.
 
-## **Központi Problémafelvetés**
+## Miért fontos ez a téma?
 
-Miért vezetett egyetlen, alig néhány órás csata a középkori, egységes Magyar Királyság összeomlásához és az ország több mint 150 éves megosztottságához?
+A mohácsi csata a magyar történelem egyik legismertebb [toposza](## "Közismert kép, visszatérő motívum; itt a nemzethalál és a tragédia jelképe"), a "nemzethalál" szimbóluma. Ez az esemény zárta le a középkori, önálló és nagyhatalmi státusszal rendelkező Magyar Királyság történetét. A vereség és az azt követő trónviszály közvetlen következménye lett, hogy az ország 150 évre a Habsburgok és a Török Birodalom ütközőzónájává vált, ami hosszú távon meghatározta a Kárpát-medence etnikai és gazdasági viszonyait.
 
-## **A Kifejtés Vázlata**
+## A Kifejtés Vázlata
 
-1.  A csatához vezető belső (politikai, gazdasági) és külső (geopolitikai) okok feltárása.
-2.  A mohácsi ütközet lefolyásának, erőviszonyainak és a katonai vereség okainak elemzése.
-3.  A csata közvetlen és hosszú távú következményeinek bemutatása: a kettős királyválasztástól Buda 1541-es elfoglalásáig.
+- A katasztrófa okainak feltárása (bel- és külpolitika).
+- A csata lefolyása és a taktikai hibák.
+- A kettős királyválasztás és a polgárháború.
+- Az ország három részre szakadása (1541).
 
-# **Kifejtés**
+---
 
-## **Kulcsinformációk és Definíciók**
+# Kifejtés
 
-- **Kulcsfogalmak:**
-  - **Jagelló-kor:** A központi hatalom gyengeségének és a rendi széthúzásnak a korszaka Magyarországon (1490-1526), II. Ulászló és II. Lajos uralkodása alatt.
-  - **Végvárrendszer:** A déli határ (Duna-Száva vonal) védelmét szolgáló várak láncolata, amely a központi kincstár kiürülése miatt a 16. század elejére súlyosan meggyengült.
-  - **Török hódoltság:** Az Oszmán Birodalom által elfoglalt és közigazgatásilag betagozott (vilajetekre osztott) magyarországi terület, amely Buda 1541-es elfoglalásával jött létre ténylegesen.
-  - **Kettős királyválasztás:** II. Lajos halála után a magyar nemesség megosztottsága miatt két uralkodót választottak: a köznemesi párt Szapolyai Jánost, a főúri párt Habsburg Ferdinándot.
-- **Kulcsszereplők:**
-  - **II. Lajos:** Magyar és cseh király (1516-1526). Fiatalon került trónra, uralmát a belpolitikai káosz jellemezte. A csatából való menekülés közben a megáradt Csele-patakba fulladt.
-  - **I. (Nagy) Szulejmán:** Az Oszmán Birodalom szultánja (1520-1566). A birodalom az ő uralkodása alatt élte fénykorát; célja a Magyar Királyság megtörése, majd Bécs elfoglalása volt.
-  - **Tomori Pál:** Kalocsai érsek, alsó-magyarországi főkapitány, a magyar sereg egyik fővezére. A csata egyik legelszántabb támogatója, hősi halált halt az ütközetben.
-  - **Szapolyai János:** Erdélyi vajda, az ország legnagyobb birtokosa. Seregével (kb. 10-15 ezer fő) nem érkezett meg időben a csatamezőre, később magyar királlyá választották.
-  - **Habsburg Ferdinánd:** Osztrák főherceg, II. Lajos sógora. A Habsburg-Jagelló házassági szerződés alapján tartott igényt a trónra.
-- **Meghatározó Dátumok:**
-  - **1521:** Nándorfehérvár (Belgrád) eleste - a déli végvárrendszer kulcsának elvesztése megnyitotta az utat az ország belseje felé.
-  - **1526. augusztus 29.:** A mohácsi csata napja.
-  - **1541:** Buda török kézre kerülése (augusztus 29.), az ország három részre szakadásának tényleges kezdete.
+## Fogalomtár és Szereplők
 
-## **A Téma Részletes Elemzése**
+- **Szultán:** Az Oszmán Birodalom uralkodója, vallási és politikai vezető.
+- **Janicsár:** A török hadsereg elit gyalogsága, zsoldos katonák, akiket gyerekkorukban raboltak el (gyermekadó) és neveltek katonának.
+- **Szpáhi:** Török lovas katona, aki szolgálataiért [birtokadományt](## "Szolgálati birtok, amely nem örökíthető, így a katona folyamatosan érdekelt a hódításban") kapott.
+- **Végvári rendszer:** A déli határ mentén kiépített várvonal, amelynek feladata a török feltartóztatása volt.
+- **II. Lajos:** (1516–1526) Magyar és cseh király, fiatalon, tapasztalatlanul került a trónra, a Csele-patakba fulladt menekülés közben.
+- **I. (Nagy) Szulejmán:** (1520–1566) Török szultán, hódító, uralkodása alatt érte el a birodalom a legnagyobb kiterjedését.
+- **Tomori Pál:** Kalocsai érsek, a magyar sereg egyik fővezére Mohácsnál.
+- **Szapolyai János:** Erdélyi vajda, később magyar király (I. János), a nemzeti párt jelöltje.
+- **I. Ferdinánd:** Habsburg főherceg, később magyar király, a nyugati orientációjú nemesek jelöltje.
 
-### **Kiváltó Okok és Előzmények**
+## Okok és Előzmények
 
-- **Belső politikai okok:**
+A mohácsi tragédia nem egyetlen rossz döntés, hanem évtizedek mulasztásainak eredménye volt. A Mátyás király halála utáni időszakban a központi hatalom meggyengült, ami végzetesnek bizonyult a török veszéllyel szemben.
 
-  - **Gyenge központi hatalom:** Mátyás halála után a rendek szándékosan gyenge uralkodókat választottak. A királyi jövedelmek (regálék) mintegy 70-80%-kal csökkentek Mátyás korához képest.
-  - **Pártküzdelmek:** A Szapolyai János vezette "nemzeti" (köznemesi) párt és az udvari (Habsburg-orientált) arisztokrácia ellentéte megbénította az országgyűléseket és a honvédelmet.
-  - **Katonai hanyatlás:** A zsoldos Fekete Sereget már II. Ulászló alatt feloszlatták. Az ország védelme a nemesi felkelésre (insurrectio) és a banderiális hadseregre épült, amely lassú és korszerűtlen volt.
+### Közvetlen kiváltó ok
 
-- **Külső politikai okok:**
-  - **Oszmán expanzió:** Szulejmán trónra lépésével a török külpolitika iránya Európa lett. Céljuk a Habsburgok európai hegemóniájának megtörése volt.
-  - **Magyarország elszigetelődése:** A nyugati hatalmak (V. Károly császár és I. Ferenc francia király) háborúja miatt Magyarország segélykérései süket fülekre találtak. A pápa némi pénzbeli segélyt küldött, de ez kevés volt a felkészüléshez.
-  - **Stratégiai összeomlás:** Nándorfehérvár 1521-es elvesztése után a határok védhetetlenné váltak.
+1521-ben a törökök elfoglalták Nándorfehérvárt (Belgrád), amely az ország "kulcsa" volt. Ezzel megnyílt az út az ország belseje felé. Amikor 1526-ban Szulejmán elindította főseregét, a magyar diplomácia kudarcot vallott: a [Habsburg-Valois párharc](## "Habsburg V. Károly és I. Ferenc francia király vetélkedése Európa feletti uralomért") miatt a Nyugat nem küldött érdemi segítséget.
 
-![Európa térképe a 16. század elején, kiemelve a Magyar Királyságot, az Oszmán Birodalmat és a Habsburg területeket](../../assets/tortenelem/a-mohacsi-csata-es-kovetkezmenyei/terkep.jpg)
+### Mélyebb, hosszú távú okok
 
-### **Az Eseménysor Folyamata**
+- **Katonai gyengeség:** A "fekete sereg" feloszlott, a nemesi felkelés (insurrectio) elavult volt a modern, tűzfegyverekkel felszerelt török hadsereggel szemben.
+- **Gazdasági válság:** A királyi jövedelmek csökkentek, a kincstár nem tudta finanszírozni a végvárak karbantartását.
+- **Politikai széthúzás:** A köznemesség és a főurak ellentéte megbénította az országgyűléseket. Werbőczy István Hármaskönyve (1514) rögzítette a nemesi jogokat, de a jobbágyságot is röghöz kötötte, ami társadalmi elégedetlenséget szült.
 
-- **A hadseregek felvonulása:**
+## Kronológia
 
-  - **Oszmán sereg:** Kb. 60 ezer reguláris katona (janicsárok, szpáhik) és jelentős tüzérség, kiegészülve segédcsapatokkal. Fegyelmezett, egységes vezetés alatt állt.
-  - **Magyar sereg:** Kb. 25 ezer fő. A gyülekezés lassú volt, a vezetés megosztott (Tomori Pál és Szapolyai György). Két jelentős seregtest (Szapolyai János erdélyi hada és a horvát bán csapatai) nem érkezett meg.
+1.  **1526. április:** Szulejmán elindul Isztambulból kb. 60-70 ezer fős seregével.
+2.  **1526. nyara:** A magyar mozgósítás lassú. Szapolyai János erdélyi hadai és a horvát csapatok nem érnek oda időben.
+3.  **1526. augusztus 29.:** **A mohácsi csata**. A kb. 25 ezer fős magyar sereg Tomori Pál vezetésével vállalja az ütközetet. A magyar lovasság rohama összeomlik a török ágyúk és janicsárok tüzében.
+4.  **A király halála:** II. Lajos menekülés közben a megáradt Csele-patakba fullad.
+5.  **1526. ősz:** A törökök bevonulnak Budára, kifosztják, majd kivonulnak az országból (még nem szállják meg tartósan).
+6.  **1526. november-december:** **Kettős királyválasztás**. Székesfehérváron Szapolyai Jánost, Pozsonyban Habsburg Ferdinándot koronázzák királlyá.
+7.  **1529:** Szulejmán Bécs ellen vonul (sikertelen ostrom), de visszafelé elfoglalja Budát és átadja vazallusának, Szapolyainak.
+8.  **1538:** **Váradi béke**. A két király titkos egyezsége: elismerik egymás területeit, és Szapolyai halála után az egész ország Ferdinándra száll.
+9.  **1541. augusztus 29.:** Szapolyai halála után hívei nem tartják be az egyezséget. Szulejmán "csellel" elfoglalja Budát. **Az ország három részre szakad.**
 
-- **A csata lefolyása (1526. augusztus 29.):**
-  - **Magyar haditerv:** Mivel a törökök túlerőben voltak, Tomori egy mindent eldöntő, gyors nehézlovas rohammal akarta áttörni az ellenség centrumát, mielőtt azok teljesen hadrendbe állnak.
-  - **A küzdelem:** A magyar jobbszárny és a centrum kezdetben sikeresen visszaszorította a ruméliai hadtestet.
-  - **A fordulat:** Amikor a magyar lovasság elérte a török centrumot, a janicsárok pusztító sortüze és az összeláncolt ágyúk tüze megállította, majd felőrölte a rohamot. A szárnyakon a törökök bekerítették a magyarokat.
-  - **Összeomlás:** A csata érdemi része alig másfél-két óra alatt lezajlott. A rendezetlen menekülés során a mocsaras területen rengetegen lelték halálukat.
+## Elemzés
 
-### **Eredmények és Közvetlen Következmények**
+### Politika és Hatalomgyakorlás
 
-- **Tragikus veszteségek:** A magyar sereg közel fele, kb. 14-15 ezer fő elesett. Odaveszett a politikai és egyházi elit jelentős része (2 érsek, 5 püspök, számos főúr), ami az államvezetés megbénulását okozta.
-- **A király halála:** II. Lajos menekülés közben a Csele-patakba fulladt (a nehéz páncélzata miatt). Halála azonnali trónutódlási válságot okozott.
-- **Buda kifosztása:** Szulejmán szeptemberben bevonult Budára, a várost kirabolta és felgyújtotta, de ekkor még nem hagyott helyőrséget, hanem októberben kivonult az országból.
+A mohácsi vész utáni időszakot a **kettős hatalom** jellemezte. Az ország jogilag nem szűnt meg, de a gyakorlatban két királya volt, akik folyamatos polgárháborút vívtak egymással. Szapolyai a törökökre (mint hűbérúrra), Ferdinánd a bátyjára, V. Károly császárra támaszkodott. Ez a helyzet a [diplomáciai lavírozás](## "Ügyeskedő politizálás két nagyhatalom között az egyensúly fenntartására") kényszerét szülte meg, ami később az Erdélyi Fejedelemség politikájának is alapja lett.
 
-## **Hatásvizsgálat**
+### Gazdaság és Megélhetés
 
-- **Közvetlen Következmények:**
+Az ország gazdasága az állandó hadszíntérré válás miatt összeomlott. A törökök rendszeres rablóhadjáratai elnéptelenedéshez vezettek, különösen az Alföldön (pusztásodás). Ugyanakkor a [marhakereskedelem](## "Szürkemarha exportja Nyugat-Európába, amely a korszak egyik legjövedelmezőbb ágazata volt") továbbra is virágzott, ami a mezővárosok (pl. Debrecen, Kecskemét) megerősödését hozta, még a hódoltsági területeken is.
 
-  - **Polgárháború (1526-1538):** A fehérvári országgyűlésen **Szapolyai Jánost**, a pozsonyi országgyűlésen **Habsburg Ferdinándot** választották királlyá. A két király hívei között véres belháború kezdődött.
-  - **Török befolyás növekedése:** Szapolyai szorult helyzetében a szultánhoz fordult támogatásért, amivel (1529-től) vazallusi státuszba süllyesztette saját országrészét.
+### Társadalom és Életmód
 
-- **Hosszú Távú Hatások:**
-  - **Az ország három részre szakadása (1541-től):** Szapolyai halála után (1540) a szultán, "védnökség" ürügyén, 1541-ben csellel elfoglalta Budát.
-    1.  **Királyi Magyarország:** Nyugati és felvidéki területek, Habsburg-irányítás alatt (ütközőzóna).
-    2.  **Hódoltság:** Az ország közepe (Duna-Tisza köze), közvetlen oszmán közigazgatás alatt.
-    3.  **Erdélyi Fejedelemség:** Keleti területek, oszmán hűbéres, de belpolitikailag önálló állam.
-  - **Társadalmi és gazdasági pusztulás:** Az állandósuló végvári harcok és a hadjáratok miatt az ország népessége stagnált, a Hódoltság területei elnéptelenedtek.
+A társadalom traumatizálódott. A lakosság jelentős része elmenekült a déli területekről. Megjelentek a "hódoltsági" életformák: a törököknek fizetett adók (harács) mellett a magyar földesurak is megpróbálták beszedni a járandóságaikat (**kettős adóztatás**). Ebben a bizonytalan légkörben talált gyors visszhangra a [reformáció](## "A katolikus egyház megújítására irányuló mozgalom, amely Luther Márton fellépésével kezdődött"), mivel az emberek a katolikus egyház bűneiben látták Isten büntetését (a török hódítást).
 
-<!-- _[Ide a kép rövid leírása: Térkép, amely Magyarország három részre szakadását ábrázolja (Királyi Magyarország, Hódoltság, Erdélyi Fejedelemség).]_ -->
+## Következmények
 
-# **Kontextus és Kritika**
+A mohácsi csata és Buda elfoglalása visszafordíthatatlan következményekkel járt.
 
-## **Összefüggések és Párhuzamok**
+1.  **Királyi Magyarország:** A nyugati és északi sáv, Habsburg uralom alatt.
+2.  **Török Hódoltság:** Az ország középső, ék alakú része, közvetlen oszmán irányítással.
+3.  **Erdélyi Fejedelemség:** A keleti országrész, amely török vazallusként, de viszonylagos önállósággal bíró állammá alakult.
 
-Mohács nem elszigetelt esemény, hanem az Oszmán Birodalom európai előretörésének (Rigómező, Nikápoly, Várna) logikus állomása volt. A csata rávilágított a feudális banderiális hadsereg elavultságára a modern, tűzfegyverekkel és állandó zsoldosokkal (janicsárok) rendelkező oszmán hadigépezettel szemben.
+Ez az állapot (a három részre szakadás) több mint 150 évig, a törökök 1699-es kiűzéséig fennmaradt.
 
-## **Eltérő Nézőpontok és Viták**
+---
 
-- **Szapolyai János szerepe:** A korabeli Habsburg-propaganda árulással vádolta Szapolyait a távolmaradása miatt. A mai történészi konszenzus szerint azonban nem szándékos késésről volt szó, hanem ellentmondásos parancsokról és a mozgósítás nehézségeiről.
-- **A csata vállalásának kényszere:** Sokan vitatják, helyes volt-e megvívni a csatát a túlerővel szemben. A vezetés azonban attól tartott, hogy harc nélküli visszavonulás esetén a morál összeomlana, és a török akadálytalanul dúlná fel az országot, ráadásul a török könnyűlovasság miatt a rendezett visszavonulás is életveszélyes lett volna.
+# Összegzés
 
-## **Örökség és Jelenkori Relevancia**
+## Kapcsolódó Témák
 
-A "mohácsi vész" a magyar kollektív emlékezetben a **nemzethalál víziójának** és a széthúzás átkának szimbóluma. Ady Endre _"Nekünk Mohács kell"_ című verse is arra utal, hogy a nemzetet néha csak a tragédiák rázzák fel. Történelmi tanulsága, hogy a belső megosztottság és a geopolitikai realitások figyelmen kívül hagyása végzetes következményekkel járhat egy kisállam számára.
+- **Reformáció Magyarországon:** A hitújítás terjedése szorosan összefüggött a mohácsi sokkal.
+- **Várháborúk kora:** Eger (1552) és Szigetvár (1566) ostroma, mint a védekezés hősi epizódjai.
+- **Zrínyi Miklós:** A költő és hadvezér, aki a 17. században próbálta "jóvátenni" Mohácsot ("Ne bántsd a magyart!").
 
-# **Összefoglalás**
+## Záró Összegzés
 
-## **A Fő Érvek Összegzése**
+A mohácsi csata (1526) és Buda elfoglalása (1541) nem csupán katonai vereség volt, hanem a középkori magyar állam szétesése. A belső széthúzás és a kedvezőtlen külpolitikai helyzet miatt Magyarország képtelen volt ellenállni az Oszmán Birodalomnak. A következmény az ország tartós, három részre szakadása lett, amelyben a magyarság a nyugati kereszténység és a keleti iszlám világ ütközőzónájában volt kénytelen túlélni a következő másfél évszázadot.
 
-A mohácsi katasztrófa egy hosszú folyamat eredménye volt: a Jagelló-kor államszervezeti válsága, a gazdasági kimerülés és a külpolitikai elszigeteltség miatt Magyarország esélytelenül állt szemben a korabeli világ egyik legerősebb hadseregével. A vereséget súlyosbította a király halála, amely hatalmi űrt teremtett, lehetőséget adva az oszmán hódítás tartósulására.
+---
 
-## **Válasz a Központi Kérdésre**
+# Források
 
-Azért vezethetett egyetlen csata az ország összeomlásához, mert a Magyar Királyság szervezete ekkorra már "kívül-belül korhadt" volt. A mohácsi síkon nemcsak egy sereg semmisült meg, hanem az állam politikai és egyházi vezetése is lefejeződött. A vereség után hiányzott az az egységes politikai akarat és erő, amely megszervezhette volna az ellenállást, így az ország szükségszerűen a nagyhatalmak játékszerévé és hadszínterévé vált.
-
-## **Záró Perspektíva**
-
-**1526. augusztus 29.** a középkori magyar nagyhatalmi státusz végét és egy másfél évszázados, küzdelmes túlélési korszak kezdetét jelentette, amely alapjaiban rajzolta át a Kárpát-medence etnikai és politikai térképét.
+- [wikipedia.org](https://hu.wikipedia.org/wiki/Moh%C3%A1csi_csata)
+- [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/mohacsi-csata/)
+- [zanza.tv](https://zanza.tv/tortenelem/ujkor-magyarorszag-kora-ujkorban/magyarorszag-harom-reszre-szakadasa)
+- [arcanum.com](https://www.arcanum.com/hu/online-kiadvanyok/MagyarNemzetTortenete-a-magyar-nemzet-tortenete-9A23/szilagyi-sandor-a-magyar-nemzet-tortenete-21F2/magyarorszag-harom-reszre-oszlasanak-tortenete-15261608-4795/elso-konyv-a-ket-kiraly-kora-15261540-47A7/i-fejezet-az-orszag-a-mohacsi-csata-utan-elokeszuletek-a-kiralyvalasztasra-47A8/)
