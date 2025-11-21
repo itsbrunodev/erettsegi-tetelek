@@ -1,106 +1,126 @@
 [
   {
-    "question": "Mely országok alkották az antant szövetségének magját 1914-ben?",
-    "reason": "Az antant (entente cordiale) Nagy-Britannia, Franciaország és Oroszország katonai-politikai szövetségeként jött létre a háború előtt.",
+    "question": "Melyik esemény tekinthető az I. világháború közvetlen kiváltó okának?",
+    "reason": "Ferenc Ferdinánd trónörökös meggyilkolása Szarajevóban indította el a hadüzenetek láncolatát.",
+    "choices": [
+      { "content": "A lusitania elsüllyesztése", "correct": false },
+      { "content": "A szarajevói merénylet", "correct": true },
+      { "content": "Németország hadba lépése", "correct": false },
+      { "content": "Az USA hadüzenete", "correct": false }
+    ]
+  },
+  {
+    "question": "Kik alkották eredetileg a Hármas Szövetséget?",
+    "reason": "Az 1882-ben létrejött szövetség tagjai Németország, az Osztrák–Magyar Monarchia és Olaszország voltak.",
     "choices": [
       {
-        "content": "Németország, Osztrák-Magyar Monarchia, Olaszország",
-        "correct": false
-      },
-      {
-        "content": "Nagy-Britannia, Franciaország, Oroszország",
+        "content": "Németország, Osztrák–Magyar Monarchia, Olaszország",
         "correct": true
       },
-      { "content": "Amerikai Egyesült Államok, Japán, Kína", "correct": false },
-      { "content": "Oszmán Birodalom, Bulgária, Németország", "correct": false }
+      { "content": "Anglia, Franciaország, Oroszország", "correct": false },
+      { "content": "Németország, Törökország, Bulgária", "correct": false },
+      { "content": "USA, Anglia, Franciaország", "correct": false }
     ]
   },
   {
-    "question": "Mi volt az első világháború kitörésének közvetlen ürügye (casus belli)?",
-    "reason": "Ferenc Ferdinánd osztrák-magyar trónörökös meggyilkolása Szarajevóban egy szerb nacionalista által adta meg a Monarchiának az okot a Szerbia elleni hadüzenetre.",
+    "question": "Mi volt a Schlieffen-terv célja?",
+    "reason": "Németország célja a kétfrontos háború elkerülése volt Franciaország gyors lerohanásával.",
     "choices": [
+      { "content": "Oroszország gyors elfoglalása", "correct": false },
+      { "content": "Anglia tengeri blokádja", "correct": false },
       {
-        "content": "Németország támadása Lengyelország ellen.",
-        "correct": false
-      },
-      { "content": "A Lusitania elsüllyesztése.", "correct": false },
-      {
-        "content": "Ferenc Ferdinánd trónörökös meggyilkolása Szarajevóban.",
-        "correct": true
-      },
-      { "content": "Az 1912-13-as Balkán-háborúk.", "correct": false }
-    ]
-  },
-  {
-    "question": "Melyik német haditerv célja volt Franciaország gyors legyőzése, hogy elkerüljék a kétfrontos háborút?",
-    "reason": "A Schlieffen-terv arra épült, hogy a német hadsereg a háború elején villámgyorsan lerohanja és legyőzi Franciaországot, mielőtt Oroszország mozgósítani tudná hatalmas hadseregét.",
-    "choices": [
-      { "content": "Weltpolitik-terv", "correct": false },
-      { "content": "Moltke-terv", "correct": false },
-      { "content": "Barbarossa-terv", "correct": false },
-      { "content": "Schlieffen-terv", "correct": true }
-    ]
-  },
-  {
-    "question": "Milyen típusú hadviselés jellemezte a nyugati frontot a marne-i csata után?",
-    "reason": "A villámháborús tervek kudarca után a frontvonalak megmerevedtek, és a katonák lövészárkokból vívtak hosszú, kimerítő és véres küzdelmet, ami az állóháború lényege.",
-    "choices": [
-      { "content": "Villámháború", "correct": false },
-      { "content": "Állóháború", "correct": true },
-      { "content": "Partizánháború", "correct": false },
-      { "content": "Tengeri blokád", "correct": false }
-    ]
-  },
-  {
-    "question": "Melyik volt a legélesebb nagyhatalmi ellentét a háború előtt, amely a tengeri fegyverkezési versenyben csúcsosodott ki?",
-    "reason": "Németország Tirpitz admirális vezette flottaépítési programja közvetlenül veszélyeztette Nagy-Britannia évszázados tengeri hegemóniáját, ami a két ország közötti feszültség fő forrása volt.",
-    "choices": [
-      {
-        "content": "Oroszország és az Osztrák-Magyar Monarchia rivalizálása a Balkánon.",
-        "correct": false
-      },
-      {
-        "content": "Franciaország revansvágya Németországgal szemben Elzász-Lotaringiáért.",
-        "correct": false
-      },
-      {
-        "content": "Németország és Nagy-Britannia versengése a tengeri fölényért.",
+        "content": "Franciaország gyors legyőzése a nyugati fronton",
         "correct": true
       },
       {
-        "content": "Az Oszmán Birodalom és Oroszország ellentéte a Fekete-tengeren.",
+        "content": "Az Osztrák–Magyar Monarchia megsegítése a Balkánon",
         "correct": false
       }
     ]
   },
   {
-    "question": "Mely haditechnikai újdonságokat vetették be tömegesen az első világháború során?",
-    "reason": "A harci gázt (Ypres, 1915), a harckocsit (Somme, 1916) és a repülőgépeket (felderítés, bombázás) is ebben a háborúban vetették be először tömegesen, alapvetően megváltoztatva a hadviselést. A helikopter a háború után terjedt el.",
+    "question": "Melyik évben lépett be az USA a háborúba?",
+    "reason": "Az Egyesült Államok 1917-ben csatlakozott az antanthoz, ami döntő fordulatot hozott.",
     "choices": [
-      { "content": "Harci gáz", "correct": true },
-      { "content": "Harckocsi (tank)", "correct": true },
-      { "content": "Helikopter", "correct": false },
-      { "content": "Repülőgép", "correct": true }
+      { "content": "1914", "correct": false },
+      { "content": "1915", "correct": false },
+      { "content": "1916", "correct": false },
+      { "content": "1917", "correct": true }
     ]
   },
   {
-    "question": "Melyik fogalom írja le azt a jelenséget, amikor egy ország minden gazdasági és társadalmi erőforrását a háborús céloknak rendeli alá?",
-    "reason": "A totális háborúban a hátország is hadszíntérré válik, a gazdaságot hadigazdálkodásra állítják át, és a civil lakosságot is teljes mértékben bevonják a háborús erőfeszítésekbe.",
+    "question": "Mit jelent az állóháború fogalma?",
+    "reason": "Az állóháborúban a frontvonalak megmerevedtek, és a felek lövészárkokból harcoltak egymás ellen.",
     "choices": [
-      { "content": "Imperializmus", "correct": false },
-      { "content": "Nacionalizmus", "correct": false },
-      { "content": "Totális háború", "correct": true },
-      { "content": "Villámháború", "correct": false }
+      {
+        "content": "Gyors, lovassági rohamokkal vívott harc",
+        "correct": false
+      },
+      { "content": "Csak tengeren zajló ütközetek", "correct": false },
+      {
+        "content": "Lövészárkokba merevedett, mozdulatlan frontvonalak",
+        "correct": true
+      },
+      { "content": "Légierővel vívott kizárólagos harc", "correct": false }
     ]
   },
   {
-    "question": "Melyik birodalom bomlott fel a háború következtében az alábbiak közül?",
-    "reason": "A háború egyik legfontosabb politikai következménye négy nagy birodalom (Német, Osztrák-Magyar, Orosz, Oszmán) felbomlása volt. A Brit Birodalom bár meggyengült, de nem bomlott fel ekkor.",
+    "question": "Melyik új fegyvert vetették be először a Somme-nál 1916-ban?",
+    "reason": "A britek itt vetették be először a tankokat (harckocsikat) a technikai fölény érdekében.",
     "choices": [
-      { "content": "Brit Birodalom", "correct": false },
-      { "content": "Osztrák-Magyar Monarchia", "correct": true },
-      { "content": "Francia gyarmatbirodalom", "correct": false },
-      { "content": "Spanyol Birodalom", "correct": false }
+      { "content": "Mustárgáz", "correct": false },
+      { "content": "Tank (harckocsi)", "correct": true },
+      { "content": "Gépfegyver", "correct": false },
+      { "content": "Tengeralattjáró", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi jellemezte a hátországot a totális háborúban?",
+    "reason": "A teljes gazdaságot a hadicéloknak rendelték alá, bevezették a jegyrendszert és a nők is munkába álltak.",
+    "choices": [
+      { "content": "Békés termelés és gazdasági növekedés", "correct": false },
+      {
+        "content": "Semmilyen hatással nem volt rá a háború",
+        "correct": false
+      },
+      {
+        "content": "Jegyrendszer, nők munkába állása, hadigazdaság",
+        "correct": true
+      },
+      {
+        "content": "Csak a fegyvergyárak működtek, a mezőgazdaság leállt",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik nagyhatalom lépett ki a háborúból 1917-ben?",
+    "reason": "Oroszország a belső forradalmak (februári és bolsevik) miatt kénytelen volt békét kötni és kilépni.",
+    "choices": [
+      { "content": "Nagy-Britannia", "correct": false },
+      { "content": "Franciaország", "correct": false },
+      { "content": "Oroszország", "correct": true },
+      { "content": "Olaszország", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt a 'villámháború' német elnevezése?",
+    "reason": "A Blitzkrieg jelentése villámháború, amely a gyors győzelemre építő stratégia.",
+    "choices": [
+      { "content": "Anschluss", "correct": false },
+      { "content": "Blitzkrieg", "correct": true },
+      { "content": "Lebensraum", "correct": false },
+      { "content": "Weltpolitik", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik terület visszaszerzése volt a franciák fő célja (revans)?",
+    "reason": "Elzász és Lotaringia elvesztése (1871) miatt fűtötte a visszavágás vágya a franciákat.",
+    "choices": [
+      { "content": "Bajorország", "correct": false },
+      { "content": "Lengyelország", "correct": false },
+      { "content": "Elzász-Lotaringia", "correct": true },
+      { "content": "Normandia", "correct": false }
     ]
   }
 ]

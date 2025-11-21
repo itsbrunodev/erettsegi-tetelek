@@ -3,146 +3,116 @@ title: "19. A kétpólusú világrend kialakulása"
 description: "A kétpólusú világrend kialakulását és a hidegháborút a második világháború utáni hatalmi átrendeződés, valamint a gazdasági és katonai szembenállás határozta meg."
 startDate:
   {
-    date: "1947-03-12",
-    description: "A Truman-doktrína meghirdetése, amely a kommunizmus feltartóztatásának politikáját tűzte ki célul.",
+    date: "1945-09-02",
+    description: "A második világháború vége (Jaltai és Potsdami konferenciák), ahol már látszódtak az érdekellentétek a győztes hatalmak között.",
   }
 endDate:
   {
-    date: "1991-12-26",
-    description: "A Szovjetunió formális felbomlása, amely lezárta a két szuperhatalom globális rivalizálását.",
+    date: "1955-05-14",
+    description: "A Varsói Szerződés megalakulása, amellyel hivatalosan is létrejött a keleti katonai tömb.",
   }
 coverImage: true
 ---
 
-# **Bevezetés**
+# Bevezetés
 
-## **Történelmi Elhelyezés**
+## Történelmi Háttér
 
-A téma a **második világháborút követő időszakra** fókuszál, amely **1945-től 1991-ig** tartott. Ezt a korszakot a két győztes szuperhatalom, a **kapitalista Amerikai Egyesült Államok** és a **kommunista Szovjetunió** globális szembenállása határozta meg. A háború utáni hatalmi vákuum és az ideológiai ellentétek egy új típusú, fegyveres összecsapás nélküli, de rendkívül feszült globális konfliktushoz, a **hidegháborúhoz** vezettek.
+A második világháború (1939-1945) mérhetetlen pusztítást hagyott maga után Európában. A [fasizmus](## "Szélsőségesen tekintélyelvű, nacionalista politikai ideológia és mozgalom") legyőzése után megszűnt a kényszerű szövetség a nyugati demokráciák (USA, Nagy-Britannia) és a kommunista Szovjetunió között. Európa hagyományos nagyhatalmai (Anglia, Franciaország, Németország) meggyengültek, így hatalmi vákuum keletkezett, amit a két felemelkedő szuperhatalom igyekezett betölteni. A politikai légkört a bizalmatlanság és a félelem uralta, miközben az emberek a romok eltakarításával és az újrakezdéssel voltak elfoglalva.
 
-## **Központi Problémafelvetés**
+## Miért fontos ez a téma?
 
-Hogyan alakította át a második világháború utáni világrendet a két szuperhatalom (USA és Szovjetunió) ideológiai és hatalmi rivalizálása, és ez a szembenállás milyen konkrét konfliktusokon és eseményeken keresztül vezetett a világ polarizálódásához?
+Ez a korszak alapozta meg a 20. század második felének teljes történelmét. A világrend, amelyben szüleink és nagyszüleink éltek, ekkor jött létre. A **kétpólusú világ** (bipolaritás) azt jelentette, hogy minden konfliktus a Földön végső soron Washington és Moszkva viszonyától függött. Bár közvetlen "forró" háború nem tört ki a két óriás között, a [nukleáris](## "Atommag-energiával kapcsolatos, itt: atomfegyverekre utaló") fenyegetettség árnyékában számos helyi háború és válság (pl. Korea, Kuba, Vietnam) határozta meg a mindennapokat.
 
-## **A Kifejtés Vázlata**
+## A Kifejtés Vázlata
 
-1.  A kétpólusú világrend kialakulásának okai és a szembenálló tömbök létrejötte.
-2.  A hidegháború legfontosabb szakaszainak és konfliktusainak elemzése.
-3.  A hidegháború következményei és a kétpólusú világrend felbomlása.
+- A szembenállás elméleti és gazdasági alapjai (Doktrínák és Segélyek).
+- A konfliktus intézményesülése (Katonai szövetségek).
+- A legfontosabb korai konfliktusok (Német kérdés, Korea).
+- A két rendszer (Nyugat és Kelet) összehasonlítása.
 
-# **Kifejtés**
+---
 
-## **Kulcsinformációk és Definíciók**
+# Kifejtés
 
-- **Kulcsfogalmak:**
+## Fogalomtár és Szereplők
 
-  - **Hidegháború:** A két szuperhatalom (USA, Szovjetunió) és szövetségi rendszereik közötti, közvetlen fegyveres összecsapás nélküli, de fegyverkezési versennyel, ideológiai harccal és helyi (ún. "forró") konfliktusokkal jellemezhető szembenállás (1947-1991).
-  - **Kétpólusú (bipoláris) világrend:** A nemzetközi politika olyan struktúrája, ahol a hatalom két, egymással versengő központ (pólus) köré szerveződik.
-  - **Vasfüggöny:** Winston Churchill által 1946-ban, a fultoni beszédében használt kifejezés, amely Európa politikai, katonai és ideológiai kettéosztottságát szimbolizálta a nyugati és a szovjet befolyási övezet között.
-  - **Feltartóztatás (Containment):** Az USA Truman elnök által meghirdetett külpolitikája, amelynek célja a kommunizmus további terjedésének megakadályozása volt világszerte.
-  - **Neokolonializmus (Újgyarmatosítás):** A volt gyarmati országok gazdasági és politikai függésben tartása a fejlett államoktól, a formális függetlenségük elnyerése után.
+- **Hidegháború:** A két szuperhatalom fegyveres konfliktus nélküli, de minden egyéb téren (gazdaság, propaganda, politika) zajló ellenségeskedése.
+- **Vasfüggöny:** Winston Churchill kifejezése; a Nyugatot és a szovjet befolyás alatt álló Keletet elválasztó fizikai és eszmei határzár.
+- **Feltartóztatás (Containment):** Az amerikai külpolitika alapelve, melynek célja a kommunizmus terjedésének megállítása volt.
+- **Truman-elv (doktrína):** 1947-ben meghirdetett elv, miszerint az USA segítséget nyújt minden olyan országnak, amelyet a kommunizmus (szovjet terjeszkedés) fenyeget.
+- **Marshall-terv:** Az USA nagyszabású gazdasági segélyprogramja Európa újjáépítésére, melyet a szovjetek (és csatlósaik) elutasítottak.
+- **Szalámitaktika:** A kommunista pártok hatalomátvételi módszere Kelet-Közép-Európában; az ellenzék "szeletenkénti", fokozatos felszámolása.
+- **Kétpólusú világ:** Olyan nemzetközi rendszer, amelyet két domináns szuperhatalom versengése határoz meg.
+- **Harry S. Truman:** Az USA elnöke (1945-1953), a feltartóztatás politikájának meghirdetője.
+- **Joszif Sztálin:** A Szovjetunió diktátora, a keleti blokk kiépítője, aki kiterjesztette a szovjet érdekszférát.
+- **Winston Churchill:** Brit miniszterelnök, ő használta először a "vasfüggöny" kifejezést 1946-os fultoni beszédében.
+- **George C. Marshall:** Amerikai külügyminiszter, a róla elnevezett segélyprogram kidolgozója.
 
-- **Kulcsszereplők:**
+## Okok és Előzmények
 
-  - **Harry S. Truman:** Az USA elnöke, nevéhez fűződik a feltartóztatási politika (Truman-doktrína) és a Marshall-terv elindítása.
-  - **Joszif Sztálin:** A Szovjetunió diktátora, a kelet-európai szovjet blokk kiépítője.
-  - **Winston Churchill:** Nagy-Britannia volt miniszterelnöke, aki fultoni beszédével először hívta fel a figyelmet a szovjet terjeszkedés veszélyére.
-  - **Nyikita Hruscsov:** Sztálin utódja, nevéhez fűződik a desztalinizáció és a "békés egymás mellett élés" politikája, de a kubai rakétaválság is.
-  - **John F. Kennedy:** Az USA elnöke a kubai rakétaválság idején.
+### Közvetlen kiváltó ok
 
-- **Meghatározó Dátumok / Időszakok:**
-  - **1947:** A Truman-doktrína és a Marshall-terv meghirdetése.
-  - **1948-1949:** A berlini blokád és Németország kettéosztásának kezdete.
-  - **1949:** A NATO és a KGST megalakulása, a szovjet atombomba elkészülése, a két német állam (NSZK, NDK) létrejötte.
-  - **1950-1953:** A koreai háború, a hidegháború első fegyveres konfliktusa.
-  - **1955:** A Varsói Szerződés megalakulása (válaszul az NSZK NATO-tagságára).
-  - **1961:** A berlini fal felépítése.
-  - **1962:** A kubai rakétaválság, a nukleáris háború veszélyének csúcspontja.
-  - **1989:** A berlini fal leomlása, a kelet-európai rendszerváltások kezdete.
-  - **1991:** A Szovjetunió felbomlása, a hidegháború vége.
+A második világháború végi békekonferenciákon (Jalta, Potsdam) kötött megállapodások betartása körüli viták. A Szovjetunió nem tartotta be az ígéretét a megszállt kelet-európai országok szabad választásairól, hanem kommunista [bábkormányokat](## "Olyan kormányzat, amely látszólag önálló, de valójában egy idegen nagyhatalom irányítja") ültetett a nyakukra (szovjetizálás).
 
-## **A Téma Részletes Elemzése**
+### Mélyebb, hosszú távú okok
 
-### **Kiváltó Okok és Előzmények**
+A két rendszer **ideológiai összeférhetetlensége**:
 
-- **Ideológiai ellentét:** A **nyugati, liberális demokráciák és a piacgazdaság** álltak szemben a **szovjet típusú kommunista diktatúrával és a tervgazdálkodással**. Ez az alapvető különbség már a második világháború alatt is feszültséget okozott a szövetségesek között.
-- **Hatalmi vákuum Európában:** A náci Németország és szövetségeseinek veresége után hatalmi űr keletkezett Közép- és Kelet-Európában. A Szovjetunió a Vörös Hadsereg által felszabadított (és megszállt) területeken kommunista bábkormányokat segített hatalomra, létrehozva a **keleti blokkot**.
-- **Bizalmatlanság a szövetségesek között:** A háború végi konferenciákon (Jalta, Potsdam) felszínre kerültek az ellentétek. Az USA és Nagy-Britannia gyanakodva figyelte a szovjet terjeszkedést, míg a Szovjetunió egy ellenséges, kapitalista bekerítéstől tartott.
-- **Az atombomba monopóliuma:** Az USA 1945-ös atomfegyver-monopóliuma katonai fölényt biztosított számára, ami tovább növelte a szovjet bizalmatlanságot, és ösztönözte a saját nukleáris programjuk felgyorsítását.
+- **Nyugat (USA):** Demokrácia, kapitalizmus (szabad piac), egyéni szabadságjogok.
+- **Kelet (Szovjetunió):** Pártállami diktatúra, szocializmus (tervgazdaság), közösségi érdek az egyén felett.
+  Mindkét fél a saját rendszerét hitte felsőbbrendűnek és félt a másik terjeszkedésétől.
 
-### **Az Eseménysor Folyamata**
+## Kronológia
 
-**1. A tömbök kialakulása (1947-1955):**
+1.  **1945:** A második világháború vége, Németország négy megszállási övezetre osztása. Az ENSZ létrejötte.
+2.  **1946:** **Churchill fultoni beszéde**: "Stettintől Triesztig vasfüggöny ereszkedett le Európára." - A hidegháború szimbolikus kezdete.
+3.  **1947:** A párizsi békeszerződések aláírása. Truman meghirdeti a **Truman-elvet** (a kommunizmus feltartóztatása).
+4.  **1948:** Elindul a **Marshall-terv** folyósítása (Nyugat-Európa gyorsan talpra áll). Keleten a szovjetek tiltják a csatlakozást.
+5.  **1948-1949:** **Első berlini válság**. Sztálin blokád alá veszi Nyugat-Berlint, de az amerikaiak légihídon látják el a várost. Ez a hidegháború első nagy "csatája".
+6.  **1949:** Megalakul a **NATO** (Észak-atlanti Szerződés Szervezete), a nyugati katonai tömb.
+7.  **1949:** Kettészakad Németország: létrejön az **NSZK** (Német Szövetségi Köztársaság - nyugati) és az **NDK** (Német Demokratikus Köztársaság - keleti).
+8.  **1949:** A Szovjetunió felrobbantja első atombombáját - megszűnik az USA [atommonopóliuma](## "Kizárólagos birtoklás. Itt: csak az USA-nak volt atombombája egy ideig").
+9.  **1950-1953:** **Koreai háború**. Az első fegyveres összecsapás (proxy háború), ahol a két fél (észak-dél) mögött a nagyhatalmak álltak.
+10. **1955:** Megalakul a **Varsói Szerződés**, a keleti blokk katonai szövetsége válaszul az NSZK NATO-csatlakozására.
 
-- **A "vasfüggöny" leereszkedése:** A Szovjetunió Kelet-Európában (Lengyelország, Magyarország, Csehszlovákia stb.) felszámolta a többpártrendszert és kiépítette a kommunista diktatúrákat (szalámipolitika, kékcédulás választások).
-- **Amerikai reakció:**
-  - **Truman-doktrína (1947):** Az USA katonai és gazdasági segítséget ígért minden országnak, amelyet a kommunista terjeszkedés fenyeget (konkrétan: Görögország és Törökország támogatása).
-  - **Marshall-terv (1947):** Gazdasági segélyprogram a háború sújtotta európai országok újjáépítésére, célja a gazdasági stabilitás megteremtése és a kommunizmus vonzerejének csökkentése volt. A Szovjetunió saját magának és csatlós államainak megtiltotta a segély elfogadását.
-- **Németország kérdése:**
-  - **Berlini blokád (1948-49):** A nyugati zónákban bevezetett valutareformra válaszul Sztálin lezárta a Nyugat-Berlinbe vezető szárazföldi utakat. Az USA **légihíddal** látta el a várost közel egy éven át, a blokád végül kudarcot vallott.
-  - **Két Németország:** A konfliktus eredményeként 1949-ben létrejött a nyugati **Német Szövetségi Köztársaság (NSZK)** és a szovjet zónából a **Német Demokratikus Köztársaság (NDK)**.
-- **Katonai szövetségek létrejötte:**
-  - **NATO (1949):** Az Észak-atlanti Szerződés Szervezete az USA vezetésével létrehozott nyugati katonai-védelmi szövetség.
-  - **Varsói Szerződés (1955):** A Szovjetunió és a keleti blokk országainak katonai szövetsége. Létrehozását közvetlenül az váltotta ki, hogy az **NSZK-t felvették a NATO-ba**.
+## Elemzés
 
-![Európa terképe a vasfüggönyel és a két katonai tömb (NATO és Varsói Szerződés) országaival](../../assets/tortenelem/a-ketpolusu-vilagrend-kialakulasa/blokkok.jpg)
+### Politika és Hatalomgyakorlás
 
-**2. A hidegháború "forró" konfliktusai és válságai:**
+A világ két táborra szakadt. A **nyugati tömbben** (USA vezetésével) a parlamenti demokrácia érvényesült, többpártrendszerrel és szabad választásokkal. A szuverenitásuk (önállóságuk) megmaradt, az USA inkább partnerként, mintsem hűbérúrkét viselkedett.
+Ezzel szemben a **keleti tömbben** (Szovjetunió vezetésével) a szovjet mintájú egypártrendszert kényszerítették az országokra (Lengyelország, Magyarország, Csehszlovákia stb.). Itt diktatúra volt, a döntéseket Moszkvában hozták, az "ellenzéket" pedig a titkosrendőrség segítségével, koncepciós perekkel iktatták ki.
 
-- **Koreai háború (1950-1953):** A szovjetek által támogatott Észak-Korea megtámadta az USA által támogatott Dél-Koreát. A háborúba kínai és ENSZ (döntően amerikai) csapatok is beavatkoztak. A konfliktus fegyverszünettel zárult, amely visszaállította a háború előtti határokat a 38. szélességi fok mentén.
-- **Kubai rakétaválság (1962):** A Szovjetunió atomrakétákat telepített Kubába, az USA közvetlen közelébe. Kennedy elnök tengeri blokád alá vonta Kubát. A világ az atomháború szélére sodródott. Végül Hruscsov visszavonta a rakétákat, cserébe az USA nyilvánosan ígéretet tett Kuba inváziójának elkerülésére, és titokban kivonta saját rakétáit Törökországból.
-- **Vietnámi háború (kb. 1955-1975):** A kommunista Észak-Vietnam (Szovjetunió és Kína támogatásával) és a dél-vietnámi partizánok (Vietkong) harcoltak a Dél-Vietnami Köztársaság (USA támogatásával) ellen. A hosszú háború hatalmas amerikai presztízsveszteséggel és végül 1975-ben Észak-Vietnam győzelmével, az ország kommunista egyesítésével zárult.
-- **Szovjet invázió Afganisztánban (1979):** A szovjet beavatkozás egy kommunista bábkormány támogatására elhúzódó gerillaháborúhoz vezetett, amelyet az USA (a mudzsahedinek felfegyverzésével) támogatott. Ez a konfliktus a Szovjetunió "vietnámi háborújává" vált, és jelentősen hozzájárult a szovjet gazdaság kimerüléséhez.
+### Gazdaság és Megélhetés
 
-### **Eredmények és Közvetlen Következmények**
+- **Nyugat:** A Marshall-segélynek köszönhetően "gazdasági csoda" következett be. A piacgazdaság (kapitalizmus) versenyhelyzetet teremtett, ami innovációhoz és a fogyasztói társadalom kialakulásához vezetett. Az életszínvonal gyorsan nőtt.
+- **Kelet:** A Szovjetunió létrehozta a **KGST**-t (Kölcsönös Gazdasági Segítség Tanácsa, 1949). Ez a szervezet a tervgazdálkodásra épült. A hangsúly a nehéziparon és a fegyverkezésen volt, nem a lakosság igényein. Ez gyakran áruhiányhoz és alacsonyabb életszínvonalhoz vezetett. A szovjetek sokszor "jóvátétel" címszóval kifosztották a megszállt országokat.
 
-- **A világ két ellenséges táborra szakadása:** A NATO és a Varsói Szerződés mentén kialakult egy katonailag, gazdaságilag és ideológiailag is szembenálló kétpólusú világ.
-- **Fegyverkezési verseny és a "Terror Egyensúlya":** Mindkét szuperhatalom óriási összegeket költött hadserege fejlesztésére. Kialakult a **kölcsönös elrettentés (MAD - Mutually Assured Destruction)** doktrínája: mivel mindkét fél képes volt a másik teljes megsemmisítésére még egy ellene irányuló első csapás után is, ez paradox módon visszatartotta őket a közvetlen háborútól.
-- **Helyi háborúk:** A szuperhatalmak a "harmadik világban" (Ázsia, Afrika, Latin-Amerika) vívták meg konfliktusaikat (proxy háborúk), helyi erőket támogatva.
-- **A gyarmati rendszer felbomlása:** A hidegháborús versengés felgyorsította a gyarmati rendszer felszámolását (dekolonizáció), mivel mindkét szuperhatalom igyekezett a frissen függetlenné váló országokat a saját befolyási övezetébe vonni.
+### Társadalom és Életmód
 
-## **Hatásvizsgálat**
+A nyugati társadalmakban a szabadságjogok (szólás-, sajtó-, vallásszabadság) biztosítottak voltak. Ezzel szemben a keleti blokkban az állam kontrollálta az élet minden területét. Az utazást korlátozták (a vasfüggönyön át szinte lehetetlen volt átjutni), a kultúrát cenzúrázták. A társadalmi feszültségeket propagandával próbálták elfedni, amely a "rothadó Nyugatot" ellenségként, a Szovjetuniót pedig a "béke őreként" mutatta be.
 
-- **Közvetlen Következmények:**
-  - **Európa kettéosztottsága:** A vasfüggöny évtizedekre elvágta egymástól Kelet- és Nyugat-Európát, korlátozva az utazást, a kereskedelmet és a kulturális kapcsolatokat.
-  - **Technológiai verseny:** A katonai rivalizálás (pl. rakétatechnológia) hatalmas lökést adott a tudományos-technikai fejlődésnek, amelynek egyik leglátványosabb eleme az **űrverseny** volt (Szputnyik-1, Gagarin, Holdra szállás).
-- **Hosszú Távú Hatások:**
-  - **A Szovjetunió összeomlása:** A fegyverkezési verseny gazdaságilag kimerítette a Szovjetuniót. A merev tervgazdaság képtelen volt felvenni a versenyt a nyugati technológiai és életszínvonal-beli fejlődéssel, ami végül a rendszer belső összeomlásához vezetett.
-  - **Az USA egyedüli szuperhatalommá válása:** A hidegháború végével az USA maradt az egyetlen globális szuperhatalom, ami egy **egypólusú világrendet** hozott létre az 1990-es és 2000-es években.
-  - **Tartós regionális konfliktusok:** A hidegháborús beavatkozások számos máig tartó konfliktus alapjait fektették le (pl. Korea megosztottsága, instabilitás a Közel-Keleten és Afganisztánban).
+## Következmények
 
-# **Kontextus és Kritika**
+A kétpólusú világrend kialakulása évtizedekre "befagyasztotta" az európai határokat. Bár a harmadik világháború nem tört ki (köszönhetően a kölcsönös elrettentésnek - senki nem akart atomháborút), a világ állandó feszültségben élt. Németország és Európa kettéosztottsága egészen a rendszerváltásig (1989-90) fennmaradt.
 
-## **Összefüggések és Párhuzamok**
+---
 
-- **A "Harmadik Világ" és az El Nem Kötelezettek:** A függetlenné váló országok (pl. India, Jugoszlávia, Egyiptom) egy része megpróbált kimaradni a tömbök harcából, és létrehozták az **El Nem Kötelezettek Mozgalmát**, bár a valóságban sokan kényszerültek valamelyik oldalhoz közeledni.
-- **Gazdasági integráció:** A hidegháborús megosztottság párhuzamos gazdasági integrációkat hozott létre: Nyugaton az **Európai Gazdasági Közösség (az EU elődje)**, Keleten pedig a **Kölcsönös Gazdasági Segítség Tanácsa (KGST)**.
+# Összegzés
 
-## **Eltérő Nézőpontok és Viták**
+## Kapcsolódó Témák
 
-- **A felelősség kérdése (Historiográfia):**
-  - **Hagyományos (ortodox/nyugati) nézőpont:** A hidegháborúért elsősorban a **szovjet terjeszkedés és Sztálin agresszív politikája** a felelős. Az USA csak védekezett a demokrácia védelmében.
-  - **Revizionista nézőpont:** (1960-as évektől, főleg amerikai baloldali történészek): Az **amerikai gazdasági imperializmus** ("dollárdiplomácia") kényszerítette védekezésre a Szovjetuniót, hogy piacokat szerezzen az amerikai tőkének.
-  - **Poszt-revizionista nézőpont:** A levéltárak megnyitása utáni konszenzus. A hidegháború a **kölcsönös félreértések, a bizalmatlanság és a biztonsági dilemmák** elkerülhetetlen következménye volt. Nem egyetlen fél gonoszsága, hanem a hatalmi logika és az ideológiai inkompatibilitás vezetett a konfliktushoz.
+Ez a tétel szorosan kapcsolódik **Magyarország 1945 utáni történelméhez** (szovjetizálás, Rákosi-korszak) és az **1956-os forradalomhoz** (mint a hidegháború egyik válsággóca). Irodalomból összeköthető George Orwell _1984_ című művével, amely a totalitárius rendszerek működését mutatja be.
 
-## **Örökség és Jelenkori Relevancia**
+## Záró Összegzés
 
-A hidegháború öröksége máig meghatározó:
+A kétpólusú világrend kialakulása a 20. század közepének legmeghatározóbb folyamata volt. A fasizmus legyőzése után a szövetségesek ellenségekké váltak, és az ideológiai ellentétek (kapitalizmus vs. kommunizmus) mentén kettéosztották a világot. Ez a rendszer, bár békének nevezték, valójában egy folyamatos fegyverkezési versenyt és félelmet hozott, ahol a "béke" garanciája nem a bizalom, hanem az atomfegyverektől való rettegés volt.
 
-- **NATO:** A szervezet ma is létezik, és keleti bővítése (a volt Varsói Szerződés tagjaival) folyamatos feszültséget generál Oroszországgal.
-- **Nukleáris fegyverek:** A hidegháborús fegyverkezésből visszamaradt hatalmas nukleáris arzenál továbbra is globális biztonsági kockázat.
-- **"Új hidegháború":** A 21. század geopolitikai feszültségei (USA-Kína vetélkedés, Oroszország-Nyugat konfliktus) kapcsán gyakran merül fel a hidegháborús analógia, bár a gazdasági összefonódások ma sokkal erősebbek.
+---
 
-# **Összefoglalás**
+# Források
 
-## **A Fő Érvek Összegzése**
-
-A kétpólusú világrend a második világháború utáni hatalmi átrendeződés és a két győztes szuperhatalom - az USA és a Szovjetunió - közötti kibékíthetetlen ideológiai ellentét következtében jött létre. Ez a szembenállás egy globális, évtizedekig tartó fegyverkezési és politikai versenyt, a hidegháborút eredményezte, amely Európa kettéosztásán túl helyi háborúkon keresztül formálta a világpolitikát. A konfliktus végül a Szovjetunió gazdasági kimerülésével és összeomlásával zárult.
-
-## **Válasz a Központi Kérdésre**
-
-A két szuperhatalom rivalizálása alapjaiban formálta át a világrendet azáltal, hogy a világot két, egymással mereven szembenálló katonai, gazdasági és ideológiai tömbre osztotta. Ez a polarizáció konkrét eseményeken - mint a berlini blokád, a koreai és vietnámi háború, valamint a kubai rakétaválság - keresztül mélyült el, ahol a globális nukleáris megsemmisülés kockázata (a terror egyensúlya) paradox módon stabilizálta a rendszert a közvetlen nagyhatalmi háború elkerülésével.
-
-## **Záró Perspektíva**
-
-A hidegháború története egyben figyelmeztetés arra, hogy az ideológiai merevség és a nagyhatalmi bizalmatlanság hogyan sodorhatja a világot a katasztrófa szélére, miközben a korszak lezárása bizonyította, hogy a gazdasági hatékonyság és a politikai szabadság hosszú távon erősebb fegyvernek bizonyulhat a puszta katonai erőnél.
+- [zanza.tv](https://zanza.tv/tortenelem/hideghaborus-konfliktusok-es-ketpolusu-vilag-kiepulese)
+- [erettsegi.com](https://erettsegi.com/tetelek/tortenelem/hideghaboru-es-a-ketpolus-vilag/)
+- [erettsegi.eu](https://erettsegi.eu/tetel/a-ketpolusu-vilag-usa-szu-a-hideghaboru)
+- [nkp.hu](https://nat2012.nkp.hu/tankonyv/tortenelem_12/lecke_01_002)

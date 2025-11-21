@@ -1,68 +1,92 @@
 [
   {
-    "content": "A Balkán-félszigetet a háború előtt gyakran nevezték \"Európa ____ hordójának\" a térségben felhalmozódott feszültségek miatt.",
-    "missing": {
-      "choices": [
-        { "content": "arany-", "correct": false },
-        { "content": "puskaporos", "correct": true },
-        { "content": "bor-", "correct": false },
-        { "content": "olaj-", "correct": false }
-      ]
-    }
+    "sentence": "A háború közvetlen kiváltó oka a(z) ____ elkövetett merénylet volt.",
+    "choices": [
+      { "content": "Szarajevóban", "correct": true },
+      { "content": "Bécsben", "correct": false },
+      { "content": "Berlinben", "correct": false },
+      { "content": "Belgrádban", "correct": false }
+    ]
   },
   {
-    "content": "Franciaország fő célja a háborúban az elégtétel, vagyis a ____ megszerzése volt az 1871-es vereségért és Elzász-Lotaringia visszaszerzéséért.",
-    "missing": {
-      "choices": [
-        { "content": "status quo", "correct": false },
-        { "content": "kapituláció", "correct": false },
-        { "content": "annexió", "correct": false },
-        { "content": "revans", "correct": true }
-      ]
-    }
+    "sentence": "A németek gyors győzelmet ígérő haditerve a(z) ____ volt.",
+    "choices": [
+      { "content": "Schlieffen-terv", "correct": true },
+      { "content": "Barbarossa-terv", "correct": false },
+      { "content": "Bismarck-terv", "correct": false },
+      { "content": "Hindenburg-terv", "correct": false }
+    ]
   },
   {
-    "content": "A németek által meghirdetett korlátlan ____ provokálta ki az Amerikai Egyesült Államok hadba lépését 1917-ben.",
-    "missing": {
-      "choices": [
-        { "content": "tengeralattjáró-háború", "correct": true },
-        { "content": "légiháború", "correct": false },
-        { "content": "szárazföldi offenzíva", "correct": false },
-        { "content": "gazdasági blokád", "correct": false }
-      ]
-    }
+    "sentence": "A nyugati fronton a gyors hadműveleteket hamar felváltotta a(z) ____.",
+    "choices": [
+      { "content": "állóháború", "correct": true },
+      { "content": "tengeri háború", "correct": false },
+      { "content": "gerillaháború", "correct": false },
+      { "content": "hidegháború", "correct": false }
+    ]
   },
   {
-    "content": "A háború egyik legfontosabb hosszú távú oka a ____ volt, amely a nagyhatalmak gyarmatszerzésre és világfelosztásra irányuló politikáját jelentette.",
-    "missing": {
-      "choices": [
-        { "content": "liberalizmus", "correct": false },
-        { "content": "szocializmus", "correct": false },
-        { "content": "imperializmus", "correct": true },
-        { "content": "feudalizmus", "correct": false }
-      ]
-    }
+    "sentence": "Az antant hatalmak közé tartozott Franciaország, Nagy-Britannia és ____.",
+    "choices": [
+      { "content": "Oroszország", "correct": true },
+      { "content": "Németország", "correct": false },
+      { "content": "Ausztria", "correct": false },
+      { "content": "Törökország", "correct": false }
+    ]
   },
   {
-    "content": "A nyugati front legjellemzőbb vonása a ____ volt, ahol a katonák embertelen körülmények között vívtak elkeseredett küzdelmet.",
-    "missing": {
-      "choices": [
-        { "content": "mozgékony hadviselés", "correct": false },
-        { "content": "lövészárok-hadviselés", "correct": true },
-        { "content": "városi harc", "correct": false },
-        { "content": "gerillaharc", "correct": false }
-      ]
-    }
+    "sentence": "A háború során először Ypres-nél vetettek be ____.",
+    "choices": [
+      { "content": "harci gázt", "correct": true },
+      { "content": "atombombát", "correct": false },
+      { "content": "radart", "correct": false },
+      { "content": "rakétákat", "correct": false }
+    ]
   },
   {
-    "content": "A háború elhúzódása miatt a gazdaságot teljes mértékben a haditermelés szolgálatába kellett állítani, ezt nevezzük ____.",
-    "missing": {
-      "choices": [
-        { "content": "piacgazdaságnak", "correct": false },
-        { "content": "merkantilizmusnak", "correct": false },
-        { "content": "globalizációnak", "correct": false },
-        { "content": "hadigazdálkodásnak", "correct": true }
-      ]
-    }
+    "sentence": "A hátországban a férfiak helyét a termelésben a ____ vették át.",
+    "choices": [
+      { "content": "nők", "correct": true },
+      { "content": "gyerekek", "correct": false },
+      { "content": "robotok", "correct": false },
+      { "content": "külföldiek", "correct": false }
+    ]
+  },
+  {
+    "sentence": "Olaszország 1915-ben csatlakozott a háborúhoz a(z) ____ oldalán.",
+    "choices": [
+      { "content": "Antant", "correct": true },
+      { "content": "Központi Hatalmak", "correct": false },
+      { "content": "Semlegesek", "correct": false },
+      { "content": "Ázsiaiak", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A(z) ____ hadviselés során nemcsak a katonák, hanem a civil lakosság és a gazdaság is célponttá vált.",
+    "choices": [
+      { "content": "totális", "correct": true },
+      { "content": "lokális", "correct": false },
+      { "content": "középkori", "correct": false },
+      { "content": "diplomáciai", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A britek a(z) ____ segítségével próbálták elvágni Németországot az utánpótlástól.",
+    "choices": [
+      { "content": "tengeri blokád", "correct": true },
+      { "content": "légihíd", "correct": false },
+      { "content": "alagút", "correct": false },
+      { "content": "kereskedelmi egyezmény", "correct": false }
+    ]
+  },
+  {
+    "sentence": "Az I. világháborút lezáró fegyverszünetet ____-ban/ben írták alá.",
+    "choices": [
+      { "content": "1918", "correct": true },
+      { "content": "1919", "correct": false },
+      { "content": "1917", "correct": false },
+      { "content": "1920", "correct": false }
+    ]
   }
 ]

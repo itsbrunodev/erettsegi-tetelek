@@ -1,118 +1,111 @@
 [
   {
-    "question": "Mi volt a Truman-doktrína elsődleges célja?",
-    "reason": "A Truman-doktrína az USA külpolitikájának alapelve lett, amely a kommunizmus terjedésének megakadályozására, azaz a 'feltartóztatására' irányult katonai és gazdasági eszközökkel.",
+    "question": "Melyik évben alakult meg a NATO?",
+    "reason": "A NATO (Észak-atlanti Szerződés Szervezete) 1949-ben jött létre a nyugati államok védelmére.",
     "choices": [
-      { "content": "Európa gazdasági újjáépítése.", "correct": false },
-      { "content": "A Szovjetunió katonai megtámadása.", "correct": false },
-      {
-        "content": "A kommunizmus további terjedésének megakadályozása (feltartóztatás).",
-        "correct": true
-      },
-      { "content": "Az ENSZ létrehozásának felgyorsítása.", "correct": false }
+      { "content": "1945", "correct": false },
+      { "content": "1949", "correct": true },
+      { "content": "1955", "correct": false },
+      { "content": "1962", "correct": false }
     ]
   },
   {
-    "question": "Melyik eseményt tekintik a hidegháború csúcspontjának, amikor a világ a legközelebb került egy nukleáris háborúhoz?",
-    "reason": "A kubai rakétaválság során a két szuperhatalom közvetlenül szembekerült egymással, miután a Szovjetunió atomrakétákat telepített Kubába, az USA pedig tengeri blokáddal válaszolt.",
+    "question": "Ki mondta el a híres fultoni beszédet a vasfüggönyről?",
+    "reason": "Winston Churchill, brit politikus használta először ezt a kifejezést 1946-ban.",
     "choices": [
-      { "content": "A koreai háború kitörése.", "correct": false },
-      { "content": "A berlini fal felépítése.", "correct": false },
-      { "content": "A kubai rakétaválság.", "correct": true },
-      { "content": "A Szovjetunió afganisztáni bevonulása.", "correct": false }
+      { "content": "Harry S. Truman", "correct": false },
+      { "content": "Joszif Sztálin", "correct": false },
+      { "content": "Winston Churchill", "correct": true },
+      { "content": "Franklin D. Roosevelt", "correct": false }
     ]
   },
   {
-    "question": "Mely tényezők játszottak szerepet a kétpólusú világrend kialakulásában a II. világháború után?",
-    "reason": "A hidegháború kiváltó okai összetettek voltak: az alapvető ideológiai különbség, a náci Németország veresége után Európában keletkezett hatalmi vákuum, és a szövetségesek közötti kölcsönös bizalmatlanság egyaránt hozzájárult a szembenálláshoz.",
+    "question": "Mi volt a Truman-elv lényege?",
+    "reason": "A doktrína célja a kommunizmus (szovjet befolyás) feltartóztatása volt.",
     "choices": [
+      { "content": "A Szovjetunió gazdasági támogatása", "correct": false },
+      { "content": "A kommunizmus feltartóztatása", "correct": true },
+      { "content": "Németország újraegyesítése", "correct": false },
+      { "content": "Az atombomba betiltása", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik gazdasági szervezet jött létre a keleti blokkban?",
+    "reason": "A KGST (Kölcsönös Gazdasági Segítség Tanácsa) volt a szovjet érdekszféra gazdasági szervezete.",
+    "choices": [
+      { "content": "EGK", "correct": false },
+      { "content": "KGST", "correct": true },
+      { "content": "Marshall-terv", "correct": false },
+      { "content": "ENSZ", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik esemény történt 1955-ben?",
+    "reason": "Ekkor alakult meg a Varsói Szerződés, a keleti blokk katonai szövetsége.",
+    "choices": [
+      { "content": "A koreai háború vége", "correct": false },
+      { "content": "A berlini fal felépítése", "correct": false },
+      { "content": "Sztálin halála", "correct": false },
+      { "content": "A Varsói Szerződés megalakulása", "correct": true }
+    ]
+  },
+  {
+    "question": "Mi volt a Marshall-terv célja?",
+    "reason": "Az USA pénzügyi segélyt nyújtott Európa háború utáni újjáépítéséhez és a gazdaság stabilizálásához.",
+    "choices": [
+      { "content": "Katonai fegyverkezés támogatása", "correct": false },
+      { "content": "Európa gazdasági újjáépítése", "correct": true },
+      { "content": "A Szovjetunió megsegítése", "correct": false },
+      { "content": "Ázsia gyarmatosítása", "correct": false }
+    ]
+  },
+  {
+    "question": "Mit jelent a bipolaritás a hidegháborúban?",
+    "reason": "Azt a világrendet jelenti, amelyet két szuperhatalom (USA és SZU) szembenállása határoz meg.",
+    "choices": [
+      { "content": "Egyetlen világhatalom uralma", "correct": false },
+      { "content": "Sok egyenrangú nagyhatalom versengése", "correct": false },
+      { "content": "Két szuperhatalom dominanciája", "correct": true },
       {
-        "content": "A kapitalista és a kommunista rendszerek közötti kibékíthetetlen ideológiai ellentét.",
-        "correct": true
-      },
-      { "content": "A gyarmati rendszerek megerősödése.", "correct": false },
+        "content": "A sarkvidékek (pólusok) katonai megszállása",
+        "correct": false
+      }
+    ]
+  },
+  {
+    "question": "Melyik két államra szakadt Németország 1949-ben?",
+    "reason": "Az NSZK (nyugati) és az NDK (keleti, szovjet befolyású) államra.",
+    "choices": [
+      { "content": "Ausztria és Poroszország", "correct": false },
+      { "content": "NSZK és NDK", "correct": true },
+      { "content": "Bajorország és Szászország", "correct": false },
       {
-        "content": "A náci Németország veresége után kialakult hatalmi vákuum Európában.",
-        "correct": true
-      },
-      {
-        "content": "A háború végi konferenciákon (Jalta, Potsdam) felszínre kerülő kölcsönös bizalmatlanság.",
-        "correct": true
+        "content": "Nyugat-Berlin és Kelet-Berlin (csak a város)",
+        "correct": false
       }
     ]
   },
   {
-    "question": "Melyik katonai szövetség jött létre a Szovjetunió és a keleti blokk országainak részvételével, a NATO ellensúlyozására?",
-    "reason": "A Varsói Szerződést 1955-ben hozta létre a Szovjetunió és a csatlós államai, válaszul arra, hogy az NSZK csatlakozott a nyugati katonai szövetséghez, a NATO-hoz.",
+    "question": "Mi jellemezte a keleti blokk politikai rendszerét?",
+    "reason": "A szovjet mintájú egypártrendszer és diktatúra volt a jellemző.",
     "choices": [
-      { "content": "KGST", "correct": false },
-      { "content": "Európai Gazdasági Közösség", "correct": false },
-      { "content": "NATO", "correct": false },
-      { "content": "Varsói Szerződés", "correct": true }
+      { "content": "Alkotmányos monarchia", "correct": false },
+      { "content": "Többpárti demokrácia", "correct": false },
+      { "content": "Egypártrendszerű diktatúra", "correct": true },
+      { "content": "Közvetlen demokrácia", "correct": false }
     ]
   },
   {
-    "question": "Mi volt a Marshall-terv?",
-    "reason": "A Marshall-terv egy amerikai gazdasági segélyprogram volt, amely a háború sújtotta európai országok újjáépítését célozta, ezzel stabilizálva őket és csökkentve a kommunista pártok vonzerejét.",
+    "question": "Mi vetett véget az USA atommonopóliumának?",
+    "reason": "1949-ben a Szovjetunió is sikeresen felrobbantotta első atombombáját.",
     "choices": [
+      { "content": "A hidrogénbomba feltalálása", "correct": false },
       {
-        "content": "Egy katonai stratégia a Szovjetunió lerohanására.",
-        "correct": false
-      },
-      {
-        "content": "Gazdasági segélyprogram Európa újjáépítésére és a kommunizmus visszaszorítására.",
+        "content": "A szovjet atombomba kifejlesztése 1949-ben",
         "correct": true
       },
-      {
-        "content": "A berlini légihíd megszervezésének fedőneve.",
-        "correct": false
-      },
-      {
-        "content": "A kelet-európai országok gazdasági integrációját célzó szovjet program.",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "Winston Churchill 1946-os fultoni beszédében milyen híres kifejezéssel írta le Európa kettéosztottságát?",
-    "reason": "A 'vasfüggöny' metafora tökéletesen szimbolizálta Európa politikai, katonai és ideológiai kettészakadását a nyugati és a szovjet befolyási övezet között.",
-    "choices": [
-      { "content": "Berlini fal", "correct": false },
-      { "content": "Hidegháború", "correct": false },
-      { "content": "Vasfüggöny", "correct": true },
-      { "content": "Feltartóztatás", "correct": false }
-    ]
-  },
-  {
-    "question": "Melyik konfliktus NEM volt a hidegháború ún. 'forró', helyi háborúja?",
-    "reason": "A berlini blokád egy politikai és logisztikai krízis volt, de nem torkollott közvetlen fegyveres összecsapásba a szuperhatalmak erői között, ellentétben a koreai, vietnámi vagy afganisztáni háborúkkal.",
-    "choices": [
-      { "content": "Koreai háború", "correct": false },
-      { "content": "Vietnámi háború", "correct": false },
-      { "content": "Berlini blokád", "correct": true },
-      { "content": "Szovjet invázió Afganisztánban", "correct": false }
-    ]
-  },
-  {
-    "question": "Mi lett a hidegháború egyik legfontosabb hosszú távú következménye?",
-    "reason": "A fegyverkezési verseny gazdaságilag kimerítette a Szovjetuniót, ami a rendszer belső problémáival együtt annak 1991-es összeomlásához vezetett, lezárva a hidegháborút.",
-    "choices": [
-      {
-        "content": "Kína és a Szovjetunió egységének megerősödése.",
-        "correct": false
-      },
-      {
-        "content": "A Szovjetunió gazdasági megerősödése és összeomlása.",
-        "correct": true
-      },
-      {
-        "content": "A gyarmati rendszer teljes helyreállítása.",
-        "correct": false
-      },
-      {
-        "content": "Németország tartós kettéosztottsága a 21. században is.",
-        "correct": false
-      }
+      { "content": "Az atomcsend egyezmény", "correct": false },
+      { "content": "A kubai rakétaválság", "correct": false }
     ]
   }
 ]

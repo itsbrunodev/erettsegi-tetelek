@@ -1,68 +1,92 @@
 [
   {
-    "content": "A forradalom alatt Nagy Imre kormánya november 1-jén bejelentette Magyarország kilépését a Varsói Szerződésből és az ország ____.",
-    "missing": {
-      "choices": [
-        { "content": "csatlakozását az ENSZ-hez", "correct": false },
-        { "content": "semlegességét", "correct": true },
-        { "content": "gazdasági önellátását", "correct": false },
-        { "content": "királysággá alakulását", "correct": false }
-      ]
-    }
+    "sentence": "A forradalom kirobbanásának egyik közvetlen előzménye a szegedi diákok által alapított ____ volt.",
+    "choices": [
+      { "content": "MEFESZ", "correct": true },
+      { "content": "FIDESZ", "correct": false },
+      { "content": "MDF", "correct": false },
+      { "content": "KISZ", "correct": false }
+    ]
   },
   {
-    "content": "A Rákosi-diktatúra terrorszervezete, a gyűlölt politikai rendőrség az ____ volt, melyet a forradalom napjaiban feloszlattak.",
-    "missing": {
-      "choices": [
-        { "content": "Munkásőrség", "correct": false },
-        { "content": "Nemzetőrség", "correct": false },
-        { "content": "ÁVH", "correct": true },
-        { "content": "Petőfi Kör", "correct": false }
-      ]
-    }
+    "sentence": "Október 23-án este a tüntetők ledöntötték a gyűlölt ____ a Városligetben.",
+    "choices": [
+      { "content": "Sztálin-szobrot", "correct": true },
+      { "content": "Lenin-szobrot", "correct": false },
+      { "content": "Turul-szobrot", "correct": false },
+      { "content": "Rákosi-szobrot", "correct": false }
+    ]
   },
   {
-    "content": "A forradalom egyik legelső szimbolikus tette a ____ ledöntése volt Budapesten.",
-    "missing": {
-      "choices": [
-        { "content": "Parlament kupolájának", "correct": false },
-        { "content": "Lánchíd oroszlánjainak", "correct": false },
-        { "content": "Gellért-szobornak", "correct": false },
-        { "content": "Sztálin-szobornak", "correct": true }
-      ]
-    }
+    "sentence": "Nagy Imre október 28-án bejelentette, hogy feloszlatják a rettegett ____-t.",
+    "choices": [
+      { "content": "ÁVH", "correct": true },
+      { "content": "KGB", "correct": false },
+      { "content": "TEK", "correct": false },
+      { "content": "FBI", "correct": false }
+    ]
   },
   {
-    "content": "A forradalom leverése utáni időszakot a brutális ____ jellemezte, melynek során több száz embert kivégeztek.",
-    "missing": {
-      "choices": [
-        { "content": "megtorlás", "correct": true },
-        { "content": "konszolidáció", "correct": false },
-        { "content": "kollektivizálás", "correct": false },
-        { "content": "enyhülés", "correct": false }
-      ]
-    }
+    "sentence": "Magyarország november 1-jén kilépett a(s) ____-ból/ből.",
+    "choices": [
+      { "content": "Varsói Szerződés", "correct": true },
+      { "content": "NATO", "correct": false },
+      { "content": "Európai Unió", "correct": false },
+      { "content": "ENSZ", "correct": false }
+    ]
   },
   {
-    "content": "Az 1989-es rendszerváltás szimbolikus nyitánya volt ____ és mártírtársainak ünnepélyes újratemetése.",
-    "missing": {
-      "choices": [
-        { "content": "Kádár János", "correct": false },
-        { "content": "Maléter Pál", "correct": false },
-        { "content": "Nagy Imre", "correct": true },
-        { "content": "Mindszenty József", "correct": false }
-      ]
-    }
+    "sentence": "A forradalom leverése után ____ János alakított kormányt szovjet támogatással.",
+    "choices": [
+      { "content": "Kádár", "correct": true },
+      { "content": "Rákosi", "correct": false },
+      { "content": "Gerő", "correct": false },
+      { "content": "Horthy", "correct": false }
+    ]
   },
   {
-    "content": "A Kádár-rendszer az 1960-as évektől egyfajta \"életszínvonal-szocializmust\" épített ki, amit gyakran ____ néven emlegettek.",
-    "missing": {
-      "choices": [
-        { "content": "új szakasznak", "correct": false },
-        { "content": "gulyáskommunizmusnak", "correct": true },
-        { "content": "emberarcú szocializmusnak", "correct": false },
-        { "content": "tervgazdálkodásnak", "correct": false }
-      ]
-    }
+    "sentence": "A harcok során a fiatal felkelőket közkeletű néven ____-nak/nek hívták.",
+    "choices": [
+      { "content": "pesti srácok", "correct": true },
+      { "content": "vörös katonák", "correct": false },
+      { "content": "nemzetőrök", "correct": false },
+      { "content": "betyárok", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A forradalom leverése után közel 200 ezer magyar ____ nyugatra.",
+    "choices": [
+      { "content": "emigrált", "correct": true },
+      { "content": "utazott", "correct": false },
+      { "content": "nyaralt", "correct": false },
+      { "content": "disszidált", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A Köztársaság téren a felkelők megostromolták a(z) ____ székházát.",
+    "choices": [
+      { "content": "párt", "correct": true },
+      { "content": "kormány", "correct": false },
+      { "content": "rendőrség", "correct": false },
+      { "content": "tűzoltóság", "correct": false }
+    ]
+  },
+  {
+    "sentence": "Mindszenty József ____ a forradalom napjaiban kiszabadult a fogságból.",
+    "choices": [
+      { "content": "bíboros", "correct": true },
+      { "content": "miniszter", "correct": false },
+      { "content": "tábornok", "correct": false },
+      { "content": "író", "correct": false }
+    ]
+  },
+  {
+    "sentence": "Az 1956-os események célja a szovjet megszállás megszüntetése és a nemzeti ____ visszaszerzése volt.",
+    "choices": [
+      { "content": "függetlenség", "correct": true },
+      { "content": "területek", "correct": false },
+      { "content": "vagyon", "correct": false },
+      { "content": "hadsereg", "correct": false }
+    ]
   }
 ]

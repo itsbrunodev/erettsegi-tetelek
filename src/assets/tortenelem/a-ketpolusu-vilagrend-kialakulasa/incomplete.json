@@ -1,74 +1,92 @@
 [
   {
-    "content": "Az USA Truman elnök által meghirdetett külpolitikája, a ____ célja a kommunizmus további terjedésének megakadályozása volt.",
-    "missing": {
-      "choices": [
-        { "content": "Marshall-terv", "correct": false },
-        { "content": "neokolonializmus", "correct": false },
-        { "content": "békés egymás mellett élés", "correct": false },
-        {
-          "content": "feltartóztatás (containment)",
-          "correct": true
-        }
-      ]
-    }
+    "sentence": "A hidegháború a két ____, az USA és a Szovjetunió közötti feszült viszony volt.",
+    "choices": [
+      { "content": "szuperhatalom", "correct": true },
+      { "content": "gyarmatbirodalom", "correct": false },
+      { "content": "városállam", "correct": false },
+      { "content": "szövetséges", "correct": false }
+    ]
   },
   {
-    "content": "1949-ben a nyugati hatalmak létrehozták a ____ nevű katonai-védelmi szövetséget az USA vezetésével.",
-    "missing": {
-      "choices": [
-        { "content": "Varsói Szerződést", "correct": false },
-        { "content": "NATO-t", "correct": true },
-        { "content": "KGST-t", "correct": false },
-        { "content": "ENSZ-t", "correct": false }
-      ]
-    }
+    "sentence": "Churchill szerint Stettintől Triesztig egy ____ ereszkedett le Európára.",
+    "choices": [
+      { "content": "vasfüggöny", "correct": true },
+      { "content": "békeszerződés", "correct": false },
+      { "content": "kereskedelmi út", "correct": false },
+      { "content": "védőfal", "correct": false }
+    ]
   },
   {
-    "content": "A ____ során a világ az atomháború szélére sodródott, miután a Szovjetunió atomrakétákat telepített Kubába.",
-    "missing": {
-      "choices": [
-        { "content": "berlini blokád", "correct": false },
-        { "content": "koreai háború", "correct": false },
-        { "content": "kubai rakétaválság", "correct": true },
-        { "content": "vietnámi háború", "correct": false }
-      ]
-    }
+    "sentence": "A(z) ____ célja a kommunizmus terjedésének megállítása volt.",
+    "choices": [
+      { "content": "Truman-elv", "correct": true },
+      { "content": "Monroe-elv", "correct": false },
+      { "content": "Molotov-terv", "correct": false },
+      { "content": "Brezsnyev-doktrína", "correct": false }
+    ]
   },
   {
-    "content": "A hidegháború egyik mellékterméke volt a technológiai-tudományos versengés, amely leglátványosabban az ____-ben csúcsosodott ki.",
-    "missing": {
-      "choices": [
-        { "content": "orvostudományban", "correct": false },
-        { "content": "agrárforradalomban", "correct": false },
-        { "content": "űrversenyben", "correct": true },
-        { "content": "környezetvédelemben", "correct": false }
-      ]
-    }
+    "sentence": "A Marshall-terv ____ segítséget nyújtott az európai országoknak.",
+    "choices": [
+      { "content": "gazdasági", "correct": true },
+      { "content": "kulturális", "correct": false },
+      { "content": "vallási", "correct": false },
+      { "content": "sport", "correct": false }
+    ]
   },
   {
-    "content": "A hidegháború végét és a kétpólusú világrend felbomlását az 1991-es ____ szimbolizálja.",
-    "missing": {
-      "choices": [
-        { "content": "berlini fal leomlása", "correct": false },
-        { "content": "Szovjetunió felbomlása", "correct": true },
-        { "content": "NATO megalakulása", "correct": false },
-        { "content": "kubai forradalom", "correct": false }
-      ]
-    }
+    "sentence": "1949-ben jött létre a nyugati katonai szövetség, a(z) ____.",
+    "choices": [
+      { "content": "NATO", "correct": true },
+      { "content": "ENSZ", "correct": false },
+      { "content": "Varsói Szerződés", "correct": false },
+      { "content": "Népszövetség", "correct": false }
+    ]
   },
   {
-    "content": "A nyugati és keleti tömb gazdasági integrációi párhuzamosan jöttek létre: Nyugaton az Európai Gazdasági Közösség, Keleten pedig a ____.",
-    "missing": {
-      "choices": [
-        { "content": "Varsói Szerződés", "correct": false },
-        { "content": "NATO", "correct": false },
-        { "content": "Marshall-terv", "correct": false },
-        {
-          "content": "Kölcsönös Gazdasági Segítség Tanácsa (KGST)",
-          "correct": true
-        }
-      ]
-    }
+    "sentence": "A keleti blokk válasza a NATO-ra a(z) ____ megalakítása volt 1955-ben.",
+    "choices": [
+      { "content": "Varsói Szerződés", "correct": true },
+      { "content": "Párizsi Béke", "correct": false },
+      { "content": "KGST", "correct": false },
+      { "content": "Kominform", "correct": false }
+    ]
+  },
+  {
+    "sentence": "Németország nyugati felén alakult meg a(z) ____.",
+    "choices": [
+      { "content": "NSZK", "correct": true },
+      { "content": "NDK", "correct": false },
+      { "content": "Német Birodalom", "correct": false },
+      { "content": "Weimar", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A keleti országokban a kommunista pártok ____ építettek ki.",
+    "choices": [
+      { "content": "egypártrendszert", "correct": true },
+      { "content": "királyságot", "correct": false },
+      { "content": "demokráciát", "correct": false },
+      { "content": "szabad piacot", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A koreai háború volt az első ____ fegyveres konfliktus a hidegháborúban.",
+    "choices": [
+      { "content": "jelentős", "correct": true },
+      { "content": "európai", "correct": false },
+      { "content": "atomfegyverrel vívott", "correct": false },
+      { "content": "békés", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A kétpólusú világban a felek kerülték a(z)____ összecsapást.",
+    "choices": [
+      { "content": "közvetlen", "correct": true },
+      { "content": "gazdasági", "correct": false },
+      { "content": "diplomáciai", "correct": false },
+      { "content": "szóbeli", "correct": false }
+    ]
   }
 ]

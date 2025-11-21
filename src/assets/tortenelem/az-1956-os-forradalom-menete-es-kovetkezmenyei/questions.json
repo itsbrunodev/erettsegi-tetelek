@@ -1,124 +1,111 @@
 [
   {
-    "question": "Mely esemény váltotta ki közvetlenül, hogy az 1956. október 23-i békés tüntetés fegyveres felkelésbe csapott át?",
-    "reason": "A fegyveres harc akkor kezdődött, amikor a Magyar Rádió épületénél az Államvédelmi Hatóság (ÁVH) fegyvertelenül tüntető tömegbe lőtt, amely a követeléseik beolvasását szerette volna elérni.",
+    "question": "Melyik esemény jelentette a fegyveres felkelés kezdetét 1956. október 23-án?",
+    "reason": "A Magyar Rádió ostroma volt az első alkalom, ahol az ÁVH a tömegbe lőtt, és a tüntetők fegyvert szereztek a védekezéshez.",
     "choices": [
+      { "content": "Nagy Imre beszéde a Parlamentnél", "correct": false },
+      { "content": "A Magyar Rádió ostroma", "correct": true },
+      { "content": "A szovjet csapatok bevonulása", "correct": false },
+      { "content": "Mindszenty József kiszabadítása", "correct": false }
+    ]
+  },
+  {
+    "question": "Mit tartalmazott a MEFESZ 16 pontja?",
+    "reason": "A diákok követelései között szerepelt a többpártrendszer, a szovjet csapatok kivonása és a nemzeti függetlenség.",
+    "choices": [
+      { "content": "A kommunista párt megerősítését", "correct": false },
+      { "content": "Csak gazdasági reformokat", "correct": false },
       {
-        "content": "A Sztálin-szobor ledöntése a Dózsa György úton.",
-        "correct": false
-      },
-      { "content": "Nagy Imre beszéde a Parlament előtt.", "correct": false },
-      {
-        "content": "Az ÁVH tüzet nyitott a tömegre a Magyar Rádió épületénél.",
+        "content": "A nemzeti függetlenséget és demokratikus reformokat",
         "correct": true
       },
-      {
-        "content": "A szovjet csapatok bevonulása Budapestre.",
-        "correct": false
-      }
+      { "content": "A Varsói Szerződés megerősítését", "correct": false }
     ]
   },
   {
-    "question": "Mi volt a \"Forgószél\" hadművelet célja?",
-    "reason": "A \"Forgószél\" volt a fedőneve annak a nagyszabású szovjet katonai offenzívának, amely 1956. november 4-én indult a magyar forradalom és szabadságharc teljes katonai felszámolására.",
+    "question": "Mi történt 1956. október 25-én, a 'Véres csütörtökön'?",
+    "reason": "A Kossuth téren a békés tüntetők közé lőttek a háztetőkről, ami radikalizálta a forradalmat.",
     "choices": [
+      { "content": "Sortűz a Kossuth téren", "correct": true },
+      { "content": "Ledöntötték a Sztálin-szobrot", "correct": false },
+      { "content": "Nagy Imre lemondott", "correct": false },
+      { "content": "Kádár János megalakította kormányát", "correct": false }
+    ]
+  },
+  {
+    "question": "Milyen fontos bejelentést tett Nagy Imre november 1-jén?",
+    "reason": "Válaszul a szovjet csapatmozgásokra, Magyarország kilépett a Varsói Szerződésből és deklarálta semlegességét.",
+    "choices": [
+      { "content": "Hadiállapotot hirdetett az USA ellen", "correct": false },
       {
-        "content": "A szovjet csapatok kivonása Magyarországról.",
-        "correct": false
-      },
-      {
-        "content": "Nagy Imre kormányának hatalomra segítése.",
-        "correct": false
-      },
-      {
-        "content": "A magyar forradalom és szabadságharc katonai leverése.",
+        "content": "Bejelentette a semlegességet és a kilépést a Varsói Szerződésből",
         "correct": true
       },
-      { "content": "Az osztrák-magyar határ lezárása.", "correct": false }
+      { "content": "Lemondott a miniszterelnökségről", "correct": false },
+      { "content": "Csatlakozott a NATO-hoz", "correct": false }
     ]
   },
   {
-    "question": "Melyek tartoztak az 1956-os forradalom legfontosabb politikai követelései és vívmányai közé a győzelem napjaiban?",
-    "reason": "A forradalom győztes napjaiban Nagy Imre kormánya bejelentette a többpártrendszer visszaállítását, Magyarország semlegességét és a Varsói Szerződésből való kilépését, amelyek a tüntetők legfőbb követelései között szerepeltek.",
+    "question": "Ki volt a forradalom katonai vezetője, akit tőrbe csaltak a szovjetek?",
+    "reason": "Maléter Pál honvédelmi minisztert a tárgyalások során tartóztatták le a szovjetek Tökölön.",
     "choices": [
-      { "content": "A többpártrendszer visszaállítása.", "correct": true },
-      { "content": "A tervgazdálkodás megerősítése.", "correct": false },
-      {
-        "content": "Magyarország semlegességének kinyilvánítása.",
-        "correct": true
-      },
-      { "content": "Az ÁVH jogköreinek kibővítése.", "correct": false }
-    ]
-  },
-  {
-    "question": "Ki volt az a politikus, aki a forradalom alatt Nagy Imre kormányának tagja volt, de november 4-e után a szovjetek oldalára állva megalakította az új bábkormányt?",
-    "reason": "Kádár János, aki a forradalmi kormányban is részt vett, titokban Moszkvába utazott, és a szovjet beavatkozás után az ő vezetésével alakult meg az új, Moszkva-barát kormány, amely a megtorlást irányította.",
-    "choices": [
-      { "content": "Maléter Pál", "correct": false },
-      { "content": "Rákosi Mátyás", "correct": false },
-      { "content": "Gerő Ernő", "correct": false },
-      { "content": "Kádár János", "correct": true }
-    ]
-  },
-  {
-    "question": "Melyik nemzetközi esemény vonta el a világ figyelmét a magyar forradalomról 1956 október-novemberében?",
-    "reason": "Az egy időben zajló szuezi válság megosztotta a nyugati nagyhatalmakat és elterelte a politikai és sajtófigyelmet a magyar eseményekről, hozzájárulva a Nyugat passzivitásához.",
-    "choices": [
-      { "content": "A koreai háború kezdete.", "correct": false },
-      { "content": "A szuezi válság.", "correct": true },
-      { "content": "A kubai rakétaválság.", "correct": false },
-      { "content": "A berlini fal felépítése.", "correct": false }
-    ]
-  },
-  {
-    "question": "A forradalom leverése utáni megtorlások során, 1958. június 16-án kivégezték a forradalom miniszterelnökét. Ki volt ő?",
-    "reason": "Nagy Imrét, a forradalom törvényes miniszterelnökét egy titkos perben halálra ítélték és 1958. június 16-án kivégezték Maléter Pállal és Gimes Miklóssal együtt.",
-    "choices": [
-      { "content": "Mindszenty József", "correct": false },
       { "content": "Kádár János", "correct": false },
-      { "content": "Nagy Imre", "correct": true },
-      { "content": "Rajk László", "correct": false }
+      { "content": "Rákosi Mátyás", "correct": false },
+      { "content": "Maléter Pál", "correct": true },
+      { "content": "Kopácsi Sándor", "correct": false }
     ]
   },
   {
-    "question": "Milyen hosszú távú hatása volt az 1956-os forradalomnak a magyar történelemre?",
-    "reason": "Az 1956-os eszmék (függetlenség, demokrácia) a Kádár-korszak alatt is a nemzeti emlékezet részei maradtak, és az 1989-es rendszerváltás legfontosabb történelmi hivatkozási pontjává, legitimációs alapjává váltak.",
+    "question": "Mi volt a 'pesti srácok' szerepe?",
+    "reason": "Ők voltak azok a fiatal felkelők, akik fegyveresen harcoltak a szovjet tankok ellen Budapest utcáin.",
     "choices": [
+      { "content": "A pártvezetés fiatal tagjai", "correct": false },
       {
-        "content": "Véglegesen megszilárdította a sztálinista típusú diktatúrát.",
+        "content": "Békés tüntetők, akik nem fogtak fegyvert",
         "correct": false
       },
-      {
-        "content": "Elvezetett Magyarország azonnali NATO-csatlakozásához.",
-        "correct": false
-      },
-      {
-        "content": "Hivatkozási alapot és erkölcsi tőkét jelentett az 1989-es rendszerváltáshoz.",
-        "correct": true
-      },
-      {
-        "content": "Eredményeként az ország gazdaságilag megelőzte a nyugati államokat.",
-        "correct": false
-      }
+      { "content": "Fiatal fegyveres felkelők", "correct": true },
+      { "content": "Külföldi önkéntesek", "correct": false }
     ]
   },
   {
-    "question": "Mi volt az ÁVH?",
-    "reason": "Az Államvédelmi Hatóság a Rákosi-korszak politikai rendőrsége volt, amely a kommunista párt hatalmát terrorral, megfélemlítéssel, koncepciós perekkel és internálótáborok működtetésével biztosította. A forradalom egyik leggyűlöltebb intézménye volt.",
+    "question": "Melyik nemzetközi konfliktus vonta el a Nyugat figyelmét a magyar forradalomról?",
+    "reason": "A szuezi válság (Egyiptom ellen indított brit-francia-izraeli támadás) miatt a nagyhatalmak figyelme megoszlott.",
     "choices": [
-      { "content": "A kormány kulturális bizottsága.", "correct": false },
-      {
-        "content": "A kommunista párt politikai rendőrsége, a terror legfőbb eszköze.",
-        "correct": true
-      },
-      {
-        "content": "A Varsói Szerződés magyarországi parancsnoksága.",
-        "correct": false
-      },
-      {
-        "content": "A forradalmárok által létrehozott fegyveres testület.",
-        "correct": false
-      }
+      { "content": "A koreai háború", "correct": false },
+      { "content": "A szuezi válság", "correct": true },
+      { "content": "A kubai rakétaválság", "correct": false },
+      { "content": "A vietnámi háború", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi lett Nagy Imre sorsa a forradalom után?",
+    "reason": "A megtorlás során koncepciós perben halálra ítélték és 1958. június 16-án kivégezték.",
+    "choices": [
+      { "content": "Emigrált Ausztriába", "correct": false },
+      { "content": "Kádár János minisztere lett", "correct": false },
+      { "content": "Kivégezték 1958-ban", "correct": true },
+      { "content": "Házi őrizetben élt haláláig", "correct": false }
+    ]
+  },
+  {
+    "question": "Hogyan nevezte a Kádár-rendszer évtizedekig 1956-ot?",
+    "reason": "A rendszer legitimitása érdekében ellenforradalomnak bélyegezték az eseményeket.",
+    "choices": [
+      { "content": "Szabadságharc", "correct": false },
+      { "content": "Népfelkelés", "correct": false },
+      { "content": "Sajnálatos októberi események", "correct": false },
+      { "content": "Ellenforradalom", "correct": true }
+    ]
+  },
+  {
+    "question": "Mikor indult a 'Forgószél' hadművelet, azaz az általános szovjet támadás?",
+    "reason": "November 4-én hajnalban indult meg a szovjet hadsereg elsöprő erejű támadása Budapest és az ország ellen.",
+    "choices": [
+      { "content": "Október 23.", "correct": false },
+      { "content": "Október 30.", "correct": false },
+      { "content": "November 4.", "correct": true },
+      { "content": "November 11.", "correct": false }
     ]
   }
 ]
