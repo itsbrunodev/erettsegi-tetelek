@@ -1,68 +1,92 @@
 [
   {
-    "content": "Az 1848-as magyar forradalom az európai ____ szerves része volt.",
-    "missing": {
-      "choices": [
-        { "content": "„Szent Szövetségének”", "correct": false },
-        { "content": "„népek tavaszának”", "correct": true },
-        { "content": "„ipari forradalmának”", "correct": false },
-        { "content": "„felvilágosodásának”", "correct": false }
-      ]
-    }
+    "sentence": "A márciusi ifjak egyik legfontosabb vezetője és a Nemzeti Dal szerzője ____ volt.",
+    "choices": [
+      { "content": "Petőfi Sándor", "correct": true },
+      { "content": "Jókai Mór", "correct": false },
+      { "content": "Vasvári Pál", "correct": false },
+      { "content": "Irinyi József", "correct": false }
+    ]
   },
   {
-    "content": "A pozsonyi országgyűlésen Kossuth egy átfogó programot terjesztett elő: jobbágyfelszabadítás, közteherviselés és ____ kormányzás.",
-    "missing": {
-      "choices": [
-        { "content": "abszolutista", "correct": false },
-        { "content": "rendi", "correct": false },
-        { "content": "alkotmányos", "correct": true },
-        { "content": "katonai", "correct": false }
-      ]
-    }
+    "sentence": "A 12 pont kinyomtatása a cenzúra mellőzésével a ____ nyomdában történt.",
+    "choices": [
+      { "content": "Trattner", "correct": false },
+      { "content": "Landerer", "correct": true },
+      { "content": "Egyetemi", "correct": false },
+      { "content": "Királyi", "correct": false }
+    ]
   },
   {
-    "content": "Március 15-én a pesti tömeg a Helytartótanáccsal is elfogadtatta követeléseit, és kiszabadították börtönéből ____.",
-    "missing": {
-      "choices": [
-        { "content": "Kossuth Lajost", "correct": false },
-        { "content": "Wesselényi Miklóst", "correct": false },
-        { "content": "Lovassy Lászlót", "correct": false },
-        { "content": "Táncsics Mihályt", "correct": true }
-      ]
-    }
+    "sentence": "A börtönéből kiszabadított politikai fogoly, akit a tömeg ünnepelt, ____ volt.",
+    "choices": [
+      { "content": "Táncsics Mihály", "correct": true },
+      { "content": "Wesselényi Miklós", "correct": false },
+      { "content": "Lovassy László", "correct": false },
+      { "content": "Kossuth Lajos", "correct": false }
+    ]
   },
   {
-    "content": "V. Ferdinánd király 1848. április 11-én ____ az országgyűlés által kidolgozott áprilisi törvényeket.",
-    "missing": {
-      "choices": [
-        { "content": "szentesítette", "correct": true },
-        { "content": "elutasította", "correct": false },
-        { "content": "megvétózta", "correct": false },
-        { "content": "felülvizsgálatra visszaküldte", "correct": false }
-      ]
-    }
+    "sentence": "A pákozdi csatában a magyar honvédsereg parancsnoka ____ volt.",
+    "choices": [
+      { "content": "Görgei Artúr", "correct": false },
+      { "content": "Móga János", "correct": true },
+      { "content": "Bem József", "correct": false },
+      { "content": "Damjanich János", "correct": false }
+    ]
   },
   {
-    "content": "A magyar kormány nem biztosított kollektív jogokat és autonómiát a ____, akiknek elégedetlenségét a bécsi udvar kihasználta.",
-    "missing": {
-      "choices": [
-        { "content": "nemességnek", "correct": false },
-        { "content": "jobbágyságnak", "correct": false },
-        { "content": "nemzetiségeknek", "correct": true },
-        { "content": "papságnak", "correct": false }
-      ]
-    }
+    "sentence": "Kossuth Lajos július 11-én 200 000 újoncot és ____ forint hitelt kért a haza védelmére.",
+    "choices": [
+      { "content": "10 millió", "correct": false },
+      { "content": "42 millió", "correct": true },
+      { "content": "100 millió", "correct": false },
+      { "content": "5 millió", "correct": false }
+    ]
   },
   {
-    "content": "Jellačić támadása után a végrehajtó hatalmat az Országos Honvédelmi Bizottmány vette át, ____ vezetésével.",
-    "missing": {
-      "choices": [
-        { "content": "Batthyány Lajos", "correct": false },
-        { "content": "Széchenyi István", "correct": false },
-        { "content": "Görgei Artúr", "correct": false },
-        { "content": "Kossuth Lajos", "correct": true }
-      ]
-    }
+    "sentence": "Az áprilisi törvények kimondták Magyarország és ____ egyesítését, azaz az uniót.",
+    "choices": [
+      { "content": "Horvátország", "correct": false },
+      { "content": "Erdély", "correct": true },
+      { "content": "Dalmácia", "correct": false },
+      { "content": "Galícia", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A március 15-i események gyülekezőhelye a ____ kávéház volt.",
+    "choices": [
+      { "content": "New York", "correct": false },
+      { "content": "Gerbeaud", "correct": false },
+      { "content": "Pilvax", "correct": true },
+      { "content": "Centrál", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A bécsi udvar politikáját a 'divide et impera', azaz az '____' elv jellemezte.",
+    "choices": [
+      { "content": "élni és élni hagyni", "correct": false },
+      { "content": "oszd meg és uralkodj", "correct": true },
+      { "content": "cél szentesíti az eszközt", "correct": false },
+      { "content": "egységben az erő", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A nemzetiségek ellenállását a ____ elutasítása is szította.",
+    "choices": [
+      { "content": "vallásszabadság", "correct": false },
+      { "content": "kollektív jogok", "correct": true },
+      { "content": "jobbágyfelszabadítás", "correct": false },
+      { "content": "közteherviselés", "correct": false }
+    ]
+  },
+  {
+    "sentence": "Az önálló magyar pénzügyek megteremtése érdekében bocsátották ki a ____-bankókat.",
+    "choices": [
+      { "content": "Széchenyi", "correct": false },
+      { "content": "Deák", "correct": false },
+      { "content": "Kossuth", "correct": true },
+      { "content": "Petőfi", "correct": false }
+    ]
   }
 ]

@@ -1,118 +1,111 @@
 [
   {
-    "question": "Melyik külső esemény adott közvetlen lökést a pesti forradalom kirobbanásához 1848. március 15-én?",
-    "reason": "A bécsi forradalom híre (március 13.) érkezett meg Pestre, ami cselekvésre ösztönözte a radikális ifjúságot, hiszen a birodalmi központban is meggyengült a hatalom.",
+    "question": "Mikor mondta el Kossuth Lajos híres felirati javaslatát, amely elindította az eseményeket?",
+    "reason": "Kossuth március 3-án tartotta beszédét a pozsonyi országgyűlésen, a párizsi forradalom hírére.",
     "choices": [
-      { "content": "A párizsi forradalom híre", "correct": false },
-      { "content": "Kossuth március 3-i felirati javaslata", "correct": false },
-      {
-        "content": "A bécsi forradalom és Metternich kancellár bukásának híre",
-        "correct": true
-      },
-      { "content": "Jellačić támadásának megindulása", "correct": false }
+      { "content": "1848. március 15.", "correct": false },
+      { "content": "1848. március 3.", "correct": true },
+      { "content": "1848. április 11.", "correct": false },
+      { "content": "1848. szeptember 29.", "correct": false }
     ]
   },
   {
-    "question": "Ki volt az 1848 áprilisában felállt első felelős magyar kormány miniszterelnöke?",
-    "reason": "Gróf Batthyány Lajos kapott megbízást V. Ferdinándtól a kormányalakításra, és ő lett az első magyar miniszterelnök, aki a törvényes megoldást kereste Béccsel.",
+    "question": "Ki volt Magyarország első felelős miniszterelnöke?",
+    "reason": "V. Ferdinánd Batthyány Lajost nevezte ki miniszterelnöknek március 17-én.",
     "choices": [
       { "content": "Kossuth Lajos", "correct": false },
-      { "content": "Gróf Batthyány Lajos", "correct": true },
-      { "content": "Petőfi Sándor", "correct": false },
-      { "content": "Széchenyi István", "correct": false }
+      { "content": "Szemere Bertalan", "correct": false },
+      { "content": "Batthyány Lajos", "correct": true },
+      { "content": "Deák Ferenc", "correct": false }
     ]
   },
   {
-    "question": "Melyik dokumentumot nyomtatták ki cenzúra nélkül március 15-én, amely a forradalom legfontosabb polgári követeléseit foglalta össze?",
-    "reason": "A 12 pont volt a pesti radikális ifjúság programja, amely olyan követeléseket tartalmazott, mint a sajtószabadság, felelős minisztérium és közteherviselés.",
-    "choices": [
-      { "content": "A Nemzeti dalt", "correct": false },
-      { "content": "Az áprilisi törvényeket", "correct": false },
-      { "content": "A 12 pontot", "correct": true },
-      { "content": "Kossuth felirati javaslatát", "correct": false }
-    ]
-  },
-  {
-    "question": "Mely tényezők játszottak kulcsszerepet a bécsi udvar és a magyar kormány közötti konfliktus kiéleződésében 1848 nyarán?",
-    "reason": "Az önálló magyar had- és pénzügy sértette a birodalmi érdekeket, a nemzetiségek autonómiatörekvéseit pedig a bécsi udvar a magyar kormány ellen használta fel.",
+    "question": "Mit tartalmaztak az áprilisi törvények a jobbágyokkal kapcsolatban?",
+    "reason": "A törvények kötelező örökváltságot írtak elő, azaz a jobbágyok megkapták a földet, a nemeseket pedig az állam kártalanította.",
     "choices": [
       {
-        "content": "Az önálló magyar had- és pénzügy kérdése.",
+        "content": "A jobbágyság intézményének megerősítését",
+        "correct": false
+      },
+      { "content": "Önkéntes örökváltságot", "correct": false },
+      {
+        "content": "Kötelező örökváltságot állami kárpótlással",
         "correct": true
       },
+      { "content": "A robotkötelezettség növelését", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik testület vette át a végrehajtó hatalmat Batthyány lemondása után?",
+    "reason": "A kormány lemondása után az Országos Honvédelmi Bizottmány (OHB) vette át az irányítást.",
+    "choices": [
+      { "content": "Helytartótanács", "correct": false },
+      { "content": "Országos Honvédelmi Bizottmány (OHB)", "correct": true },
+      { "content": "Nemzeti Igazgatóság", "correct": false },
+      { "content": "Haditanács", "correct": false }
+    ]
+  },
+  {
+    "question": "Ki támadta meg Magyarországot 1848 szeptemberében?",
+    "reason": "Josip Jelačić horvát bán lépte át a Drávát seregével szeptember 11-én.",
+    "choices": [
+      { "content": "Windisch-Grätz", "correct": false },
+      { "content": "Haynau", "correct": false },
+      { "content": "Josip Jelačić", "correct": true },
+      { "content": "Ferenc József", "correct": false }
+    ]
+  },
+  {
+    "question": "Hol aratott győzelmet a magyar sereg Jelačić felett?",
+    "reason": "A döntő csata Pákozdnál zajlott 1848. szeptember 29-én.",
+    "choices": [
+      { "content": "Isaszeg", "correct": false },
+      { "content": "Pákozd", "correct": true },
+      { "content": "Schwechat", "correct": false },
+      { "content": "Temesvár", "correct": false }
+    ]
+  },
+  {
+    "question": "Melyik városban törtek ki a forradalmi események március 15-én?",
+    "reason": "A forradalom Pesten (Pest-Budán) zajlott.",
+    "choices": [
+      { "content": "Pozsony", "correct": false },
+      { "content": "Bécs", "correct": false },
+      { "content": "Debrecen", "correct": false },
+      { "content": "Pest", "correct": true }
+    ]
+  },
+  {
+    "question": "Mit jelent a cenzusos választójog fogalma?",
+    "reason": "A választójogot nem a származás, hanem vagyoni vagy műveltségi feltételek határozták meg.",
+    "choices": [
+      { "content": "Mindenki szavazhat", "correct": false },
+      { "content": "Csak a nemesek szavazhatnak", "correct": false },
       {
-        "content": "A jobbágyfelszabadítás elutasítása a magyar kormány által.",
-        "correct": false
-      },
-      {
-        "content": "A nemzetiségi kérdés és a bécsi udvar nemzetiségeket támogató politikája.",
+        "content": "Vagyoni vagy műveltségi feltételhez kötött választójog",
         "correct": true
       },
-      {
-        "content": "Az első népképviseleti országgyűlés összehívása.",
-        "correct": false
-      }
+      { "content": "Csak a városi polgárok szavazhatnak", "correct": false }
     ]
   },
   {
-    "question": "Ki vezette azt a császári támogatással induló hadsereget, amely 1848. szeptember 11-én átlépte a Drávát, és ezzel megkezdte a fegyveres támadást Magyarország ellen?",
-    "reason": "Josip Jellačić horvát bán volt az, aki a bécsi udvar felhatalmazásával, de hadüzenet nélkül támadást indított, ami a konfliktust szabadságharccá változtatta.",
+    "question": "Melyik uralkodó szentesítette az áprilisi törvényeket?",
+    "reason": "V. Ferdinánd volt az uralkodó 1848 áprilisában (később mondatták le Ferenc József javára).",
     "choices": [
-      { "content": "Windisch-Grätz herceg", "correct": false },
-      { "content": "Radetzky marsall", "correct": false },
-      { "content": "Metternich kancellár", "correct": false },
-      { "content": "Josip Jellačić bán", "correct": true }
+      { "content": "Ferenc József", "correct": false },
+      { "content": "II. Lipót", "correct": false },
+      { "content": "V. Ferdinánd", "correct": true },
+      { "content": "IV. Károly", "correct": false }
     ]
   },
   {
-    "question": "Melyik testület vette át a végrehajtó hatalmat Magyarországon a Batthyány-kormány lemondása és Jellačić támadása után?",
-    "reason": "A támadásra válaszul a védelem megszervezésére jött létre az Országos Honvédelmi Bizottmány (OHB), melynek vezetője Kossuth Lajos lett.",
+    "question": "Mi volt a közteherviselés lényege?",
+    "reason": "A közteherviselés azt jelentette, hogy a nemesség adómentessége megszűnt, és ők is kötelesek voltak adót fizetni.",
     "choices": [
-      { "content": "A Helytartótanács", "correct": false },
-      { "content": "A Pilvax kávéház forradalmi bizottsága", "correct": false },
-      { "content": "Az Országos Honvédelmi Bizottmány (OHB)", "correct": true },
-      { "content": "Egy császári katonai kormányzóság", "correct": false }
-    ]
-  },
-  {
-    "question": "Mi volt az áprilisi törvények legfőbb eredménye?",
-    "reason": "Az áprilisi törvények az utolsó rendi országgyűlés által alkotott törvénycsomag volt, amely felszámolta a feudalizmust és Magyarországot polgári, alkotmányos monarchiává alakította.",
-    "choices": [
-      {
-        "content": "A Habsburg Birodalomtól való teljes elszakadás.",
-        "correct": false
-      },
-      {
-        "content": "A feudalizmus lebontása és a polgári-alkotmányos állam alapjainak lerakása.",
-        "correct": true
-      },
-      {
-        "content": "A nemzetiségek számára teljes területi autonómia biztosítása.",
-        "correct": false
-      },
-      { "content": "A köztársasági államforma bevezetése.", "correct": false }
-    ]
-  },
-  {
-    "question": "Mi volt az 1848. szeptember 29-i pákozdi csata jelentősége?",
-    "reason": "A pákozdi csata volt az újonnan felállított honvédsereg első komoly katonai sikere, ahol megállították Jellačić Pest felé vonuló seregét, bizonyítva a fegyveres ellenállás képességét.",
-    "choices": [
-      {
-        "content": "Itt győzte le a császári sereg véglegesen a magyar honvédséget.",
-        "correct": false
-      },
-      {
-        "content": "Ezzel a csatával ért véget a forradalom.",
-        "correct": false
-      },
-      {
-        "content": "A Batthyány-kormány itt kötött fegyverszünetet az osztrákokkal.",
-        "correct": false
-      },
-      {
-        "content": "Ez volt a magyar honvédsereg első győzelme, amely megállította Jellačić előrenyomulását.",
-        "correct": true
-      }
+      { "content": "A nemeseknek is adót kell fizetniük", "correct": true },
+      { "content": "Csak a parasztok fizetnek adót", "correct": false },
+      { "content": "Az egyház adómentessége", "correct": false },
+      { "content": "Katonai szolgálat megváltása pénzzel", "correct": false }
     ]
   }
 ]
