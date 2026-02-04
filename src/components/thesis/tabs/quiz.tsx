@@ -156,13 +156,11 @@ export function ThesisQuiz({
     return "secondary";
   };
 
-  console.log("ASSAD");
-
   const isCheckButtonDisabled =
     totalQuestions !== selectedAnswers.size || isSubmitted;
 
   return (
-    <div className="flex flex-col gap-8">
+    <div className="flex flex-col gap-8 text-base">
       {data.map((element, index) => {
         // incomplete
         if ("sentence" in element) {
@@ -242,7 +240,7 @@ export function ThesisQuiz({
             <ButtonGroup className="w-full" orientation="vertical">
               {element.choices.map((choice) => (
                 <Button
-                  className="wrap-break-word h-fit w-full justify-start whitespace-pre-wrap text-start font-normal transition-colors"
+                  className="wrap-break-word w-full justify-start whitespace-pre-wrap text-start font-normal transition-colors"
                   variant={getButtonVariant(element.question, choice)}
                   key={choice.content}
                   onClick={() =>

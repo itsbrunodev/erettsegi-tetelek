@@ -49,22 +49,31 @@ export function ThesisTabs({
   const [activeTab, setActiveTab] = useState<TabValue>("tetel");
 
   useEffect(() => {
-    const handleLocationChange = () => {
+    const params = new URLSearchParams(window.location.search);
+    const oldal = params.get("oldal");
+    const currentTab =
+      oldal === "kviz" ? "kviz" : oldal === "narracio" ? "narracio" : "tetel";
+
+    setActiveTab(currentTab);
+  }, []);
+
+  useEffect(() => {
+    const handlePopState = () => {
       const params = new URLSearchParams(window.location.search);
       const oldal = params.get("oldal");
       const currentTab =
         oldal === "kviz" ? "kviz" : oldal === "narracio" ? "narracio" : "tetel";
-
       setActiveTab(currentTab);
     };
 
-    handleLocationChange();
-    window.addEventListener("popstate", handleLocationChange);
+    window.addEventListener("popstate", handlePopState);
+
+    handlePopState();
 
     return () => {
-      window.removeEventListener("popstate", handleLocationChange);
+      window.removeEventListener("popstate", handlePopState);
     };
-  }, []);
+  }, [id]);
 
   const handleTabChange = (value: string) => {
     const newTab = value as TabValue;
@@ -81,7 +90,7 @@ export function ThesisTabs({
       params.delete("oldal");
     }
 
-    history.replaceState({}, "", url);
+    window.history.replaceState({}, "", url);
   };
 
   const quizData: QuizDataType = useMemo(
@@ -108,14 +117,18 @@ export function ThesisTabs({
     const allItems = [...processedQuestions, ...processedIncomplete];
 
     return shuffleArray(allItems);
-  }, [quizData, activeTab]);
+  }, [quizData]);
 
   if (!hasQuestions) {
     return <div>{children}</div>;
   }
 
   return (
-    <Tabs className="gap-0" value={activeTab} onValueChange={handleTabChange}>
+    <Tabs
+      className="flex flex-col gap-0"
+      value={activeTab}
+      onValueChange={handleTabChange}
+    >
       <div className="mb-4">
         <TabsList>
           <TabsTrigger value="tetel">Tétel</TabsTrigger>

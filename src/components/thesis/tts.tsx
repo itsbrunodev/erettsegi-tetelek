@@ -434,7 +434,7 @@ export function TextToSpeech({ type, id }: AudioPlayerProps) {
                   onValueChange={handleRateChange}
                 >
                   <SelectTrigger className="h-9 w-fit min-w-[90px]">
-                    <GaugeIcon className="mr-2 h-4 w-4" />
+                    <GaugeIcon />
                     <SelectValue />
                   </SelectTrigger>
                   <SelectContent>
@@ -482,7 +482,7 @@ export function TextToSpeech({ type, id }: AudioPlayerProps) {
         </CardContent>
       </Card>
       {alignedSegments ? (
-        <div className="mt-6 whitespace-pre-line text-foreground/80 leading-relaxed">
+        <div className="mt-6 whitespace-pre-line text-base text-foreground/80 leading-relaxed">
           {alignedSegments.map((segment, index) => {
             const isActive =
               currentTime >= segment.start && currentTime < segment.end;
@@ -490,7 +490,7 @@ export function TextToSpeech({ type, id }: AudioPlayerProps) {
             return (
               <span
                 className={cn(
-                  "rounded px-0.5 py-0.5 transition-colors duration-300",
+                  "rounded px-0.5 py-0.5 text-base transition-colors duration-300",
                   "cursor-pointer hover:bg-primary/10",
                   isActive && "bg-primary/20 text-foreground",
                 )}
