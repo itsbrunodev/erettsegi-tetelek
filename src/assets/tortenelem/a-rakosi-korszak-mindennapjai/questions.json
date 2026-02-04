@@ -1,121 +1,117 @@
 [
   {
-    "question": "Mi volt az Államvédelmi Hatóság (ÁVH) legfőbb feladata a Rákosi-korszakban?",
-    "reason": "Az ÁVH a kommunista párt politikai rendőrségeként a rendszer vélt vagy valós ellenségeinek felkutatásával, megfélemlítésével és likvidálásával biztosította a diktatúra fennmaradását.",
+    "question": "Melyik évben alakult meg az MDP, jelezve a nyílt kommunista diktatúra kezdetét?",
+    "reason": "1948-ban egyesült az MKP és az SZDP, létrehozva a Magyar Dolgozók Pártját, ez a 'fordulat éve'.",
     "choices": [
+      { "content": "1945", "correct": false },
+      { "content": "1948", "correct": true },
+      { "content": "1956", "correct": false },
+      { "content": "1949", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi volt az ÁVH feladata a Rákosi-rendszerben?",
+    "reason": "Az Államvédelmi Hatóság a rendszer politikai rendőrsége volt, amely a terrort és a megfélemlítést hajtotta végre.",
+    "choices": [
+      { "content": "A mezőgazdasági termelés irányítása", "correct": false },
       {
-        "content": "A gazdasági ötéves tervek végrehajtásának ellenőrzése.",
-        "correct": false
-      },
-      {
-        "content": "A politikai terror és a megfélemlítés fenntartása.",
+        "content": "A politikai terror és megfigyelés végrehajtása",
         "correct": true
       },
+      { "content": "Az iskolai oktatás szervezése", "correct": false },
+      { "content": "Külföldi segélyszállítmányok elosztása", "correct": false }
+    ]
+  },
+  {
+    "question": "Kiket neveztek 'kuláknak' ebben a korszakban?",
+    "reason": "A kulákok a módosabb gazdák voltak, akiket a rendszer ellenségnek tekintett és üldözött.",
+    "choices": [
+      { "content": "A pártvezetőket", "correct": false },
+      { "content": "A városi ipari munkásokat", "correct": false },
+      { "content": "A módosabb parasztgazdákat", "correct": true },
+      { "content": "A kitelepített arisztokratákat", "correct": false }
+    ]
+  },
+  {
+    "question": "Mit jelentett a 'vas és acél országa' szlogen?",
+    "reason": "Azt a gazdaságpolitikai célt, hogy Magyarországot erőltetett ütemben nehézipari központtá alakítsák.",
+    "choices": [
+      { "content": "A mezőgazdaság gépesítését", "correct": false },
+      { "content": "A vasúthálózat teljes felújítását", "correct": false },
+      { "content": "Az erőltetett nehézipari fejlesztést", "correct": true },
+      { "content": "A bányászok béremelését", "correct": false }
+    ]
+  },
+  {
+    "question": "Ki volt Rákosi Mátyás?",
+    "reason": "Ő volt az MDP főtitkára, az ország teljhatalmú vezetője a korszakban.",
+    "choices": [
+      { "content": "Az ÁVH vezetője", "correct": false },
+      { "content": "Népjóléti miniszter", "correct": false },
+      { "content": "Az MDP főtitkára, az ország diktátora", "correct": true },
+      { "content": "Híres költő", "correct": false }
+    ]
+  },
+  {
+    "question": "Mit nevezünk 'Ratkó-korszaknak'?",
+    "reason": "Ratkó Anna minisztersége alatt bevezetett abortusztilalom és gyermektelenségi adó időszakát.",
+    "choices": [
+      { "content": "A nagy ipari beruházások idejét", "correct": false },
       {
-        "content": "Kulturális propagandaanyagok készítése és terjesztése.",
-        "correct": false
+        "content": "A népesedéspolitikai szigorítások időszakát",
+        "correct": true
       },
+      { "content": "A színházi élet virágkorát", "correct": false },
+      { "content": "A beszolgáltatás eltörlésének idejét", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi történt 1953-ban, ami változást hozott a politikában?",
+    "reason": "Sztálin halála után Moszkva utasítására Nagy Imre lett a miniszterelnök, aki enyhítéseket vezetett be.",
+    "choices": [
+      { "content": "Kitört a forradalom", "correct": false },
       {
-        "content": "A termelőszövetkezetek (tsz-ek) megszervezése.",
+        "content": "Meghalt Sztálin, és Nagy Imre lett a kormányfő",
+        "correct": true
+      },
+      { "content": "Rákosi Mátyást kivégezték", "correct": false },
+      {
+        "content": "Magyarország kilépett a Varsói Szerződésből",
         "correct": false
       }
     ]
   },
   {
-    "question": "Melyik gazdasági modellt vezették be Magyarországon szovjet mintára?",
-    "reason": "A gazdaságot nem a piaci viszonyok, hanem egy központi szerv által kidolgozott, kötelező érvényű tervek (pl. ötéves terv) irányították, ez a tervgazdaság.",
+    "question": "Mi volt a 'szocialista munkaverseny' célja?",
+    "reason": "A dolgozók teljesítményének fokozása és a termelési normák emelése egymás közötti verseny révén.",
     "choices": [
-      { "content": "Szociális piacgazdaság", "correct": false },
-      { "content": "Merkantilizmus", "correct": false },
-      { "content": "Tervgazdaság", "correct": true },
-      { "content": "Kapitalista szabadverseny", "correct": false }
+      { "content": "A munkások pihenőidejének növelése", "correct": false },
+      { "content": "A termelési normák túlteljesítése", "correct": true },
+      { "content": "A külföldi munkavállalás ösztönzése", "correct": false },
+      { "content": "A sportversenyek népszerűsítése", "correct": false }
     ]
   },
   {
-    "question": "Mi volt a koncepciós perek (pl. a Rajk-per) elsődleges célja?",
-    "reason": "A koncepciós perek előre megírt forgatókönyv alapján zajlottak, ahol koholt vádakkal ítéltek el embereket, hogy a politikai ellenfelekkel és párton belüli riválisokkal is leszámoljanak.",
+    "question": "Hogyan hívták a korszakra jellemző lakhatási formát, ahol több család élt egy lakásban?",
+    "reason": "A lakáshiány miatt bevezetett kényszermegoldás volt a társbérlet.",
     "choices": [
-      { "content": "Az igazságszolgáltatás modernizálása.", "correct": false },
+      { "content": "Panellakás", "correct": false },
+      { "content": "Lakópark", "correct": false },
+      { "content": "Társbérlet", "correct": true },
+      { "content": "Kertes ház", "correct": false }
+    ]
+  },
+  {
+    "question": "Mi jellemezte a Rákosi-korszak oktatáspolitikáját?",
+    "reason": "Az iskolák államosítása után a tananyagot a marxista ideológia és az orosz nyelv dominálta.",
+    "choices": [
+      { "content": "A nyugati nyelvek kiemelt oktatása", "correct": false },
       {
-        "content": "A politikai ellenfelek megfélemlítése és likvidálása koholt vádakkal.",
+        "content": "Ideológiai nevelés és orosz nyelv kötelezővé tétele",
         "correct": true
       },
-      { "content": "A háborús bűnösök felelősségre vonása.", "correct": false },
-      {
-        "content": "A gazdasági bűncselekmények visszaszorítása.",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "Kit neveztek „Sztálin legjobb magyar tanítványának”?",
-    "reason": "Rákosi Mátyás, az MDP főtitkára és a korszak névadója, a sztálini modell legfőbb hazai képviselője volt, és a propaganda is így hivatkozott rá.",
-    "choices": [
-      { "content": "Nagy Imre", "correct": false },
-      { "content": "Kádár János", "correct": false },
-      { "content": "Rajk László", "correct": false },
-      { "content": "Rákosi Mátyás", "correct": true }
-    ]
-  },
-  {
-    "question": "Mely eseményhez vezettek közvetlenül a Rákosi-korszakban felhalmozódott társadalmi feszültségek?",
-    "reason": "A politikai elnyomás, a gazdasági nehézségek és az életszínvonal zuhanása olyan mértékű elégedetlenséget szült, amely az 1956-os forradalomban robbant ki.",
-    "choices": [
-      { "content": "A második világháború kitöréséhez.", "correct": false },
-      {
-        "content": "Az 1956-os forradalomhoz és szabadságharchoz.",
-        "correct": true
-      },
-      { "content": "A rendszerváltáshoz (1989).", "correct": false },
-      { "content": "Magyarország NATO-csatlakozásához.", "correct": false }
-    ]
-  },
-  {
-    "question": "Mit jelentett a kollektivizálás a mezőgazdaságban?",
-    "reason": "A kollektivizálás a paraszti magángazdaságok felszámolását és a gazdák erőszakos kényszerítését jelentette termelőszövetkezetekbe (tsz-ekbe).",
-    "choices": [
-      {
-        "content": "A parasztok magántulajdonának megerősítését.",
-        "correct": false
-      },
-      {
-        "content": "A mezőgazdasági géppark modernizálását.",
-        "correct": false
-      },
-      {
-        "content": "A magángazdaságok felszámolását és a gazdák tsz-ekbe kényszerítését.",
-        "correct": true
-      },
-      {
-        "content": "Önkéntes szövetkezeti mozgalom elindítását.",
-        "correct": false
-      }
-    ]
-  },
-  {
-    "question": "Az alábbiak közül melyek voltak a Rákosi-korszak jellemzői?",
-    "reason": "A korszakot a pártállam (az MDP totális hatalma), a tervgazdaság (a nehézipar erőltetett fejlesztésével) és a Rákosi köré épített személyi kultusz egyaránt jellemezte.",
-    "choices": [
-      { "content": "Többpártrendszer és sajtószabadság.", "correct": false },
-      { "content": "A pártállam kiépítése.", "correct": true },
-      { "content": "Központosított tervgazdaság.", "correct": true },
-      { "content": "Személyi kultusz.", "correct": true }
-    ]
-  },
-  {
-    "question": "Melyik történelmi esemény tette lehetővé a kommunista hatalomátvételt Magyarországon?",
-    "reason": "A második világháború után Magyarország a szovjet megszállási zónába került, ami döntő politikai és katonai hátteret biztosított a kommunista párt számára a hatalom megszerzéséhez.",
-    "choices": [
-      {
-        "content": "Az Osztrák-Magyar Monarchia felbomlása.",
-        "correct": false
-      },
-      { "content": "Az 1929-es nagy gazdasági világválság.", "correct": false },
-      {
-        "content": "A második világháború utáni szovjet megszállás.",
-        "correct": true
-      },
-      { "content": "A trianoni békeszerződés.", "correct": false }
+      { "content": "Az egyházi iskolák támogatása", "correct": false },
+      { "content": "A hittanoktatás kötelezővé tétele", "correct": false }
     ]
   }
 ]

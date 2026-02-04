@@ -111,6 +111,8 @@ A háború kimenetelét nemcsak a katonák döntötték el, hanem a gazdasági t
 
 A központi hatalmak, bár katonailag sokáig kitartottak, gazdaságilag és emberanyagban kimerültek az antant túlerejével szemben (különösen az USA belépése után). Az I. világháború vége a régi dinasztiák (Habsburg, Romanov, Hohenzollern, Oszmán) bukását és Európa térképének átrajzolását hozta el, de a békeszerződések igazságtalansága már magában hordozta a következő világháború csíráját.
 
+---
+
 # Összegzés
 
 ## Kapcsolódó Témák

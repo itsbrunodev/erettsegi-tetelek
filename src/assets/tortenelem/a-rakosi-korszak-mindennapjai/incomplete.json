@@ -1,68 +1,92 @@
 [
   {
-    "content": "A Rákosi-korszak politikai berendezkedése a ____ volt, ahol az állam és az MDP teljesen összefonódott.",
-    "missing": {
-      "choices": [
-        { "content": "alkotmányos monarchia", "correct": false },
-        { "content": "pártállam", "correct": true },
-        { "content": "többpárti demokrácia", "correct": false },
-        { "content": "katonai diktatúra", "correct": false }
-      ]
-    }
+    "sentence": "A Rákosi-rendszerben a politikai rendőrséget ____ néven ismerték és rettegték.",
+    "choices": [
+      { "content": "ÁVH", "correct": true },
+      { "content": "KGB", "correct": false },
+      { "content": "TEK", "correct": false },
+      { "content": "CIA", "correct": false }
+    ]
   },
   {
-    "content": "A tervgazdaság elsősorban a ____ erőltetett fejlesztését helyezte a középpontba.",
-    "missing": {
-      "choices": [
-        { "content": "mezőgazdaság", "correct": false },
-        { "content": "könnyűipar", "correct": false },
-        { "content": "nehézipar", "correct": true },
-        { "content": "szolgáltató szektor", "correct": false }
-      ]
-    }
+    "sentence": "A gazdaságpolitikában az erőltetett ____ volt a legfőbb célkitűzés.",
+    "choices": [
+      { "content": "iparosítás", "correct": true },
+      { "content": "kereskedelem", "correct": false },
+      { "content": "turizmus", "correct": false },
+      { "content": "mezőgazdaság", "correct": false }
+    ]
   },
   {
-    "content": "Az ítélet nélkül elhurcolt embereket ____ szállították, mint például Recskre vagy Hortobágyra.",
-    "missing": {
-      "choices": [
-        { "content": "munkásszállókra", "correct": false },
-        { "content": "börtönökbe", "correct": false },
-        { "content": "nevelőintézetekbe", "correct": false },
-        { "content": "internálótáborokba", "correct": true }
-      ]
-    }
+    "sentence": "A parasztoktól a terményt a ____ rendszerén keresztül vették el.",
+    "choices": [
+      { "content": "beszolgáltatás", "correct": true },
+      { "content": "tőzsde", "correct": false },
+      { "content": "piac", "correct": false },
+      { "content": "szövetkezet", "correct": false }
+    ]
   },
   {
-    "content": "A kommunista egyházüldözés legismertebb áldozata ____ volt, akit koncepciós perben ítéltek életfogytiglani börtönre.",
-    "missing": {
-      "choices": [
-        { "content": "Rákosi Mátyás", "correct": false },
-        { "content": "Rajk László", "correct": false },
-        { "content": "Mindszenty József", "correct": true },
-        { "content": "Nagy Imre", "correct": false }
-      ]
-    }
+    "sentence": "Rákosi Mátyást a propaganda gyakran 'népünk bölcs ____' nevezte.",
+    "choices": [
+      { "content": "vezérének", "correct": true },
+      { "content": "barátjának", "correct": false },
+      { "content": "királyának", "correct": false },
+      { "content": "tanárának", "correct": false }
+    ]
   },
   {
-    "content": "Rákosi Mátyás ____ kiépítése azt jelentette, hogy képei, szobrai és a róla szóló dicsőítő cikkek mindenhol jelen voltak.",
-    "missing": {
-      "choices": [
-        { "content": "személyi kultuszának", "correct": true },
-        { "content": "gazdasági programjának", "correct": false },
-        { "content": "ellenzéki mozgalmának", "correct": false },
-        { "content": "tudományos életművének", "correct": false }
-      ]
-    }
+    "sentence": "Az éjszakai letartóztatások miatti állandó félelmet a ____ kifejezéssel illették.",
+    "choices": [
+      { "content": "csengőfrász", "correct": true },
+      { "content": "lámpaláz", "correct": false },
+      { "content": "harangszó", "correct": false },
+      { "content": "ajtócsapkodás", "correct": false }
+    ]
   },
   {
-    "content": "____ halála után, 1953-tól egy átmeneti enyhülés kezdődött a diktatúrában, amely Nagy Imre első miniszterelnökségéhez vezetett.",
-    "missing": {
-      "choices": [
-        { "content": "Lenin", "correct": false },
-        { "content": "Rákosi", "correct": false },
-        { "content": "Hitler", "correct": false },
-        { "content": "Sztálin", "correct": true }
-      ]
-    }
+    "sentence": "A Ratkó-korszakban szigorú tilalmat vezettek be az ____ ellen.",
+    "choices": [
+      { "content": "abortusz", "correct": true },
+      { "content": "alkohol", "correct": false },
+      { "content": "dohányzás", "correct": false },
+      { "content": "házasság", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A rendszer ellenségeinek tartott családokat gyakran a ____ telepítették ki.",
+    "choices": [
+      { "content": "Hortobágyra", "correct": true },
+      { "content": "Balatonra", "correct": false },
+      { "content": "Bakonyba", "correct": false },
+      { "content": "Mátrába", "correct": false }
+    ]
+  },
+  {
+    "sentence": "1953-ban ____ Imre kormánya hirdette meg az 'új szakasz' politikáját.",
+    "choices": [
+      { "content": "Nagy", "correct": true },
+      { "content": "Kis", "correct": false },
+      { "content": "Kovács", "correct": false },
+      { "content": "Szabó", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A túltermelést végző munkásokat ____ nevezték és kitüntették.",
+    "choices": [
+      { "content": "sztahanovistának", "correct": true },
+      { "content": "aktivistának", "correct": false },
+      { "content": "szocialistának", "correct": false },
+      { "content": "kapitalistának", "correct": false }
+    ]
+  },
+  {
+    "sentence": "A Rákosi-korszak 1956. október ____-án ért véget a forradalommal.",
+    "choices": [
+      { "content": "23", "correct": true },
+      { "content": "15", "correct": false },
+      { "content": "06", "correct": false },
+      { "content": "01", "correct": false }
+    ]
   }
 ]
